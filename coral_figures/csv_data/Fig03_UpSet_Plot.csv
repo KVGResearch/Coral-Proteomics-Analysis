@@ -1,0 +1,19 @@
+species_combo,n_species_in_combo,protein_count
+A. tenuifolia,1,2353
+M. angulosa + A. tenuifolia,2,169
+D. australis + A. tenuifolia,2,169
+A. muricata + M. angulosa + D. australis + A. tenuifolia,4,77
+M. angulosa + D. australis + A. tenuifolia,3,69
+D. australis,1,62
+A. muricata + D. australis + A. tenuifolia,3,39
+M. angulosa,1,29
+A. muricata + A. tenuifolia,2,11
+A. muricata,1,9
+A. muricata + M. angulosa + A. tenuifolia,3,6
+A. muricata + D. australis,2,5
+M. angulosa + D. australis,2,4
+A. muricata + M. angulosa + D. australis,3,1
+A. muricata (set total),1,148
+M. angulosa (set total),1,355
+D. australis (set total),1,426
+A. tenuifolia (set total),1,2893

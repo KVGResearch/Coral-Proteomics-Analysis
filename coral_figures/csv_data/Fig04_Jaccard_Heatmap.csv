@@ -1,0 +1,5 @@
+species,A. muricata,M. angulosa,D. australis,A. tenuifolia
+A. muricata,1.0,0.2,0.27,0.046
+M. angulosa,0.2,1.0,0.24,0.11
+D. australis,0.27,0.24,1.0,0.119
+A. tenuifolia,0.046,0.11,0.119,1.0

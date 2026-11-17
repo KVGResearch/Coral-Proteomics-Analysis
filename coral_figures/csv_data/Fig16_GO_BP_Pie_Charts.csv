@@ -1,0 +1,1671 @@
+species,biological_process,protein_count
+A. muricata,microtubule-based process,4
+A. muricata,proton motive force-driven mitochondrial ATP synthesis,1
+A. muricata,protein transport,9
+A. muricata,vesicle-mediated transport,4
+A. muricata,intracellular protein transport,3
+A. muricata,receptor-mediated endocytosis,2
+A. muricata,signal transduction,5
+A. muricata,small GTPase-mediated signal transduction,2
+A. muricata,gamma-aminobutyric acid catabolic process,1
+A. muricata,positive regulation of cell junction assembly,1
+A. muricata,positive regulation of cell-cell adhesion mediated by cadherin,1
+A. muricata,positive regulation of endocytosis,1
+A. muricata,protein kinase C signaling,1
+A. muricata,protein localization to plasma membrane,1
+A. muricata,regulation of receptor internalization,1
+A. muricata,hydrogen peroxide catabolic process,4
+A. muricata,response to hydrogen peroxide,2
+A. muricata,glycolytic process,2
+A. muricata,endoplasmic reticulum to Golgi vesicle-mediated transport,2
+A. muricata,intra-Golgi vesicle-mediated transport,1
+A. muricata,"retrograde vesicle-mediated transport, Golgi to endoplasmic reticulum",2
+A. muricata,autophagosome maturation,1
+A. muricata,mitotic spindle disassembly,1
+A. muricata,"retrograde protein transport, ER to cytosol",1
+A. muricata,proteolysis,4
+A. muricata,ERAD pathway,1
+A. muricata,protein folding,3
+A. muricata,cell redox homeostasis,3
+A. muricata,cellular response to stress,2
+A. muricata,response to oxidative stress,2
+A. muricata,Rap protein signal transduction,1
+A. muricata,protein refolding,1
+A. muricata,actin filament polymerization,2
+A. muricata,Arp2/3 complex-mediated actin nucleation,2
+A. muricata,actin filament capping,3
+A. muricata,actin cytoskeleton organization,2
+A. muricata,microtubule-based movement,1
+A. muricata,D-gluconate metabolic process,1
+A. muricata,pentose-phosphate shunt,1
+A. muricata,translation,6
+A. muricata,proteasome-mediated ubiquitin-dependent protein catabolic process,1
+A. muricata,seryl-tRNA aminoacylation,1
+A. muricata,ubiquitin-dependent protein catabolic process,1
+A. muricata,actin polymerization or depolymerization,1
+A. muricata,mRNA processing,1
+A. muricata,"positive regulation of mRNA splicing, via spliceosome",1
+A. muricata,RNA splicing,1
+A. muricata,phosphocreatine biosynthetic process,1
+A. muricata,ATP metabolic process,1
+A. muricata,vacuolar acidification,1
+A. muricata,DNA repair,1
+A. muricata,DNA-templated transcription,1
+A. muricata,fatty acid beta-oxidation,2
+A. muricata,regulation of actin filament-based process,1
+A. muricata,glutamine biosynthetic process,1
+A. muricata,proteolysis involved in protein catabolic process,1
+A. muricata,glucose metabolic process,1
+A. muricata,"pentose-phosphate shunt, oxidative branch",1
+A. muricata,membrane fusion,1
+A. muricata,plasma membrane organization,1
+A. muricata,tricarboxylic acid cycle,4
+A. muricata,one-carbon metabolic process,1
+A. muricata,S-adenosylmethionine biosynthetic process,1
+A. muricata,endocytosis,1
+A. muricata,cellular response to glucose stimulus,1
+A. muricata,gluconeogenesis,1
+A. muricata,glycerol biosynthetic process from pyruvate,1
+A. muricata,oxaloacetate metabolic process,1
+A. muricata,propionate catabolic process,1
+A. muricata,response to lipid,1
+A. muricata,response to starvation,1
+A. muricata,respiratory electron transport chain,1
+A. muricata,mitochondrial ADP transmembrane transport,1
+A. muricata,mitochondrial ATP transmembrane transport,1
+A. muricata,negative regulation of mitochondrial outer membrane permeabilization involved in apoptotic signaling pathway,1
+A. muricata,arginyl-tRNA aminoacylation,1
+A. muricata,protein deubiquitination,1
+A. muricata,glyoxylate cycle,1
+A. muricata,isocitrate metabolic process,1
+A. muricata,NADP+ metabolic process,1
+A. muricata,mitochondrial translational elongation,1
+A. muricata,barbed-end actin filament capping,1
+A. muricata,cell surface receptor protein tyrosine kinase signaling pathway,1
+A. muricata,glutathione catabolic process,1
+A. muricata,adenylate cyclase-modulating G protein-coupled receptor signaling pathway,1
+A. muricata,mitochondrion organization,2
+A. muricata,positive regulation of apoptotic signaling pathway,1
+A. muricata,"retrograde transport, endosome to Golgi",1
+A. muricata,peptide catabolic process,1
+A. muricata,early endosome to Golgi transport,1
+A. muricata,Golgi localization,1
+A. muricata,regulation of gene expression,1
+A. muricata,endosome organization,1
+A. muricata,endosome to lysosome transport,1
+A. muricata,ribosomal small subunit biogenesis,1
+A. muricata,protein import into nucleus,1
+A. muricata,ribosomal subunit export from nucleus,1
+A. muricata,autophagosome assembly,1
+A. muricata,autophagy of mitochondrion,1
+A. muricata,glycophagy,1
+A. muricata,nucleophagy,1
+A. muricata,formaldehyde catabolic process,1
+A. muricata,fatty acid beta-oxidation using acyl-CoA oxidase,1
+A. muricata,lipid homeostasis,1
+A. muricata,detection of mechanical stimulus,1
+M. angulosa,actin filament capping,2
+M. angulosa,intracellular protein transport,18
+M. angulosa,receptor-mediated endocytosis,1
+M. angulosa,microtubule-based process,4
+M. angulosa,actin cytoskeleton organization,3
+M. angulosa,proton motive force-driven mitochondrial ATP synthesis,1
+M. angulosa,vesicle-mediated transport,7
+M. angulosa,intracellular potassium ion homeostasis,1
+M. angulosa,intracellular sodium ion homeostasis,1
+M. angulosa,potassium ion import across plasma membrane,1
+M. angulosa,proton transmembrane transport,1
+M. angulosa,sodium ion export across plasma membrane,1
+M. angulosa,protein folding,5
+M. angulosa,response to endoplasmic reticulum stress,3
+M. angulosa,mitotic chromosome condensation,1
+M. angulosa,microtubule-based movement,2
+M. angulosa,regulation of cytosolic calcium ion concentration,1
+M. angulosa,cortical actin cytoskeleton organization,1
+M. angulosa,establishment of spindle orientation,1
+M. angulosa,exocytosis,3
+M. angulosa,Golgi to plasma membrane transport,1
+M. angulosa,regulation of establishment or maintenance of cell polarity,1
+M. angulosa,regulation of Notch signaling pathway,1
+M. angulosa,gamma-aminobutyric acid catabolic process,1
+M. angulosa,signal transduction,6
+M. angulosa,translation,13
+M. angulosa,cellular response to calcium ion,1
+M. angulosa,membrane fusion,3
+M. angulosa,plasma membrane organization,3
+M. angulosa,cell migration,3
+M. angulosa,cell-cell adhesion,3
+M. angulosa,protein transport,12
+M. angulosa,mitochondrial ADP transmembrane transport,2
+M. angulosa,mitochondrial ATP transmembrane transport,2
+M. angulosa,negative regulation of mitochondrial outer membrane permeabilization involved in apoptotic signaling pathway,2
+M. angulosa,L-serine biosynthetic process,1
+M. angulosa,adenylate cyclase-activating dopamine receptor signaling pathway,1
+M. angulosa,SCF complex assembly,1
+M. angulosa,succinyl-CoA metabolic process,1
+M. angulosa,tricarboxylic acid cycle,6
+M. angulosa,endoplasmic reticulum to Golgi vesicle-mediated transport,7
+M. angulosa,intra-Golgi vesicle-mediated transport,6
+M. angulosa,"retrograde vesicle-mediated transport, Golgi to endoplasmic reticulum",3
+M. angulosa,glycolytic process,4
+M. angulosa,autophagosome maturation,1
+M. angulosa,mitotic spindle disassembly,1
+M. angulosa,"retrograde protein transport, ER to cytosol",1
+M. angulosa,actomyosin structure organization,2
+M. angulosa,ribosomal small subunit biogenesis,1
+M. angulosa,small GTPase-mediated signal transduction,4
+M. angulosa,amino acid catabolic process,1
+M. angulosa,fatty acid beta-oxidation using acyl-CoA dehydrogenase,1
+M. angulosa,positive regulation of ERK1 and ERK2 cascade,1
+M. angulosa,protein localization to plasma membrane,2
+M. angulosa,regulation of myoblast differentiation,1
+M. angulosa,fatty acid beta-oxidation,4
+M. angulosa,protein refolding,1
+M. angulosa,endoplasmic reticulum-plasma membrane tethering,1
+M. angulosa,lipid transport,2
+M. angulosa,mRNA processing,5
+M. angulosa,RNA splicing,5
+M. angulosa,dopaminergic neuron differentiation,1
+M. angulosa,neuron projection development,1
+M. angulosa,spliceosomal snRNP assembly,2
+M. angulosa,glyoxylate cycle,2
+M. angulosa,isocitrate metabolic process,1
+M. angulosa,NADP+ metabolic process,1
+M. angulosa,glutamate biosynthetic process,1
+M. angulosa,hydrogen peroxide catabolic process,2
+M. angulosa,response to hydrogen peroxide,1
+M. angulosa,phosphate-containing compound metabolic process,1
+M. angulosa,proteolysis,9
+M. angulosa,protein import into nucleus,2
+M. angulosa,ribosomal subunit export from nucleus,1
+M. angulosa,gluconeogenesis,3
+M. angulosa,actin filament organization,1
+M. angulosa,mitochondrial phosphate ion transmembrane transport,1
+M. angulosa,"putrescine biosynthetic process from arginine, via agmatine",1
+M. angulosa,ERAD pathway,1
+M. angulosa,COPII-coated vesicle cargo loading,2
+M. angulosa,regulation of intracellular pH,1
+M. angulosa,endocytic recycling,1
+M. angulosa,late endosome to Golgi transport,1
+M. angulosa,regulation of protein metabolic process,1
+M. angulosa,'de novo' IMP biosynthetic process,1
+M. angulosa,spliceosomal complex assembly,1
+M. angulosa,glycogen catabolic process,1
+M. angulosa,"mRNA splicing, via spliceosome",1
+M. angulosa,endocytosis,3
+M. angulosa,barbed-end actin filament capping,1
+M. angulosa,cell morphogenesis,1
+M. angulosa,negative regulation of filopodium assembly,1
+M. angulosa,regulation of lamellipodium assembly,1
+M. angulosa,ATP metabolic process,2
+M. angulosa,vacuolar acidification,2
+M. angulosa,fatty acid beta-oxidation using acyl-CoA oxidase,1
+M. angulosa,lipid homeostasis,1
+M. angulosa,clathrin-dependent endocytosis,2
+M. angulosa,adenylate cyclase-modulating G protein-coupled receptor signaling pathway,1
+M. angulosa,organelle transport along microtubule,1
+M. angulosa,protein secretion,1
+M. angulosa,neurotransmitter secretion,1
+M. angulosa,iron ion transport,1
+M. angulosa,lipid metabolic process,1
+M. angulosa,oligopeptide export from mitochondrion,1
+M. angulosa,animal organ morphogenesis,3
+M. angulosa,axon guidance,2
+M. angulosa,basement membrane assembly,1
+M. angulosa,substrate adhesion-dependent cell spreading,2
+M. angulosa,tissue development,3
+M. angulosa,tricarboxylic acid metabolic process,1
+M. angulosa,Golgi to plasma membrane protein transport,1
+M. angulosa,SNARE complex disassembly,1
+M. angulosa,lactate metabolic process,1
+M. angulosa,cell redox homeostasis,2
+M. angulosa,cellular response to stress,1
+M. angulosa,response to oxidative stress,1
+M. angulosa,cell division,2
+M. angulosa,vesicle docking,2
+M. angulosa,vesicle fusion,2
+M. angulosa,L-cysteine biosynthetic process from L-serine,1
+M. angulosa,chemical synaptic transmission,2
+M. angulosa,establishment or maintenance of epithelial cell apical/basal polarity,1
+M. angulosa,receptor clustering,2
+M. angulosa,receptor localization to synapse,1
+M. angulosa,regulation of postsynaptic membrane neurotransmitter receptor levels,1
+M. angulosa,pyrimidine nucleobase catabolic process,1
+M. angulosa,ubiquitin-dependent protein catabolic process,4
+M. angulosa,membrane protein proteolysis,1
+M. angulosa,signal peptide processing,1
+M. angulosa,glutamine biosynthetic process,1
+M. angulosa,protein localization to membrane,1
+M. angulosa,one-carbon metabolic process,2
+M. angulosa,S-adenosylmethionine cycle,1
+M. angulosa,Golgi localization,1
+M. angulosa,regulation of RNA splicing,1
+M. angulosa,establishment of mitotic spindle orientation,1
+M. angulosa,microtubule sliding,1
+M. angulosa,positive regulation of cell junction assembly,1
+M. angulosa,positive regulation of cell-cell adhesion mediated by cadherin,1
+M. angulosa,positive regulation of endocytosis,1
+M. angulosa,protein kinase C signaling,1
+M. angulosa,regulation of receptor internalization,1
+M. angulosa,actin cortical patch organization,1
+M. angulosa,Arp2/3 complex-mediated actin nucleation,1
+M. angulosa,"galactose catabolic process via UDP-galactose, Leloir pathway",1
+M. angulosa,Golgi organization,2
+M. angulosa,10-formyltetrahydrofolate catabolic process,1
+M. angulosa,D-gluconate metabolic process,1
+M. angulosa,pentose-phosphate shunt,1
+M. angulosa,phosphocreatine biosynthetic process,1
+M. angulosa,glucose metabolic process,1
+M. angulosa,glyceraldehyde-3-phosphate metabolic process,1
+M. angulosa,mitochondrial translational elongation,1
+M. angulosa,SREBP signaling pathway,1
+M. angulosa,calcineurin-mediated signaling,1
+M. angulosa,heterochromatin formation,1
+M. angulosa,nuclear envelope organization,1
+M. angulosa,nuclear migration,1
+M. angulosa,nuclear pore localization,1
+M. angulosa,protein localization to nuclear envelope,1
+M. angulosa,mitochondrion organization,1
+M. angulosa,mRNA export from nucleus,1
+M. angulosa,endoplasmic reticulum organization,1
+M. angulosa,protein processing,1
+M. angulosa,"mitochondrial electron transport, NADH to ubiquinone",1
+M. angulosa,mitochondrial respiratory chain complex I assembly,1
+M. angulosa,lipid oxidation,1
+M. angulosa,actin filament bundle assembly,1
+M. angulosa,ruffle assembly,1
+M. angulosa,resolution of meiotic recombination intermediates,1
+M. angulosa,NADPH regeneration,1
+M. angulosa,methylation,2
+M. angulosa,seryl-tRNA aminoacylation,1
+M. angulosa,endosome to lysosome transport,1
+M. angulosa,phagosome-lysosome fusion,1
+M. angulosa,proteasome-mediated ubiquitin-dependent protein catabolic process,1
+M. angulosa,regulation of protein catabolic process,1
+M. angulosa,positive regulation of apoptotic signaling pathway,1
+M. angulosa,malate-aspartate shuttle,1
+M. angulosa,phosphatidylinositol dephosphorylation,1
+M. angulosa,cytoplasmic translational initiation,1
+M. angulosa,DNA repair,2
+M. angulosa,DNA-templated transcription,2
+M. angulosa,glutaminyl-tRNA aminoacylation,1
+M. angulosa,COPII vesicle coating,1
+M. angulosa,endosome transport via multivesicular body sorting pathway,1
+M. angulosa,cellular response to glucose stimulus,1
+M. angulosa,glycerol biosynthetic process from pyruvate,1
+M. angulosa,oxaloacetate metabolic process,1
+M. angulosa,propionate catabolic process,1
+M. angulosa,response to lipid,1
+M. angulosa,response to starvation,1
+M. angulosa,synaptic vesicle fusion to presynaptic active zone membrane,1
+M. angulosa,synaptic vesicle priming,1
+M. angulosa,glycoprotein biosynthetic process,2
+M. angulosa,post-translational protein modification,2
+M. angulosa,fatty acid metabolic process,1
+M. angulosa,regulation of cell cycle,1
+M. angulosa,threonyl-tRNA aminoacylation,2
+M. angulosa,nucleosome organization,1
+M. angulosa,endosomal transport,1
+M. angulosa,transcription initiation at RNA polymerase II promoter,1
+M. angulosa,alanyl-tRNA aminoacylation,1
+M. angulosa,positive regulation of receptor internalization,1
+M. angulosa,regulation of Arp2/3 complex-mediated actin nucleation,1
+M. angulosa,carbohydrate metabolic process,1
+M. angulosa,dolichol-linked oligosaccharide biosynthetic process,1
+M. angulosa,GPI anchor biosynthetic process,1
+M. angulosa,protein O-linked glycosylation via mannose,1
+M. angulosa,anatomical structure morphogenesis,1
+M. angulosa,axoneme assembly,1
+M. angulosa,cilium movement involved in cell motility,1
+M. angulosa,motile cilium assembly,1
+M. angulosa,medium-chain fatty acid catabolic process,1
+M. angulosa,nucleobase-containing compound metabolic process,1
+M. angulosa,ribosomal small subunit assembly,2
+M. angulosa,"retrograde transport, endosome to Golgi",2
+M. angulosa,glyceraldehyde-3-phosphate biosynthetic process,1
+M. angulosa,glycerol catabolic process,1
+M. angulosa,ribosomal large subunit biogenesis,1
+M. angulosa,Rap protein signal transduction,1
+M. angulosa,"positive regulation of mRNA splicing, via spliceosome",1
+M. angulosa,early endosome to Golgi transport,1
+M. angulosa,acetyl-CoA biosynthetic process,1
+M. angulosa,citrate metabolic process,1
+M. angulosa,fatty acid biosynthetic process,1
+M. angulosa,COPII-coated vesicle budding,1
+M. angulosa,mRNA transport,1
+M. angulosa,positive regulation of TOR signaling,1
+M. angulosa,protein exit from endoplasmic reticulum,1
+M. angulosa,actin polymerization or depolymerization,1
+M. angulosa,neurotransmitter transport,1
+M. angulosa,cell differentiation,1
+M. angulosa,spermatogenesis,1
+M. angulosa,actin filament polymerization,1
+M. angulosa,endosome fission,1
+M. angulosa,endosome organization,1
+M. angulosa,regulation of actin nucleation,1
+M. angulosa,nucleotide metabolic process,1
+M. angulosa,late endosome to vacuole transport via multivesicular body sorting pathway,1
+M. angulosa,vesicle budding from membrane,1
+M. angulosa,"mRNA cis splicing, via spliceosome",1
+M. angulosa,spliceosomal conformational changes to generate catalytic conformation,1
+M. angulosa,spliceosomal tri-snRNP complex assembly,1
+M. angulosa,post-translational protein targeting to endoplasmic reticulum membrane,1
+M. angulosa,SRP-dependent cotranslational protein targeting to membrane,1
+M. angulosa,Golgi to vacuole transport,1
+M. angulosa,macroautophagy,1
+M. angulosa,regulation of protein localization to plasma membrane,1
+M. angulosa,vesicle fusion with Golgi apparatus,1
+M. angulosa,Golgi vesicle transport,2
+M. angulosa,fructose 6-phosphate metabolic process,1
+M. angulosa,protein N-linked glycosylation,1
+M. angulosa,UDP-N-acetylglucosamine metabolic process,1
+M. angulosa,steroid metabolic process,1
+M. angulosa,negative regulation of organ growth,1
+M. angulosa,regulation of DNA-templated transcription,1
+M. angulosa,regulation of hippo signaling,1
+M. angulosa,peptide catabolic process,1
+M. angulosa,methionine biosynthetic process,1
+M. angulosa,axonogenesis,1
+M. angulosa,cell adhesion,1
+M. angulosa,transcription elongation by RNA polymerase II,1
+M. angulosa,maturation of SSU-rRNA,1
+M. angulosa,cytoplasmic microtubule organization,1
+M. angulosa,microtubule nucleation,1
+M. angulosa,centrosome cycle,1
+M. angulosa,positive regulation of microtubule nucleation,1
+M. angulosa,regulation of Golgi organization,1
+M. angulosa,aldehyde metabolic process,1
+D. australis,microtubule-based process,7
+D. australis,intracellular protein transport,14
+D. australis,receptor-mediated endocytosis,1
+D. australis,vesicle-mediated transport,8
+D. australis,proton motive force-driven mitochondrial ATP synthesis,1
+D. australis,actin filament polymerization,3
+D. australis,Arp2/3 complex-mediated actin nucleation,3
+D. australis,autophagosome maturation,1
+D. australis,mitotic spindle disassembly,1
+D. australis,"retrograde protein transport, ER to cytosol",1
+D. australis,signal transduction,9
+D. australis,protein transport,16
+D. australis,small GTPase-mediated signal transduction,6
+D. australis,anatomical structure morphogenesis,1
+D. australis,cell division,3
+D. australis,positive regulation of cellular component organization,1
+D. australis,adenylate cyclase-activating dopamine receptor signaling pathway,1
+D. australis,gamma-aminobutyric acid catabolic process,1
+D. australis,intracellular potassium ion homeostasis,2
+D. australis,intracellular sodium ion homeostasis,2
+D. australis,potassium ion import across plasma membrane,2
+D. australis,proton transmembrane transport,2
+D. australis,sodium ion export across plasma membrane,2
+D. australis,actin filament capping,3
+D. australis,Rap protein signal transduction,1
+D. australis,box C/D sno(s)RNA 3'-end processing,1
+D. australis,microtubule-based movement,5
+D. australis,animal organ morphogenesis,1
+D. australis,axon guidance,1
+D. australis,cell junction assembly,1
+D. australis,cell migration,1
+D. australis,post-embryonic development,1
+D. australis,ATP metabolic process,2
+D. australis,vacuolar acidification,2
+D. australis,adenylate cyclase-modulating G protein-coupled receptor signaling pathway,3
+D. australis,one-carbon metabolic process,5
+D. australis,S-adenosylmethionine biosynthetic process,1
+D. australis,seryl-tRNA aminoacylation,1
+D. australis,regulation of cell cycle,1
+D. australis,fatty acid catabolic process,1
+D. australis,DNA repair,2
+D. australis,DNA-templated transcription,6
+D. australis,glycolytic process,4
+D. australis,double-strand break repair via homologous recombination,1
+D. australis,endosomal transport,3
+D. australis,translation,16
+D. australis,hydrogen peroxide catabolic process,3
+D. australis,response to hydrogen peroxide,1
+D. australis,proteolysis,8
+D. australis,ribosomal small subunit biogenesis,1
+D. australis,endoplasmic reticulum to Golgi vesicle-mediated transport,6
+D. australis,Golgi localization,1
+D. australis,"retrograde vesicle-mediated transport, Golgi to endoplasmic reticulum",4
+D. australis,mitochondrial ADP transmembrane transport,2
+D. australis,mitochondrial ATP transmembrane transport,2
+D. australis,negative regulation of mitochondrial outer membrane permeabilization involved in apoptotic signaling pathway,2
+D. australis,chromatin organization,3
+D. australis,glyoxylate cycle,2
+D. australis,isocitrate metabolic process,2
+D. australis,NADP+ metabolic process,2
+D. australis,tricarboxylic acid cycle,3
+D. australis,intra-Golgi vesicle-mediated transport,3
+D. australis,membrane fusion,1
+D. australis,plasma membrane organization,1
+D. australis,actin cytoskeleton organization,5
+D. australis,mRNA processing,5
+D. australis,"positive regulation of mRNA splicing, via spliceosome",1
+D. australis,RNA splicing,5
+D. australis,cell-cell adhesion,3
+D. australis,regulation of protein localization,1
+D. australis,Wnt signaling pathway,1
+D. australis,endocytosis,7
+D. australis,autophagosome assembly,1
+D. australis,autophagy of mitochondrion,2
+D. australis,glycophagy,1
+D. australis,nucleophagy,1
+D. australis,protein import into nucleus,2
+D. australis,ribosomal subunit export from nucleus,1
+D. australis,actin cortical patch organization,1
+D. australis,cell redox homeostasis,3
+D. australis,cellular response to stress,2
+D. australis,response to oxidative stress,2
+D. australis,ubiquitin-dependent protein catabolic process,5
+D. australis,proteasome-mediated ubiquitin-dependent protein catabolic process,3
+D. australis,calcineurin-mediated signaling,1
+D. australis,glycine biosynthetic process from L-serine,1
+D. australis,regulation of translation,1
+D. australis,tetrahydrofolate metabolic process,1
+D. australis,mitochondrion organization,2
+D. australis,fatty acid beta-oxidation using acyl-CoA oxidase,1
+D. australis,lipid homeostasis,1
+D. australis,barbed-end actin filament capping,2
+D. australis,"mitochondrial electron transport, NADH to ubiquinone",1
+D. australis,positive regulation of cell junction assembly,1
+D. australis,positive regulation of cell-cell adhesion mediated by cadherin,1
+D. australis,positive regulation of endocytosis,1
+D. australis,protein kinase C signaling,1
+D. australis,protein localization to plasma membrane,2
+D. australis,regulation of receptor internalization,1
+D. australis,negative regulation of translation,1
+D. australis,"nuclear-transcribed mRNA catabolic process, deadenylation-dependent decay",1
+D. australis,L-glutamate catabolic process,1
+D. australis,L-phenylalanine catabolic process,1
+D. australis,L-tyrosine catabolic process,1
+D. australis,protein refolding,1
+D. australis,"mRNA splicing, via spliceosome",6
+D. australis,cell morphogenesis,1
+D. australis,negative regulation of filopodium assembly,1
+D. australis,regulation of lamellipodium assembly,1
+D. australis,cytosolic ribosome assembly,1
+D. australis,ribosomal large subunit biogenesis,1
+D. australis,cell adhesion,2
+D. australis,creatine biosynthetic process,1
+D. australis,organelle transport along microtubule,1
+D. australis,protein secretion,1
+D. australis,mitochondrial translational elongation,1
+D. australis,D-gluconate metabolic process,1
+D. australis,pentose-phosphate shunt,1
+D. australis,glucose metabolic process,2
+D. australis,"pentose-phosphate shunt, oxidative branch",1
+D. australis,"mRNA cis splicing, via spliceosome",1
+D. australis,spliceosomal conformational changes to generate catalytic conformation,1
+D. australis,spliceosomal tri-snRNP complex assembly,1
+D. australis,fatty acid beta-oxidation,2
+D. australis,regulation of actin filament-based process,1
+D. australis,late endosome to vacuole transport via multivesicular body sorting pathway,1
+D. australis,vesicle budding from membrane,1
+D. australis,10-formyltetrahydrofolate catabolic process,1
+D. australis,regulation of signal transduction,1
+D. australis,regulation of macromolecule metabolic process,1
+D. australis,early endosome to Golgi transport,1
+D. australis,carbohydrate metabolic process,6
+D. australis,glucosamine catabolic process,1
+D. australis,N-acetylglucosamine catabolic process,1
+D. australis,N-acetylneuraminate catabolic process,1
+D. australis,protein folding,6
+D. australis,threonyl-tRNA aminoacylation,1
+D. australis,regulation of protein catabolic process,2
+D. australis,exocytosis,2
+D. australis,neurotransmitter secretion,1
+D. australis,cytoskeleton organization,1
+D. australis,prolyl-tRNA aminoacylation,1
+D. australis,nucleobase-containing compound metabolic process,1
+D. australis,amino acid catabolic process,1
+D. australis,fatty acid beta-oxidation using acyl-CoA dehydrogenase,2
+D. australis,peptide catabolic process,2
+D. australis,cytoplasmic translation,1
+D. australis,ribosomal large subunit assembly,1
+D. australis,positive regulation of ERK1 and ERK2 cascade,1
+D. australis,UDP-N-acetylglucosamine biosynthetic process,2
+D. australis,regulation of cell migration,1
+D. australis,cellular response to starvation,2
+D. australis,negative regulation of autophagy,2
+D. australis,positive regulation of TORC1 signaling,2
+D. australis,COPI coating of Golgi vesicle,1
+D. australis,COPII-coated vesicle cargo loading,1
+D. australis,"propionate metabolic process, methylmalonyl pathway",1
+D. australis,proteolysis involved in protein catabolic process,2
+D. australis,tyrosyl-tRNA aminoacylation,1
+D. australis,L-cysteine biosynthetic process via L-cystathionine,1
+D. australis,transsulfuration,1
+D. australis,L-histidine catabolic process,1
+D. australis,butyrate catabolic process,1
+D. australis,Golgi organization,2
+D. australis,vacuole organization,1
+D. australis,phosphocreatine biosynthetic process,2
+D. australis,tryptophanyl-tRNA aminoacylation,1
+D. australis,spliceosomal snRNP assembly,2
+D. australis,protein K63-linked ubiquitination,1
+D. australis,signal peptide processing,1
+D. australis,protein ufmylation,1
+D. australis,branched-chain amino acid catabolic process,1
+D. australis,response to nutrient,1
+D. australis,methionine biosynthetic process,1
+D. australis,methylation,3
+D. australis,ERAD pathway,1
+D. australis,spliceosomal complex assembly,1
+D. australis,protein ubiquitination,1
+D. australis,regulation of dendrite morphogenesis,1
+D. australis,regulation of transport,1
+D. australis,"retrograde transport, endosome to Golgi",3
+D. australis,L-leucine catabolic process,1
+D. australis,glycosaminoglycan catabolic process,1
+D. australis,heparan sulfate proteoglycan catabolic process,1
+D. australis,centrosome localization,1
+D. australis,chromosome segregation,1
+D. australis,establishment of mitotic spindle orientation,2
+D. australis,microtubule nucleation,2
+D. australis,mitotic centrosome separation,1
+D. australis,vesicle transport along microtubule,1
+D. australis,transcription by RNA polymerase I,1
+D. australis,transcription by RNA polymerase II,1
+D. australis,tRNA transcription by RNA polymerase III,1
+D. australis,actin filament organization,2
+D. australis,chitin catabolic process,1
+D. australis,cilium assembly,1
+D. australis,cilium movement involved in cell motility,1
+D. australis,actin polymerization or depolymerization,1
+D. australis,lipid transport,1
+D. australis,mRNA 3'-end processing,1
+D. australis,chromosome organization,1
+D. australis,glutamine biosynthetic process,1
+D. australis,oligosaccharide metabolic process,1
+D. australis,protein N-linked glycosylation,1
+D. australis,negative regulation of transcription by RNA polymerase II,1
+D. australis,phosphatidylcholine biosynthetic process,1
+D. australis,receptor internalization,1
+D. australis,synaptic vesicle budding from presynaptic endocytic zone membrane,1
+D. australis,cell projection morphogenesis,1
+D. australis,regulation of DNA-templated transcription,1
+D. australis,glycoprotein biosynthetic process,2
+D. australis,post-translational protein modification,1
+D. australis,medium-chain fatty acid catabolic process,1
+D. australis,GDP-mannose biosynthetic process,1
+D. australis,endosome fission,1
+D. australis,endosome organization,2
+D. australis,regulation of actin nucleation,1
+D. australis,cell projection organization,1
+D. australis,cell-cell junction organization,1
+D. australis,positive regulation of integrin-mediated signaling pathway,1
+D. australis,positive regulation of substrate adhesion-dependent cell spreading,1
+D. australis,formation of cytoplasmic translation initiation complex,2
+D. australis,anterograde axonal transport,1
+D. australis,purine nucleobase metabolic process,1
+D. australis,purine nucleotide metabolic process,1
+D. australis,arginyl-tRNA aminoacylation,1
+D. australis,regulation of myoblast differentiation,1
+D. australis,mRNA transport,1
+D. australis,protein export from nucleus,1
+D. australis,ribosomal large subunit export from nucleus,1
+D. australis,ribosomal small subunit export from nucleus,1
+D. australis,cap-dependent translational initiation,1
+D. australis,malate-aspartate shuttle,1
+D. australis,mitochondrial citrate transmembrane transport,1
+D. australis,intracellular glucose homeostasis,1
+D. australis,protein homooligomerization,1
+D. australis,protein homotetramerization,1
+D. australis,regulation of gluconeogenesis,1
+D. australis,S-adenosylhomocysteine metabolic process,1
+D. australis,S-adenosylmethionine metabolic process,1
+D. australis,sarcosine metabolic process,1
+D. australis,protoporphyrinogen IX biosynthetic process,1
+D. australis,cyclic threonylcarbamoyladenosine biosynthetic process,1
+D. australis,tRNA processing,1
+D. australis,tRNA threonylcarbamoyladenosine metabolic process,1
+D. australis,positive regulation of DNA-templated transcription,1
+D. australis,sodium ion transport,1
+D. australis,cell surface receptor protein tyrosine kinase signaling pathway,2
+D. australis,intracellular signal transduction,1
+D. australis,"fructose 1,6-bisphosphate metabolic process",1
+D. australis,fructose 6-phosphate metabolic process,1
+D. australis,fructose metabolic process,1
+D. australis,gluconeogenesis,2
+D. australis,sucrose biosynthetic process,1
+D. australis,chemical synaptic transmission,1
+D. australis,establishment or maintenance of epithelial cell apical/basal polarity,1
+D. australis,receptor clustering,1
+D. australis,receptor localization to synapse,1
+D. australis,regulation of postsynaptic membrane neurotransmitter receptor levels,1
+D. australis,endocytic recycling,1
+D. australis,piecemeal microautophagy of the nucleus,1
+D. australis,reticulophagy,1
+D. australis,microtubule sliding,1
+D. australis,ribosome biogenesis,1
+D. australis,actomyosin structure organization,1
+D. australis,glyceraldehyde-3-phosphate metabolic process,1
+D. australis,phosphatidylinositol dephosphorylation,1
+D. australis,histidyl-tRNA aminoacylation,1
+D. australis,mitochondrial translation,1
+D. australis,regulation of gene expression,1
+D. australis,phosphatidylethanolamine biosynthetic process,1
+D. australis,respiratory electron transport chain,1
+D. australis,actin filament-based movement,1
+D. australis,trehalose catabolic process,1
+D. australis,DNA metabolic process,1
+D. australis,ganglioside catabolic process,1
+D. australis,glycosaminoglycan metabolic process,1
+D. australis,actin filament depolymerization,1
+D. australis,locomotion,1
+D. australis,regulation of actin filament depolymerization,1
+D. australis,regulation of actin filament polymerization,1
+D. australis,"neurotransmitter receptor transport, endosome to postsynaptic membrane",1
+D. australis,regulation of modification of synaptic structure,1
+D. australis,"regulation of neurotransmitter receptor transport, endosome to postsynaptic membrane",1
+D. australis,regulation of recycling endosome localization within postsynapse,1
+D. australis,cytoplasmic microtubule organization,1
+D. australis,homophilic cell-cell adhesion,1
+D. australis,phosphatidylinositol phosphate biosynthetic process,1
+D. australis,neurotransmitter transport,1
+D. australis,vesicle docking,1
+D. australis,vesicle fusion,1
+D. australis,UDP-alpha-D-glucose metabolic process,1
+D. australis,glutaminyl-tRNA aminoacylation,1
+D. australis,microtubule cytoskeleton organization,1
+D. australis,nucleotide-excision repair,1
+D. australis,transcription initiation at RNA polymerase II promoter,1
+D. australis,glycogen biosynthetic process,1
+D. australis,mRNA catabolic process,1
+D. australis,ciliary basal body-plasma membrane docking,1
+D. australis,ciliary transition zone assembly,1
+D. australis,non-motile cilium assembly,1
+D. australis,regulation of neurotransmitter secretion,1
+A. tenuifolia,actin filament capping,3
+A. tenuifolia,mitotic chromosome condensation,1
+A. tenuifolia,intracellular protein transport,40
+A. tenuifolia,receptor-mediated endocytosis,5
+A. tenuifolia,vesicle-mediated transport,19
+A. tenuifolia,actin cytoskeleton organization,11
+A. tenuifolia,animal organ morphogenesis,7
+A. tenuifolia,axon guidance,14
+A. tenuifolia,substrate adhesion-dependent cell spreading,2
+A. tenuifolia,tissue development,6
+A. tenuifolia,membrane fusion,5
+A. tenuifolia,plasma membrane organization,5
+A. tenuifolia,carboxylic acid metabolic process,5
+A. tenuifolia,microtubule-based process,12
+A. tenuifolia,microtubule-based movement,13
+A. tenuifolia,cell-cell adhesion,20
+A. tenuifolia,proton motive force-driven mitochondrial ATP synthesis,1
+A. tenuifolia,intracellular potassium ion homeostasis,2
+A. tenuifolia,intracellular sodium ion homeostasis,2
+A. tenuifolia,potassium ion import across plasma membrane,4
+A. tenuifolia,proton transmembrane transport,1
+A. tenuifolia,sodium ion export across plasma membrane,2
+A. tenuifolia,fatty acid beta-oxidation,12
+A. tenuifolia,adherens junction organization,1
+A. tenuifolia,calcium-dependent cell-cell adhesion,1
+A. tenuifolia,cell migration,14
+A. tenuifolia,cell morphogenesis,3
+A. tenuifolia,cell-cell adhesion mediated by cadherin,1
+A. tenuifolia,cell-cell junction assembly,1
+A. tenuifolia,homophilic cell-cell adhesion,11
+A. tenuifolia,establishment or maintenance of cell polarity,3
+A. tenuifolia,positive regulation of cell junction assembly,1
+A. tenuifolia,positive regulation of cell-cell adhesion mediated by cadherin,1
+A. tenuifolia,positive regulation of endocytosis,1
+A. tenuifolia,protein kinase C signaling,1
+A. tenuifolia,protein localization to plasma membrane,4
+A. tenuifolia,regulation of receptor internalization,1
+A. tenuifolia,protein refolding,1
+A. tenuifolia,glyoxylate cycle,5
+A. tenuifolia,isocitrate metabolic process,5
+A. tenuifolia,NADP+ metabolic process,2
+A. tenuifolia,tricarboxylic acid cycle,19
+A. tenuifolia,glycoprotein biosynthetic process,7
+A. tenuifolia,glyceraldehyde-3-phosphate metabolic process,4
+A. tenuifolia,cell surface receptor signaling pathway,6
+A. tenuifolia,cellular response to calcium ion,5
+A. tenuifolia,protein folding,26
+A. tenuifolia,actin filament organization,14
+A. tenuifolia,fructose 6-phosphate metabolic process,3
+A. tenuifolia,protein N-linked glycosylation,7
+A. tenuifolia,UDP-N-acetylglucosamine metabolic process,1
+A. tenuifolia,copper ion transport,2
+A. tenuifolia,iron ion transport,12
+A. tenuifolia,autophagosome maturation,2
+A. tenuifolia,mitotic spindle disassembly,1
+A. tenuifolia,"retrograde protein transport, ER to cytosol",3
+A. tenuifolia,signal transduction,28
+A. tenuifolia,NADPH regeneration,2
+A. tenuifolia,cell-cell junction organization,1
+A. tenuifolia,pointed-end actin filament capping,1
+A. tenuifolia,protein localization to cell-cell junction,1
+A. tenuifolia,regulation of apoptotic process,9
+A. tenuifolia,endosome transport via multivesicular body sorting pathway,1
+A. tenuifolia,basement membrane assembly,1
+A. tenuifolia,regulation of myoblast differentiation,1
+A. tenuifolia,cortical actin cytoskeleton organization,3
+A. tenuifolia,establishment of spindle orientation,1
+A. tenuifolia,exocytosis,4
+A. tenuifolia,Golgi to plasma membrane transport,3
+A. tenuifolia,regulation of establishment or maintenance of cell polarity,1
+A. tenuifolia,regulation of Notch signaling pathway,2
+A. tenuifolia,positive regulation of sarcomere organization,1
+A. tenuifolia,positive regulation of striated muscle contraction,1
+A. tenuifolia,sarcomere organization,1
+A. tenuifolia,response to endoplasmic reticulum stress,6
+A. tenuifolia,lipid catabolic process,8
+A. tenuifolia,cell adhesion,8
+A. tenuifolia,phosphocreatine biosynthetic process,1
+A. tenuifolia,regulation of cytosolic calcium ion concentration,5
+A. tenuifolia,glucose metabolic process,6
+A. tenuifolia,glycolytic process,12
+A. tenuifolia,L-aspartate catabolic process,1
+A. tenuifolia,peptide catabolic process,8
+A. tenuifolia,proteolysis,95
+A. tenuifolia,"retrograde transport, endosome to Golgi",5
+A. tenuifolia,protein transport,47
+A. tenuifolia,small GTPase-mediated signal transduction,10
+A. tenuifolia,endoplasmic reticulum to Golgi vesicle-mediated transport,17
+A. tenuifolia,intra-Golgi vesicle-mediated transport,7
+A. tenuifolia,"retrograde vesicle-mediated transport, Golgi to endoplasmic reticulum",10
+A. tenuifolia,gluconeogenesis,8
+A. tenuifolia,"mRNA cis splicing, via spliceosome",3
+A. tenuifolia,spliceosomal conformational changes to generate catalytic conformation,1
+A. tenuifolia,spliceosomal tri-snRNP complex assembly,3
+A. tenuifolia,cellular response to glucose stimulus,2
+A. tenuifolia,glycerol biosynthetic process from pyruvate,2
+A. tenuifolia,oxaloacetate metabolic process,3
+A. tenuifolia,propionate catabolic process,2
+A. tenuifolia,response to lipid,2
+A. tenuifolia,response to starvation,3
+A. tenuifolia,mitochondrial ADP transmembrane transport,1
+A. tenuifolia,mitochondrial ATP transmembrane transport,1
+A. tenuifolia,negative regulation of mitochondrial outer membrane permeabilization involved in apoptotic signaling pathway,1
+A. tenuifolia,hydrogen peroxide catabolic process,5
+A. tenuifolia,response to hydrogen peroxide,2
+A. tenuifolia,protein processing involved in protein targeting to mitochondrion,2
+A. tenuifolia,response to oxidative stress,15
+A. tenuifolia,regulation of translation,8
+A. tenuifolia,carbohydrate metabolic process,36
+A. tenuifolia,fatty acid beta-oxidation using acyl-CoA dehydrogenase,3
+A. tenuifolia,urea catabolic process,2
+A. tenuifolia,fucose metabolic process,8
+A. tenuifolia,glycoside catabolic process,8
+A. tenuifolia,L-valine catabolic process,3
+A. tenuifolia,thymine catabolic process,1
+A. tenuifolia,actin filament bundle assembly,3
+A. tenuifolia,mannose metabolic process,4
+A. tenuifolia,ERAD pathway,8
+A. tenuifolia,malate-aspartate shuttle,1
+A. tenuifolia,gamma-aminobutyric acid catabolic process,2
+A. tenuifolia,SREBP signaling pathway,1
+A. tenuifolia,transmembrane transport,3
+A. tenuifolia,actomyosin structure organization,8
+A. tenuifolia,endoplasmic reticulum unfolded protein response,4
+A. tenuifolia,glycogen catabolic process,3
+A. tenuifolia,endoplasmic reticulum-plasma membrane tethering,3
+A. tenuifolia,lipid transport,7
+A. tenuifolia,heterochromatin formation,2
+A. tenuifolia,nuclear envelope organization,2
+A. tenuifolia,nuclear migration,1
+A. tenuifolia,nuclear pore localization,1
+A. tenuifolia,protein localization to nuclear envelope,1
+A. tenuifolia,positive regulation of ERK1 and ERK2 cascade,2
+A. tenuifolia,endocytosis,15
+A. tenuifolia,'de novo' IMP biosynthetic process,2
+A. tenuifolia,fatty acid beta-oxidation using acyl-CoA oxidase,3
+A. tenuifolia,lipid homeostasis,3
+A. tenuifolia,mRNA processing,20
+A. tenuifolia,resolution of meiotic recombination intermediates,1
+A. tenuifolia,RNA splicing,19
+A. tenuifolia,"galactose catabolic process via UDP-galactose, Leloir pathway",4
+A. tenuifolia,actin filament network formation,1
+A. tenuifolia,collagen catabolic process,2
+A. tenuifolia,extracellular matrix organization,12
+A. tenuifolia,glycerol-3-phosphate metabolic process,1
+A. tenuifolia,positive regulation of translational elongation,1
+A. tenuifolia,positive regulation of translational termination,1
+A. tenuifolia,D-gluconate metabolic process,1
+A. tenuifolia,pentose-phosphate shunt,1
+A. tenuifolia,animal organ development,1
+A. tenuifolia,system development,1
+A. tenuifolia,barbed-end actin filament capping,6
+A. tenuifolia,clathrin-dependent endocytosis,3
+A. tenuifolia,axonogenesis,3
+A. tenuifolia,post-Golgi vesicle-mediated transport,4
+A. tenuifolia,'de novo' GDP-L-fucose biosynthetic process,1
+A. tenuifolia,monoatomic ion transmembrane transport,3
+A. tenuifolia,prolyl-tRNA aminoacylation,1
+A. tenuifolia,amino acid catabolic process,1
+A. tenuifolia,ATP synthesis coupled electron transport,3
+A. tenuifolia,actin polymerization or depolymerization,5
+A. tenuifolia,lipid oxidation,7
+A. tenuifolia,regulation of Arp2/3 complex-mediated actin nucleation,1
+A. tenuifolia,regulation of RNA metabolic process,1
+A. tenuifolia,"pentose-phosphate shunt, oxidative branch",1
+A. tenuifolia,ATP metabolic process,3
+A. tenuifolia,actin filament depolymerization,2
+A. tenuifolia,locomotion,1
+A. tenuifolia,regulation of actin filament depolymerization,1
+A. tenuifolia,regulation of actin filament polymerization,9
+A. tenuifolia,mitochondrial phosphate ion transmembrane transport,1
+A. tenuifolia,adenylate cyclase-modulating G protein-coupled receptor signaling pathway,4
+A. tenuifolia,mitochondrion organization,7
+A. tenuifolia,vacuolar acidification,2
+A. tenuifolia,epoxide metabolic process,1
+A. tenuifolia,proteasome-mediated ubiquitin-dependent protein catabolic process,13
+A. tenuifolia,cell differentiation,9
+A. tenuifolia,spermatogenesis,4
+A. tenuifolia,2-oxoglutarate metabolic process,1
+A. tenuifolia,protein polyubiquitination,3
+A. tenuifolia,nucleotide catabolic process,1
+A. tenuifolia,glycerol metabolic process,2
+A. tenuifolia,glycerol-3-phosphate biosynthetic process,2
+A. tenuifolia,triglyceride metabolic process,2
+A. tenuifolia,lactate catabolic process,1
+A. tenuifolia,mitochondrial glycyl-tRNA aminoacylation,1
+A. tenuifolia,anatomical structure morphogenesis,2
+A. tenuifolia,chemical synaptic transmission,2
+A. tenuifolia,mRNA catabolic process,1
+A. tenuifolia,succinyl-CoA metabolic process,2
+A. tenuifolia,canonical Wnt signaling pathway,7
+A. tenuifolia,non-canonical Wnt signaling pathway,6
+A. tenuifolia,cell junction assembly,1
+A. tenuifolia,post-embryonic development,1
+A. tenuifolia,double-strand break repair via homologous recombination,1
+A. tenuifolia,endosomal transport,7
+A. tenuifolia,COPII-coated vesicle cargo loading,4
+A. tenuifolia,cell redox homeostasis,6
+A. tenuifolia,cellular response to oxidative stress,3
+A. tenuifolia,post-translational protein modification,2
+A. tenuifolia,pyruvate decarboxylation to acetyl-CoA,2
+A. tenuifolia,one-carbon metabolic process,9
+A. tenuifolia,S-adenosylmethionine biosynthetic process,3
+A. tenuifolia,mitochondrial translational elongation,1
+A. tenuifolia,protein import into nucleus,20
+A. tenuifolia,glutathione metabolic process,11
+A. tenuifolia,early endosome to Golgi transport,2
+A. tenuifolia,L-glutamate catabolic process,1
+A. tenuifolia,"mRNA splicing, via spliceosome",14
+A. tenuifolia,negative regulation of transcription by RNA polymerase II,2
+A. tenuifolia,rRNA processing,2
+A. tenuifolia,establishment or maintenance of epithelial cell apical/basal polarity,3
+A. tenuifolia,receptor clustering,2
+A. tenuifolia,receptor localization to synapse,2
+A. tenuifolia,fatty acid metabolic process,13
+A. tenuifolia,L-proline catabolic process to L-glutamate,1
+A. tenuifolia,collagen fibril organization,1
+A. tenuifolia,regulation of postsynaptic membrane neurotransmitter receptor levels,2
+A. tenuifolia,N-glycan processing,3
+A. tenuifolia,'de novo' pyrimidine nucleobase biosynthetic process,3
+A. tenuifolia,glutamine metabolic process,3
+A. tenuifolia,UDP-alpha-D-glucose metabolic process,1
+A. tenuifolia,arginyl-tRNA aminoacylation,1
+A. tenuifolia,oligopeptide export from mitochondrion,4
+A. tenuifolia,cilium assembly,6
+A. tenuifolia,cilium movement involved in cell motility,4
+A. tenuifolia,UDP-N-acetylglucosamine biosynthetic process,3
+A. tenuifolia,protein import into mitochondrial matrix,5
+A. tenuifolia,cell division,11
+A. tenuifolia,positive regulation of cellular component organization,1
+A. tenuifolia,organelle transport along microtubule,1
+A. tenuifolia,protein secretion,2
+A. tenuifolia,hemostasis,1
+A. tenuifolia,fumarate metabolic process,1
+A. tenuifolia,malate metabolic process,2
+A. tenuifolia,DNA damage response,2
+A. tenuifolia,ubiquitin-dependent protein catabolic process,17
+A. tenuifolia,fatty acid biosynthetic process,3
+A. tenuifolia,translation,51
+A. tenuifolia,"mitochondrial electron transport, ubiquinol to cytochrome c",4
+A. tenuifolia,mitotic cytokinesis,3
+A. tenuifolia,chitin catabolic process,3
+A. tenuifolia,alanyl-tRNA aminoacylation,1
+A. tenuifolia,L-aspartate biosynthetic process,1
+A. tenuifolia,Golgi to plasma membrane protein transport,2
+A. tenuifolia,SNARE complex disassembly,2
+A. tenuifolia,amine metabolic process,3
+A. tenuifolia,formation of cytoplasmic translation initiation complex,9
+A. tenuifolia,killing of cells of another organism,2
+A. tenuifolia,DNA-templated transcription,26
+A. tenuifolia,positive regulation of DNA-templated transcription,4
+A. tenuifolia,regulation of transcription by RNA polymerase II,2
+A. tenuifolia,argininosuccinate metabolic process,1
+A. tenuifolia,L-arginine biosynthetic process,1
+A. tenuifolia,urea cycle,1
+A. tenuifolia,cytoplasmic translation,11
+A. tenuifolia,ribosomal large subunit assembly,3
+A. tenuifolia,L-serine biosynthetic process,2
+A. tenuifolia,regulation of protein catabolic process,3
+A. tenuifolia,cellular response to stress,2
+A. tenuifolia,"fructose 1,6-bisphosphate metabolic process",2
+A. tenuifolia,fructose metabolic process,3
+A. tenuifolia,sucrose biosynthetic process,1
+A. tenuifolia,L-asparagine biosynthetic process,1
+A. tenuifolia,establishment of mitotic spindle orientation,4
+A. tenuifolia,microtubule sliding,1
+A. tenuifolia,cell adhesion mediated by integrin,8
+A. tenuifolia,cell-matrix adhesion,13
+A. tenuifolia,integrin-mediated signaling pathway,9
+A. tenuifolia,hormone biosynthetic process,4
+A. tenuifolia,progesterone metabolic process,4
+A. tenuifolia,endoplasmic reticulum organization,1
+A. tenuifolia,SCF complex assembly,1
+A. tenuifolia,DNA repair,7
+A. tenuifolia,methylation,24
+A. tenuifolia,phospholipid catabolic process,4
+A. tenuifolia,lysosomal transport,1
+A. tenuifolia,mRNA export from nucleus,5
+A. tenuifolia,regulation of mitotic spindle assembly,1
+A. tenuifolia,chromatin organization,6
+A. tenuifolia,embryonic morphogenesis,1
+A. tenuifolia,regulation of cell junction assembly,1
+A. tenuifolia,Rho protein signal transduction,5
+A. tenuifolia,citrate metabolic process,2
+A. tenuifolia,myo-inositol transport,1
+A. tenuifolia,muscle organ development,2
+A. tenuifolia,superoxide metabolic process,2
+A. tenuifolia,negative regulation of protein ubiquitination,1
+A. tenuifolia,negative regulation of Wnt signaling pathway,1
+A. tenuifolia,neurotransmitter secretion,2
+A. tenuifolia,nucleotide-excision repair,1
+A. tenuifolia,glycine biosynthetic process from L-serine,3
+A. tenuifolia,tetrahydrofolate interconversion,3
+A. tenuifolia,spliceosomal complex assembly,2
+A. tenuifolia,Rap protein signal transduction,1
+A. tenuifolia,asparaginyl-tRNA aminoacylation,1
+A. tenuifolia,G protein-coupled glutamate receptor signaling pathway,1
+A. tenuifolia,cell surface receptor protein tyrosine kinase signaling pathway,10
+A. tenuifolia,synapse organization,2
+A. tenuifolia,actin cortical patch organization,1
+A. tenuifolia,Arp2/3 complex-mediated actin nucleation,6
+A. tenuifolia,S-adenosylmethionine cycle,2
+A. tenuifolia,"nuclear-transcribed mRNA catabolic process, nonsense-mediated decay",3
+A. tenuifolia,actin filament polymerization,4
+A. tenuifolia,autophagy,3
+A. tenuifolia,IRE1-mediated unfolded protein response,1
+A. tenuifolia,ribosomal subunit export from nucleus,1
+A. tenuifolia,regulation of cell cycle,1
+A. tenuifolia,activation of innate immune response,1
+A. tenuifolia,autophagosome assembly,4
+A. tenuifolia,innate immune response,2
+A. tenuifolia,positive regulation of macroautophagy,1
+A. tenuifolia,positive regulation of type I interferon production,1
+A. tenuifolia,reticulophagy,2
+A. tenuifolia,positive regulation of transcription initiation by RNA polymerase II,1
+A. tenuifolia,Notch signaling pathway,6
+A. tenuifolia,protein processing,10
+A. tenuifolia,membrane protein ectodomain proteolysis,2
+A. tenuifolia,GDP-mannose biosynthetic process,2
+A. tenuifolia,isoleucyl-tRNA aminoacylation,2
+A. tenuifolia,lipid storage,1
+A. tenuifolia,positive regulation of triglyceride storage,1
+A. tenuifolia,GDP-L-fucose salvage,1
+A. tenuifolia,cell projection assembly,1
+A. tenuifolia,neuron projection morphogenesis,3
+A. tenuifolia,acetyl-CoA biosynthetic process from acetate,1
+A. tenuifolia,ribosomal large subunit biogenesis,2
+A. tenuifolia,box C/D sno(s)RNA 3'-end processing,1
+A. tenuifolia,ribosomal small subunit assembly,4
+A. tenuifolia,ganglioside catabolic process,1
+A. tenuifolia,glycosaminoglycan metabolic process,3
+A. tenuifolia,Golgi localization,1
+A. tenuifolia,positive regulation of neuron projection development,1
+A. tenuifolia,regulation of lamellipodium assembly,2
+A. tenuifolia,glyceraldehyde-3-phosphate biosynthetic process,2
+A. tenuifolia,glycerol catabolic process,2
+A. tenuifolia,negative regulation of BMP signaling pathway,2
+A. tenuifolia,negative regulation of filopodium assembly,1
+A. tenuifolia,cholesterol biosynthetic process,2
+A. tenuifolia,anterograde axonal transport,1
+A. tenuifolia,threonyl-tRNA aminoacylation,2
+A. tenuifolia,regulation of cell migration,1
+A. tenuifolia,"mitochondrial electron transport, NADH to ubiquinone",9
+A. tenuifolia,L-proline biosynthetic process,2
+A. tenuifolia,G protein-coupled receptor signaling pathway,4
+A. tenuifolia,regulation of signal transduction,3
+A. tenuifolia,amino acid transport,8
+A. tenuifolia,sodium ion transmembrane transport,4
+A. tenuifolia,mRNA transport,10
+A. tenuifolia,protein export from nucleus,4
+A. tenuifolia,ribosomal large subunit export from nucleus,1
+A. tenuifolia,ribosomal small subunit export from nucleus,1
+A. tenuifolia,glycogen biosynthetic process,5
+A. tenuifolia,bioluminescence,5
+A. tenuifolia,generation of precursor metabolites and energy,3
+A. tenuifolia,heme biosynthetic process,2
+A. tenuifolia,thiamine metabolic process,2
+A. tenuifolia,steroid metabolic process,4
+A. tenuifolia,calcineurin-mediated signaling,1
+A. tenuifolia,pyrimidine nucleobase catabolic process,1
+A. tenuifolia,leucyl-tRNA aminoacylation,2
+A. tenuifolia,ribosomal small subunit biogenesis,2
+A. tenuifolia,mitophagy,2
+A. tenuifolia,formaldehyde catabolic process,2
+A. tenuifolia,lipid biosynthetic process,6
+A. tenuifolia,DNA catabolic process,1
+A. tenuifolia,negative regulation of cell growth,1
+A. tenuifolia,"glycine biosynthetic process, by transamination of glyoxylate",1
+A. tenuifolia,intracellular iron ion homeostasis,4
+A. tenuifolia,acetyl-CoA biosynthetic process,2
+A. tenuifolia,adenylate cyclase-activating dopamine receptor signaling pathway,1
+A. tenuifolia,phosphatidylethanolamine biosynthetic process,3
+A. tenuifolia,glutathione catabolic process,9
+A. tenuifolia,medium-chain fatty acid catabolic process,1
+A. tenuifolia,protein localization to membrane,5
+A. tenuifolia,post-translational protein targeting to endoplasmic reticulum membrane,2
+A. tenuifolia,ribosome biogenesis,3
+A. tenuifolia,glycosaminoglycan catabolic process,2
+A. tenuifolia,"mitochondrial electron transport, succinate to ubiquinone",2
+A. tenuifolia,translation reinitiation,2
+A. tenuifolia,"mitochondrial electron transport, cytochrome c to oxygen",4
+A. tenuifolia,sphingolipid metabolic process,3
+A. tenuifolia,dopaminergic neuron differentiation,1
+A. tenuifolia,neuron projection development,2
+A. tenuifolia,methylglyoxal catabolic process to D-lactate via S-lactoyl-glutathione,2
+A. tenuifolia,vesicle docking,3
+A. tenuifolia,vesicle fusion,4
+A. tenuifolia,"pentose-phosphate shunt, non-oxidative branch",2
+A. tenuifolia,CTP biosynthetic process,3
+A. tenuifolia,GTP biosynthetic process,4
+A. tenuifolia,UTP biosynthetic process,4
+A. tenuifolia,leukotriene metabolic process,1
+A. tenuifolia,lipid metabolic process,6
+A. tenuifolia,long-chain fatty-acyl-CoA metabolic process,1
+A. tenuifolia,neuron differentiation,2
+A. tenuifolia,kynurenine metabolic process,2
+A. tenuifolia,androgen metabolic process,1
+A. tenuifolia,estrogen metabolic process,1
+A. tenuifolia,'de novo' NAD+ biosynthetic process from L-tryptophan,2
+A. tenuifolia,anthranilate metabolic process,2
+A. tenuifolia,L-tryptophan catabolic process,2
+A. tenuifolia,quinolinate biosynthetic process,2
+A. tenuifolia,nuclear pore organization,1
+A. tenuifolia,cysteine metabolic process,1
+A. tenuifolia,ruffle assembly,1
+A. tenuifolia,ADP biosynthetic process,2
+A. tenuifolia,AMP metabolic process,2
+A. tenuifolia,dolichol-linked oligosaccharide biosynthetic process,2
+A. tenuifolia,GPI anchor biosynthetic process,6
+A. tenuifolia,protein O-linked glycosylation via mannose,1
+A. tenuifolia,valyl-tRNA aminoacylation,1
+A. tenuifolia,aldehyde metabolic process,1
+A. tenuifolia,morphogenesis of an epithelium,2
+A. tenuifolia,nerve development,2
+A. tenuifolia,dopamine catabolic process,3
+A. tenuifolia,norepinephrine biosynthetic process,3
+A. tenuifolia,octopamine biosynthetic process,3
+A. tenuifolia,nucleosome organization,1
+A. tenuifolia,proton motive force-driven ATP synthesis,5
+A. tenuifolia,regulation of mRNA stability,2
+A. tenuifolia,stress granule assembly,2
+A. tenuifolia,endosome organization,6
+A. tenuifolia,oligosaccharide metabolic process,4
+A. tenuifolia,lactate metabolic process,1
+A. tenuifolia,carnitine metabolic process,3
+A. tenuifolia,regulation of actin filament-based process,1
+A. tenuifolia,aspartyl-tRNA aminoacylation,1
+A. tenuifolia,nucleoside diphosphate catabolic process,1
+A. tenuifolia,respiratory electron transport chain,10
+A. tenuifolia,regulation of DNA-templated transcription,3
+A. tenuifolia,citrulline biosynthetic process,2
+A. tenuifolia,glutamine biosynthetic process,1
+A. tenuifolia,Golgi organization,5
+A. tenuifolia,protein folding in endoplasmic reticulum,3
+A. tenuifolia,catecholamine uptake,4
+A. tenuifolia,neurotransmitter transport,5
+A. tenuifolia,apoptotic process,9
+A. tenuifolia,intracellular glucose homeostasis,1
+A. tenuifolia,spliceosomal snRNP assembly,3
+A. tenuifolia,L-arginine catabolic process to L-glutamate,1
+A. tenuifolia,L-arginine catabolic process to proline via ornithine,1
+A. tenuifolia,Rab protein signal transduction,1
+A. tenuifolia,peptide metabolic process,5
+A. tenuifolia,glutamate biosynthetic process,2
+A. tenuifolia,anatomical structure formation involved in morphogenesis,1
+A. tenuifolia,dendrite development,1
+A. tenuifolia,epithelial cell differentiation,1
+A. tenuifolia,negative regulation of multicellular organismal process,2
+A. tenuifolia,nervous system process,1
+A. tenuifolia,neuron migration,3
+A. tenuifolia,positive regulation of multicellular organismal process,3
+A. tenuifolia,prostaglandin biosynthetic process,2
+A. tenuifolia,G protein-coupled receptor internalization,1
+A. tenuifolia,intein-mediated protein splicing,2
+A. tenuifolia,ammonium homeostasis,1
+A. tenuifolia,ephrin receptor signaling pathway,1
+A. tenuifolia,defense response to bacterium,1
+A. tenuifolia,protein deubiquitination,7
+A. tenuifolia,regulation of protein stability,1
+A. tenuifolia,glutaminyl-tRNA aminoacylation,1
+A. tenuifolia,asparagine metabolic process,1
+A. tenuifolia,"putrescine biosynthetic process from arginine, via agmatine",1
+A. tenuifolia,positive regulation of apoptotic signaling pathway,1
+A. tenuifolia,mitochondrial protein processing,2
+A. tenuifolia,phosphatidylinositol dephosphorylation,4
+A. tenuifolia,protein homooligomerization,2
+A. tenuifolia,COPII-coated vesicle budding,1
+A. tenuifolia,positive regulation of TOR signaling,1
+A. tenuifolia,protein exit from endoplasmic reticulum,1
+A. tenuifolia,intracellular distribution of mitochondria,3
+A. tenuifolia,mitochondrial fission,2
+A. tenuifolia,peroxisome fission,3
+A. tenuifolia,microtubule cytoskeleton organization,1
+A. tenuifolia,protein homotetramerization,1
+A. tenuifolia,regulation of gluconeogenesis,1
+A. tenuifolia,S-adenosylhomocysteine metabolic process,1
+A. tenuifolia,S-adenosylmethionine metabolic process,1
+A. tenuifolia,sarcosine metabolic process,1
+A. tenuifolia,phosphate-containing compound metabolic process,1
+A. tenuifolia,protein retention in Golgi apparatus,1
+A. tenuifolia,protein targeting to vacuole,3
+A. tenuifolia,seryl-tRNA aminoacylation,2
+A. tenuifolia,10-formyltetrahydrofolate biosynthetic process,1
+A. tenuifolia,folic acid metabolic process,1
+A. tenuifolia,methionine metabolic process,1
+A. tenuifolia,purine nucleotide biosynthetic process,1
+A. tenuifolia,mitotic spindle organization,1
+A. tenuifolia,glucose catabolic process,1
+A. tenuifolia,intracellular calcium ion homeostasis,2
+A. tenuifolia,protein quality control for misfolded or incompletely synthesized proteins,2
+A. tenuifolia,regulation of intracellular pH,1
+A. tenuifolia,negative regulation of protein localization to cilium,1
+A. tenuifolia,sodium ion transport,1
+A. tenuifolia,nucleotide metabolic process,1
+A. tenuifolia,"alternative mRNA splicing, via spliceosome",2
+A. tenuifolia,mRNA splice site recognition,2
+A. tenuifolia,"regulation of alternative mRNA splicing, via spliceosome",5
+A. tenuifolia,negative regulation of membrane protein ectodomain proteolysis,1
+A. tenuifolia,acetate metabolic process,1
+A. tenuifolia,CAAX-box protein processing,1
+A. tenuifolia,10-formyltetrahydrofolate catabolic process,1
+A. tenuifolia,attachment of GPI anchor to protein,4
+A. tenuifolia,import into nucleus,1
+A. tenuifolia,heterophilic cell-cell adhesion,1
+A. tenuifolia,nervous system development,4
+A. tenuifolia,nucleobase-containing compound metabolic process,4
+A. tenuifolia,protein K63-linked ubiquitination,1
+A. tenuifolia,nuclear membrane organization,1
+A. tenuifolia,actin filament-based movement,2
+A. tenuifolia,proteolysis involved in protein catabolic process,7
+A. tenuifolia,regulation of ARF protein signal transduction,3
+A. tenuifolia,endosome fission,1
+A. tenuifolia,regulation of actin nucleation,1
+A. tenuifolia,protein maturation,3
+A. tenuifolia,tetrahydrofolylpolyglutamate metabolic process,1
+A. tenuifolia,intracellular signal transduction,8
+A. tenuifolia,positive regulation of Rho protein signal transduction,1
+A. tenuifolia,transcription elongation by RNA polymerase II,5
+A. tenuifolia,aerobic respiration,2
+A. tenuifolia,electron transport coupled proton transport,3
+A. tenuifolia,mitochondrial respiratory chain complex I assembly,4
+A. tenuifolia,purine nucleobase catabolic process,1
+A. tenuifolia,urate catabolic process,1
+A. tenuifolia,nucleocytoplasmic transport,3
+A. tenuifolia,actin filament severing,3
+A. tenuifolia,mitochondrial citrate transmembrane transport,1
+A. tenuifolia,long-chain fatty acid import into cell,1
+A. tenuifolia,positive regulation of translation,2
+A. tenuifolia,tRNA processing,1
+A. tenuifolia,vacuolar protein processing,1
+A. tenuifolia,oligopeptide transport,2
+A. tenuifolia,GDP-L-fucose biosynthetic process,1
+A. tenuifolia,L-ascorbic acid biosynthetic process,2
+A. tenuifolia,endocytic recycling,5
+A. tenuifolia,negative regulation of canonical Wnt signaling pathway,3
+A. tenuifolia,positive regulation of neuron migration,1
+A. tenuifolia,cap-dependent translational initiation,1
+A. tenuifolia,glycoprotein catabolic process,2
+A. tenuifolia,microtubule bundle formation,1
+A. tenuifolia,microtubule polymerization,1
+A. tenuifolia,positive regulation of protein polymerization,1
+A. tenuifolia,phospholipid translocation,1
+A. tenuifolia,glycolipid biosynthetic process,1
+A. tenuifolia,receptor internalization,1
+A. tenuifolia,synaptic vesicle budding from presynaptic endocytic zone membrane,2
+A. tenuifolia,canonical glycolysis,1
+A. tenuifolia,hydrogen sulfide metabolic process,1
+A. tenuifolia,GTP metabolic process,1
+A. tenuifolia,ITP metabolic process,1
+A. tenuifolia,cell volume homeostasis,2
+A. tenuifolia,chloride ion homeostasis,2
+A. tenuifolia,potassium ion homeostasis,2
+A. tenuifolia,sodium ion homeostasis,1
+A. tenuifolia,"sulfide oxidation, using sulfide:quinone oxidoreductase",1
+A. tenuifolia,monosaccharide metabolic process,1
+A. tenuifolia,membrane protein proteolysis,1
+A. tenuifolia,signal peptide processing,4
+A. tenuifolia,sterol biosynthetic process,1
+A. tenuifolia,axon development,1
+A. tenuifolia,positive regulation of transcription by RNA polymerase II,2
+A. tenuifolia,sensory organ development,1
+A. tenuifolia,lysyl-tRNA aminoacylation,1
+A. tenuifolia,3-keto-sphinganine metabolic process,1
+A. tenuifolia,sphingolipid biosynthetic process,1
+A. tenuifolia,tricarboxylic acid metabolic process,1
+A. tenuifolia,protein targeting,1
+A. tenuifolia,tRNA import into mitochondrion,1
+A. tenuifolia,endoplasmic reticulum calcium ion homeostasis,1
+A. tenuifolia,positive regulation of transcription elongation by RNA polymerase II,3
+A. tenuifolia,snRNA transcription by RNA polymerase II,1
+A. tenuifolia,protein insertion into mitochondrial inner membrane,1
+A. tenuifolia,[2Fe-2S] cluster assembly,1
+A. tenuifolia,phenylalanyl-tRNA aminoacylation,4
+A. tenuifolia,butyrate catabolic process,1
+A. tenuifolia,nucleosome assembly,6
+A. tenuifolia,magnesium ion transport,1
+A. tenuifolia,clathrin coat assembly,2
+A. tenuifolia,system process,2
+A. tenuifolia,protein targeting to lysosome,2
+A. tenuifolia,translesion synthesis,2
+A. tenuifolia,mRNA 5'-splice site recognition,1
+A. tenuifolia,L-lysine biosynthetic process via aminoadipic acid,1
+A. tenuifolia,cilium-dependent cell motility,1
+A. tenuifolia,epithelial cilium movement involved in determination of left/right asymmetry,1
+A. tenuifolia,inner dynein arm assembly,1
+A. tenuifolia,tubulin complex assembly,2
+A. tenuifolia,chromosome organization,3
+A. tenuifolia,poly(A)+ mRNA export from nucleus,2
+A. tenuifolia,mRNA 3'-end processing,1
+A. tenuifolia,acylglycerol catabolic process,1
+A. tenuifolia,post-chaperonin tubulin folding pathway,1
+A. tenuifolia,phosphatidylinositol metabolic process,1
+A. tenuifolia,phosphatidylinositol-mediated signaling,1
+A. tenuifolia,release of sequestered calcium ion into cytosol,1
+A. tenuifolia,glycine decarboxylation via glycine cleavage system,1
+A. tenuifolia,spermidine biosynthetic process,1
+A. tenuifolia,proteoglycan biosynthetic process,1
+A. tenuifolia,L-leucine biosynthetic process,1
+A. tenuifolia,L-valine biosynthetic process,2
+A. tenuifolia,protein K6-linked ubiquitination,2
+A. tenuifolia,regulation of RNA splicing,2
+A. tenuifolia,phosphatidylinositol phosphate biosynthetic process,4
+A. tenuifolia,tetrahydrofolate metabolic process,3
+A. tenuifolia,"propionate metabolic process, methylmalonyl pathway",1
+A. tenuifolia,Golgi vesicle docking,1
+A. tenuifolia,transcytosis,1
+A. tenuifolia,vesicle fusion with Golgi apparatus,1
+A. tenuifolia,glycolate biosynthetic process,1
+A. tenuifolia,glyoxal metabolic process,1
+A. tenuifolia,chaperone-mediated protein complex assembly,2
+A. tenuifolia,oxidation-dependent protein catabolic process,1
+A. tenuifolia,Wnt protein secretion,1
+A. tenuifolia,Wnt signaling pathway,1
+A. tenuifolia,protein targeting to ER,2
+A. tenuifolia,L-methionine salvage from S-adenosylmethionine,2
+A. tenuifolia,nucleoside metabolic process,3
+A. tenuifolia,methionyl-tRNA aminoacylation,1
+A. tenuifolia,adenine salvage,1
+A. tenuifolia,AMP salvage,2
+A. tenuifolia,purine ribonucleoside salvage,4
+A. tenuifolia,Golgi to vacuole transport,1
+A. tenuifolia,synaptic vesicle fusion to presynaptic active zone membrane,1
+A. tenuifolia,synaptic vesicle priming,1
+A. tenuifolia,glycerol-3-phosphate catabolic process,1
+A. tenuifolia,small molecule metabolic process,3
+A. tenuifolia,RNA export from nucleus,4
+A. tenuifolia,pyruvate import into mitochondria,1
+A. tenuifolia,vacuole organization,2
+A. tenuifolia,cholesterol metabolic process,1
+A. tenuifolia,cholesterol transport,1
+A. tenuifolia,calcium ion transport,2
+A. tenuifolia,intracellular monoatomic cation homeostasis,1
+A. tenuifolia,late endosome to vacuole transport via multivesicular body sorting pathway,2
+A. tenuifolia,vesicle budding from membrane,2
+A. tenuifolia,carnitine biosynthetic process,1
+A. tenuifolia,autophagy of mitochondrion,3
+A. tenuifolia,glycophagy,1
+A. tenuifolia,nucleophagy,1
+A. tenuifolia,macroautophagy,2
+A. tenuifolia,response to stress,2
+A. tenuifolia,translational elongation,1
+A. tenuifolia,regulation of autophagy,1
+A. tenuifolia,regulation of receptor-mediated endocytosis,1
+A. tenuifolia,programmed cell death,1
+A. tenuifolia,late endosome to Golgi transport,1
+A. tenuifolia,regulation of protein metabolic process,1
+A. tenuifolia,complement activation,1
+A. tenuifolia,glucan catabolic process,1
+A. tenuifolia,endosome to lysosome transport,4
+A. tenuifolia,phagosome-lysosome fusion,1
+A. tenuifolia,positive regulation of autophagosome assembly,1
+A. tenuifolia,collagen metabolic process,1
+A. tenuifolia,triglyceride biosynthetic process,4
+A. tenuifolia,cell development,1
+A. tenuifolia,eye morphogenesis,1
+A. tenuifolia,negative regulation of developmental process,1
+A. tenuifolia,positive regulation of signal transduction,3
+A. tenuifolia,regionalization,1
+A. tenuifolia,regulation of macromolecule metabolic process,3
+A. tenuifolia,regulation of primary metabolic process,3
+A. tenuifolia,L-arginine biosynthetic process via ornithine,2
+A. tenuifolia,synaptic signaling,1
+A. tenuifolia,cristae formation,2
+A. tenuifolia,carbohydrate catabolic process,1
+A. tenuifolia,tetrahydrobiopterin biosynthetic process,3
+A. tenuifolia,L-lysine catabolic process to acetyl-CoA via L-pipecolate,1
+A. tenuifolia,positive regulation of stress fiber assembly,1
+A. tenuifolia,calcium-ion regulated exocytosis,1
+A. tenuifolia,SRP-dependent cotranslational protein targeting to membrane,3
+A. tenuifolia,regulation of canonical NF-kappaB signal transduction,1
+A. tenuifolia,regulation of double-strand break repair,1
+A. tenuifolia,negative regulation of gene expression,2
+A. tenuifolia,ethanolamine metabolic process,1
+A. tenuifolia,N-acylethanolamine metabolic process,1
+A. tenuifolia,phospholipid metabolic process,2
+A. tenuifolia,L-phenylalanine catabolic process,3
+A. tenuifolia,L-tyrosine catabolic process,2
+A. tenuifolia,pyridoxine biosynthetic process,2
+A. tenuifolia,RNA processing,3
+A. tenuifolia,immune response,2
+A. tenuifolia,tryptophanyl-tRNA aminoacylation,1
+A. tenuifolia,copper ion homeostasis,2
+A. tenuifolia,copper ion import,1
+A. tenuifolia,tyrosyl-tRNA aminoacylation,1
+A. tenuifolia,homogentisate catabolic process,1
+A. tenuifolia,regulation of lipid metabolic process,1
+A. tenuifolia,glycolipid catabolic process,1
+A. tenuifolia,fatty acid catabolic process,2
+A. tenuifolia,NAD+ biosynthetic process via the salvage pathway,1
+A. tenuifolia,phosphatidylcholine biosynthetic process,1
+A. tenuifolia,chromosome condensation,4
+A. tenuifolia,negative regulation of DNA recombination,4
+A. tenuifolia,response to heat,1
+A. tenuifolia,DNA integration,2
+A. tenuifolia,DNA transposition,1
+A. tenuifolia,endoplasmic reticulum membrane organization,1
+A. tenuifolia,sodium-dependent phosphate transport,1
+A. tenuifolia,interstrand cross-link repair,2
+A. tenuifolia,recombinational repair,1
+A. tenuifolia,phospholipid biosynthetic process,3
+A. tenuifolia,positive regulation of axon extension,1
+A. tenuifolia,postsynaptic actin cytoskeleton organization,1
+A. tenuifolia,protoporphyrinogen IX biosynthetic process,1
+A. tenuifolia,regulation of gene expression,3
+A. tenuifolia,cytoplasmic translational elongation,1
+A. tenuifolia,detection of mechanical stimulus,2
+A. tenuifolia,protein ubiquitination,6
+A. tenuifolia,regulation of transport,2
+A. tenuifolia,response to retinoic acid,1
+A. tenuifolia,transcription initiation at RNA polymerase II promoter,2
+A. tenuifolia,mitochondrial respiratory chain complex assembly,1
+A. tenuifolia,protein insertion into mitochondrial outer membrane,1
+A. tenuifolia,inositol metabolic process,1
+A. tenuifolia,DNA replication,2
+A. tenuifolia,regulation of chromatin organization,1
+A. tenuifolia,sphingolipid catabolic process,1
+A. tenuifolia,glycerophospholipid catabolic process,2
+A. tenuifolia,COP9 signalosome assembly,1
+A. tenuifolia,negative regulation of DNA-templated transcription,4
+A. tenuifolia,cytosolic ribosome assembly,1
+A. tenuifolia,cellular heat acclimation,1
+A. tenuifolia,L-cysteine biosynthetic process via L-cystathionine,1
+A. tenuifolia,transsulfuration,2
+A. tenuifolia,antibiotic biosynthetic process,1
+A. tenuifolia,monoatomic anion transport,1
+A. tenuifolia,protein localization to nuclear inner membrane,1
+A. tenuifolia,transcription-dependent tethering of RNA polymerase II gene DNA at nuclear periphery,2
+A. tenuifolia,calcium ion import across plasma membrane,2
+A. tenuifolia,cell communication,2
+A. tenuifolia,iron-sulfur cluster assembly,1
+A. tenuifolia,glyoxylate catabolic process,1
+A. tenuifolia,"L-alanine catabolic process, by transamination",1
+A. tenuifolia,cell motility,3
+A. tenuifolia,regulation of actin polymerization or depolymerization,1
+A. tenuifolia,regulation of store-operated calcium entry,1
+A. tenuifolia,creatine biosynthetic process,1
+A. tenuifolia,adenylate cyclase-activating G protein-coupled receptor signaling pathway,1
+A. tenuifolia,cAMP biosynthetic process,1
+A. tenuifolia,negative regulation of translation,1
+A. tenuifolia,"nuclear-transcribed mRNA catabolic process, deadenylation-dependent decay",1
+A. tenuifolia,methionine biosynthetic process,2
+A. tenuifolia,RNA 5'-cap (guanine-N7)-methylation,1
+A. tenuifolia,piecemeal microautophagy of the nucleus,1
+A. tenuifolia,cyclooxygenase pathway,1
+A. tenuifolia,defense response,1
+A. tenuifolia,oxylipin biosynthetic process,1
+A. tenuifolia,serine import into mitochondrion,1
+A. tenuifolia,negative regulation of ERK1 and ERK2 cascade,1
+A. tenuifolia,negative regulation of receptor signaling pathway via JAK-STAT,1
+A. tenuifolia,mitotic actomyosin contractile ring assembly actin filament organization,1
+A. tenuifolia,amino acid metabolic process,3
+A. tenuifolia,pyridoxal phosphate biosynthetic process,2
+A. tenuifolia,glucose 6-phosphate metabolic process,1
+A. tenuifolia,galactose metabolic process,1
+A. tenuifolia,inner mitochondrial membrane organization,1
+A. tenuifolia,protein K69-linked ufmylation,1
+A. tenuifolia,regulation of proteasomal ubiquitin-dependent protein catabolic process,2
+A. tenuifolia,negative regulation of protein localization to cell surface,1
+A. tenuifolia,negative regulation of sodium ion transmembrane transport,1
+A. tenuifolia,positive regulation of protein ubiquitination,1
+A. tenuifolia,positive regulation of BMP signaling pathway,1
+A. tenuifolia,glycerophospholipid biosynthetic process,1
+A. tenuifolia,positive regulation of ubiquitin-dependent protein catabolic process,1
+A. tenuifolia,actin crosslink formation,1
+A. tenuifolia,regulation of G protein-coupled receptor signaling pathway,1
+A. tenuifolia,thiamine biosynthetic process,1
+A. tenuifolia,"maturation of SSU-rRNA from tricistronic rRNA transcript (SSU-rRNA, 5.8S rRNA, LSU-rRNA)",1
+A. tenuifolia,negative regulation of apoptotic process,3
+A. tenuifolia,heparan sulfate proteoglycan catabolic process,1
+A. tenuifolia,"maturation of LSU-rRNA from tricistronic rRNA transcript (SSU-rRNA, 5.8S rRNA, LSU-rRNA)",1
+A. tenuifolia,ceramide biosynthetic process,2
+A. tenuifolia,protein insertion into ER membrane,1
+A. tenuifolia,"SRP-dependent cotranslational protein targeting to membrane, translocation",1
+A. tenuifolia,CENP-A containing chromatin assembly,2
+A. tenuifolia,DNA replication-dependent chromatin assembly,2
+A. tenuifolia,carnitine transmembrane transport,1
+A. tenuifolia,mitochondrial transport,1
+A. tenuifolia,carbohydrate derivative catabolic process,1
+A. tenuifolia,polysaccharide catabolic process,1
+A. tenuifolia,amino acid biosynthetic process,1
+A. tenuifolia,positive regulation of apoptotic process,1
+A. tenuifolia,protein retention in ER lumen,1
+A. tenuifolia,amino acid import across plasma membrane,1
+A. tenuifolia,"RNA splicing, via transesterification reactions",1
+A. tenuifolia,DNA strand elongation involved in DNA replication,1
+A. tenuifolia,double-strand break repair via break-induced replication,1
+A. tenuifolia,mitotic DNA replication initiation,1
+A. tenuifolia,positive regulation of synapse assembly,1
+A. tenuifolia,positive regulation of synaptic transmission,1
+A. tenuifolia,cytoskeleton organization,1
+A. tenuifolia,GMP biosynthetic process,1
+A. tenuifolia,L-methionine salvage from methylthioadenosine,2
+A. tenuifolia,transcription by RNA polymerase II,2
+A. tenuifolia,proteasomal ubiquitin-independent protein catabolic process,1
+A. tenuifolia,cell projection organization,2
+A. tenuifolia,intraciliary transport,1
+A. tenuifolia,vitamin K metabolic process,1
+A. tenuifolia,learning or memory,1
+A. tenuifolia,L-leucine catabolic process,2
+A. tenuifolia,muscle structure development,2
+A. tenuifolia,cellular response to amino acid starvation,3
+A. tenuifolia,phagocytosis,1
+A. tenuifolia,heme catabolic process,1
+A. tenuifolia,anterograde dendritic transport of messenger ribonucleoprotein complex,1
+A. tenuifolia,germ cell development,1
+A. tenuifolia,intracellular mRNA localization,1
+A. tenuifolia,protein localization to synapse,1
+A. tenuifolia,regulation of secretion,1
+A. tenuifolia,regulation of small GTPase mediated signal transduction,1
+A. tenuifolia,steroid catabolic process,1
+A. tenuifolia,purine nucleobase metabolic process,2
+A. tenuifolia,glutathione biosynthetic process,1
+A. tenuifolia,"positive regulation of mRNA splicing, via spliceosome",1
+A. tenuifolia,L-cysteine biosynthetic process from L-serine,1
+A. tenuifolia,RNA polymerase I assembly,1
+A. tenuifolia,RNA polymerase II core complex assembly,1
+A. tenuifolia,RNA polymerase III assembly,1
+A. tenuifolia,carotene catabolic process,1
+A. tenuifolia,regulation of actin cytoskeleton organization,2
+A. tenuifolia,regulation of Rac protein signal transduction,1
+A. tenuifolia,regulation of glutamate receptor signaling pathway,1
+A. tenuifolia,NAD+ biosynthetic process,4
+A. tenuifolia,membrane organization,2
+A. tenuifolia,organelle fusion,1
+A. tenuifolia,vesicle docking involved in exocytosis,1
+A. tenuifolia,glucosylceramide catabolic process,1
+A. tenuifolia,mitochondrial fusion,1
+A. tenuifolia,box H/ACA sno(s)RNA 3'-end processing,1
+A. tenuifolia,mRNA pseudouridine synthesis,1
+A. tenuifolia,rRNA pseudouridine synthesis,1
+A. tenuifolia,snRNA pseudouridine synthesis,1
+A. tenuifolia,protein localization to endoplasmic reticulum exit site,1
+A. tenuifolia,bicarbonate transport,1
+A. tenuifolia,monoatomic ion homeostasis,1
+A. tenuifolia,cysteinyl-tRNA aminoacylation,1
+A. tenuifolia,cellular response to starvation,3
+A. tenuifolia,negative regulation of autophagy,4
+A. tenuifolia,positive regulation of TORC1 signaling,4
+A. tenuifolia,glucosamine catabolic process,1
+A. tenuifolia,N-acetylglucosamine catabolic process,1
+A. tenuifolia,N-acetylneuraminate catabolic process,1
+A. tenuifolia,endoplasmic reticulum mannose trimming,2
+A. tenuifolia,'de novo' cotranslational protein folding,1
+A. tenuifolia,COPII vesicle coating,1
+A. tenuifolia,axoneme assembly,2
+A. tenuifolia,spermatid development,1
+A. tenuifolia,regulatory ncRNA-mediated gene silencing,2
+A. tenuifolia,dendrite self-avoidance,1
+A. tenuifolia,cilium movement,6
+A. tenuifolia,post-transcriptional tethering of RNA polymerase II gene DNA at nuclear periphery,1
+A. tenuifolia,telomere tethering at nuclear periphery,1
+A. tenuifolia,fertilization,1
+A. tenuifolia,"post-translational protein targeting to membrane, translocation",1
+A. tenuifolia,homocysteine catabolic process,1
+A. tenuifolia,response to toxic substance,1
+A. tenuifolia,oligosaccharide catabolic process,1
+A. tenuifolia,meiotic cell cycle,1
+A. tenuifolia,extrinsic apoptotic signaling pathway in absence of ligand,2
+A. tenuifolia,intrinsic apoptotic signaling pathway in response to DNA damage,2
+A. tenuifolia,release of cytochrome c from mitochondria,2
+A. tenuifolia,Golgi vesicle budding,1
+A. tenuifolia,"meiotic sister chromatid cohesion, centromeric",1
+A. tenuifolia,negative regulation of cell cycle process,1
+A. tenuifolia,nuclear chromosome segregation,1
+A. tenuifolia,regulation of mitotic cell cycle phase transition,1
+A. tenuifolia,brassinosteroid biosynthetic process,1
+A. tenuifolia,organic phosphonate catabolic process,1
+A. tenuifolia,'de novo' AMP biosynthetic process,1
+A. tenuifolia,IMP metabolic process,1
+A. tenuifolia,regulation of monoatomic ion transmembrane transport,1
+A. tenuifolia,glucuronoside catabolic process,2
+A. tenuifolia,sphingosine biosynthetic process,1
+A. tenuifolia,centrosome cycle,1
+A. tenuifolia,clustering of voltage-gated sodium channels,1
+A. tenuifolia,protein targeting to membrane,3
+A. tenuifolia,D-xylose metabolic process,1
+A. tenuifolia,cytoplasmic microtubule organization,1
+A. tenuifolia,cytoskeleton-dependent intracellular transport,1
+A. tenuifolia,ubiquinone biosynthetic process,1
+A. tenuifolia,calcium-mediated signaling,2
+A. tenuifolia,endocytosis involved in viral entry into host cell,1
+A. tenuifolia,nuclear-transcribed mRNA catabolic process,1
+A. tenuifolia,nuclear membrane reassembly,1
+A. tenuifolia,proteasomal protein catabolic process,1
+A. tenuifolia,apoptotic signaling pathway,1
+A. tenuifolia,response to ATP,1
+A. tenuifolia,deoxyribonucleoside monophosphate catabolic process,1
+A. tenuifolia,purine nucleotide metabolic process,1
+A. tenuifolia,cell projection morphogenesis,1
+A. tenuifolia,regulation of dendrite morphogenesis,1
+A. tenuifolia,carbohydrate phosphorylation,1
+A. tenuifolia,N-glycan processing to lysosome,1
+A. tenuifolia,ubiquitin-dependent protein catabolic process via the multivesicular body sorting pathway,1
+A. tenuifolia,lipoprotein transport,1
+A. tenuifolia,photoreactive repair,1
+A. tenuifolia,UV protection,1
+A. tenuifolia,acetyl-CoA transmembrane transport,1
+A. tenuifolia,protein transport to vacuole involved in ubiquitin-dependent protein catabolic process via the multivesicular body sorting pathway,1
+A. tenuifolia,L-histidine catabolic process,1
+A. tenuifolia,TOR signaling,1
+A. tenuifolia,outer dynein arm assembly,2
+A. tenuifolia,deadenylation-independent decapping of nuclear-transcribed mRNA,1
+A. tenuifolia,protein O-linked glycosylation,4
+A. tenuifolia,microtubule depolymerization,1
+A. tenuifolia,microtubule severing,2
+A. tenuifolia,positive regulation of canonical NF-kappaB signal transduction,1
+A. tenuifolia,protein repair,1
+A. tenuifolia,transport along microtubule,1
+A. tenuifolia,proteasome assembly,1
+A. tenuifolia,vacuolar transport,2
+A. tenuifolia,regulation of translational initiation,1
+A. tenuifolia,L-arabinose metabolic process,1
+A. tenuifolia,cytoplasmic translational initiation,1
+A. tenuifolia,regulation of autophagosome maturation,1
+A. tenuifolia,regulation of cell size,1
+A. tenuifolia,arginine metabolic process,1
+A. tenuifolia,citrulline metabolic process,1
+A. tenuifolia,positive regulation of nitric oxide biosynthetic process,1
+A. tenuifolia,homocysteine metabolic process,1
+A. tenuifolia,secretion of lysosomal enzymes,1
+A. tenuifolia,intracellular cholesterol transport,1
+A. tenuifolia,RNA polymerase II preinitiation complex assembly,1
+A. tenuifolia,pyrimidine ribonucleotide biosynthetic process,1
+A. tenuifolia,response to pheromone,1
+A. tenuifolia,neurogenesis,1
+A. tenuifolia,branched-chain amino acid catabolic process,1
+A. tenuifolia,beta-alanine biosynthetic process via 3-ureidopropionate,1
+A. tenuifolia,maturation of SSU-rRNA,1
+A. tenuifolia,N-acetylglucosamine metabolic process,1
+A. tenuifolia,sulfur compound metabolic process,1
+A. tenuifolia,protein histidyl modification to diphthamide,1
+A. tenuifolia,D-amino acid catabolic process,1
+A. tenuifolia,acyl-CoA metabolic process,1
+A. tenuifolia,trehalose catabolic process,1
+A. tenuifolia,pyridoxine metabolic process,1
+A. tenuifolia,plasma membrane tubulation,1
+A. tenuifolia,monoacylglycerol catabolic process,2
+A. tenuifolia,phosphatidylserine catabolic process,2
+A. tenuifolia,tRNA threonylcarbamoyladenosine modification,1
+A. tenuifolia,NAD+ metabolic process,1
+A. tenuifolia,NADP+ biosynthetic process,1
+A. tenuifolia,tail-anchored membrane protein insertion into ER membrane,1
+A. tenuifolia,cellular response to fibroblast growth factor stimulus,1
+A. tenuifolia,positive regulation of fibroblast growth factor receptor signaling pathway,1
+A. tenuifolia,DNA recombination,1
+A. tenuifolia,long-chain fatty acid import into peroxisome,1
+A. tenuifolia,peroxisome organization,1
+A. tenuifolia,very long-chain fatty acid catabolic process,1
+A. tenuifolia,regulation of early endosome to late endosome transport,1
+A. tenuifolia,mitotic spindle assembly,1
+A. tenuifolia,regulation of mitotic cytokinesis,1
+A. tenuifolia,arachidonate secretion,1
+A. tenuifolia,7-methylguanosine mRNA capping,1
+A. tenuifolia,protein localization to cell surface,1
+A. tenuifolia,tumor necrosis factor-mediated signaling pathway,1
+A. tenuifolia,tRNA aminoacylation,1
+A. tenuifolia,synaptic vesicle endocytosis,1
+A. tenuifolia,snoRNA guided rRNA pseudouridine synthesis,1
+A. tenuifolia,regulation of COPII vesicle coating,1
+A. tenuifolia,sister chromatid cohesion,1
+A. tenuifolia,defense response to virus,1
+A. tenuifolia,positive regulation of Arp2/3 complex-mediated actin nucleation,1
+A. tenuifolia,regulation of mRNA processing,1
+A. tenuifolia,phosphatidylserine biosynthetic process,1
+A. tenuifolia,cholesterol catabolic process,1
+A. tenuifolia,early endosome to late endosome transport,1
+A. tenuifolia,negative regulation of monoatomic ion transport,1
+A. tenuifolia,leading strand elongation,1
+A. tenuifolia,mismatch repair,1
+A. tenuifolia,regulation of DNA replication,1
+A. tenuifolia,pyridoxal 5'-phosphate salvage,1
+A. tenuifolia,polyamine catabolic process,1
+A. tenuifolia,regulation of Rho protein signal transduction,1
+A. tenuifolia,negative regulation of cell population proliferation,1
+A. tenuifolia,phosphatidylinositol 3-kinase/protein kinase B signal transduction,1
+A. tenuifolia,regulation of developmental process,1
+A. tenuifolia,regulation of phosphatidylinositol 3-kinase/protein kinase B signal transduction,1
+A. tenuifolia,negative regulation of oxidative stress-induced intrinsic apoptotic signaling pathway,1
+A. tenuifolia,motile cilium assembly,1
+A. tenuifolia,isoleucine biosynthetic process,1
+A. tenuifolia,"regulation of mRNA splicing, via spliceosome",1
+A. tenuifolia,protein O-linked glycosylation via N-acetyl-galactosamine,1
+A. tenuifolia,"fructose 2,6-bisphosphate metabolic process",1
+A. tenuifolia,3'-phosphoadenosine 5'-phosphosulfate biosynthetic process,1
+A. tenuifolia,sulfate assimilation,1
+A. tenuifolia,piRNA processing,1
+A. tenuifolia,sorbitol catabolic process,1
+A. tenuifolia,D-ribose catabolic process,1
+A. tenuifolia,regulation of short-term neuronal synaptic plasticity,1
+A. tenuifolia,TORC2 signaling,1
+A. tenuifolia,transcription by RNA polymerase I,1
+A. tenuifolia,tRNA transcription by RNA polymerase III,1

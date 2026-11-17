@@ -1,0 +1,81 @@
+species,ontology,term,uniq_hits,full_hits,pval,padj
+A. muricata,GO-BP,protein deubiquitination,1,1,0.060810810810810814,0.060810810810810814
+A. muricata,GO-BP,cell surface receptor protein tyrosine kinase signaling pathway,1,1,0.060810810810810814,0.060810810810810814
+A. muricata,GO-BP,detection of mechanical stimulus,1,1,0.060810810810810814,0.060810810810810814
+A. muricata,GO-CC,receptor complex,1,1,0.060810810810810814,0.34532561636279835
+A. muricata,GO-CC,plasma membrane,2,11,0.13575041617359587,0.34532561636279835
+A. muricata,GO-CC,extracellular space,1,3,0.17266280818139917,0.34532561636279835
+A. muricata,GO-CC,membrane,1,7,0.3615060479303329,0.5422590718954994
+A. muricata,GO-CC,cytosol,1,19,0.7202809618571944,0.7202809618571944
+A. muricata,GO-CC,nucleus,1,16,0.6536937792467028,0.7202809618571944
+A. muricata,GO-MF,cysteine-type deubiquitinase activity,1,1,0.060810810810810814,0.12162162162162163
+A. muricata,GO-MF,transmembrane receptor protein tyrosine kinase activity,1,1,0.060810810810810814,0.12162162162162163
+A. muricata,GO-MF,calcium channel activity,1,1,0.060810810810810814,0.12162162162162163
+A. muricata,GO-MF,G protein-coupled receptor activity,1,1,0.060810810810810814,0.12162162162162163
+A. muricata,GO-MF,zinc ion binding,1,4,0.22401477181151921,0.35842363489843077
+A. muricata,GO-MF,calcium ion binding,1,9,0.4406870608313738,0.5875827477751651
+A. muricata,GO-MF,metal ion binding,1,12,0.5431396744736336,0.6207310565412956
+A. muricata,GO-MF,ATP binding,1,27,0.845799195060531,0.845799195060531
+M. angulosa,GO-BP,glutamate biosynthetic process,1,1,0.08169014084507044,0.1316118935837246
+M. angulosa,GO-BP,lipid metabolic process,1,1,0.08169014084507044,0.1316118935837246
+M. angulosa,GO-BP,protein processing,1,1,0.08169014084507044,0.1316118935837246
+M. angulosa,GO-BP,regulation of RNA splicing,1,1,0.08169014084507044,0.1316118935837246
+M. angulosa,GO-BP,positive regulation of receptor internalization,1,1,0.08169014084507044,0.1316118935837246
+M. angulosa,GO-BP,regulation of protein localization to plasma membrane,1,1,0.08169014084507044,0.1316118935837246
+M. angulosa,GO-BP,Golgi to vacuole transport,1,1,0.08169014084507044,0.1316118935837246
+M. angulosa,GO-BP,regulation of Arp2/3 complex-mediated actin nucleation,1,1,0.08169014084507044,0.1316118935837246
+M. angulosa,GO-BP,macroautophagy,1,1,0.08169014084507044,0.1316118935837246
+M. angulosa,GO-BP,centrosome cycle,1,1,0.08169014084507044,0.1316118935837246
+M. angulosa,GO-CC,pseudopodium membrane,1,1,0.08169014084507044,0.16338028169014088
+M. angulosa,GO-CC,endoplasmic reticulum,2,5,0.05526659105648527,0.16338028169014088
+M. angulosa,GO-CC,perinuclear region of cytoplasm,1,1,0.08169014084507044,0.16338028169014088
+M. angulosa,GO-CC,ER to Golgi transport vesicle membrane,1,1,0.08169014084507044,0.16338028169014088
+M. angulosa,GO-CC,postsynaptic density,1,1,0.08169014084507044,0.16338028169014088
+M. angulosa,GO-CC,trans-Golgi network membrane,1,1,0.08169014084507044,0.16338028169014088
+M. angulosa,GO-CC,axoneme,1,1,0.08169014084507044,0.16338028169014088
+M. angulosa,GO-CC,Golgi apparatus,3,7,0.013779773692155715,0.16338028169014088
+M. angulosa,GO-CC,trans-Golgi network,1,1,0.08169014084507044,0.16338028169014088
+M. angulosa,GO-CC,vesicle,1,1,0.08169014084507044,0.16338028169014088
+M. angulosa,GO-MF,molecular adaptor activity,2,2,0.006461367072491446,0.16799554388477758
+M. angulosa,GO-MF,glutamate dehydrogenase (NADP+) activity,1,1,0.08169014084507044,0.17699530516431927
+M. angulosa,GO-MF,zinc ion binding,2,5,0.05526659105648527,0.17699530516431927
+M. angulosa,GO-MF,metalloendopeptidase activity,1,1,0.08169014084507044,0.17699530516431927
+M. angulosa,GO-MF,L-ascorbic acid binding,1,1,0.08169014084507044,0.17699530516431927
+M. angulosa,GO-MF,phosphoric diester hydrolase activity,1,1,0.08169014084507044,0.17699530516431927
+M. angulosa,GO-MF,protein kinase C binding,1,1,0.08169014084507044,0.17699530516431927
+M. angulosa,GO-MF,procollagen-proline 4-dioxygenase activity,1,1,0.08169014084507044,0.17699530516431927
+M. angulosa,GO-MF,protein domain specific binding,1,1,0.08169014084507044,0.17699530516431927
+M. angulosa,GO-MF,kinase binding,1,1,0.08169014084507044,0.17699530516431927
+D. australis,GO-BP,Wnt signaling pathway,1,1,0.14553990610328638,0.21298522844383372
+D. australis,GO-BP,L-phenylalanine catabolic process,1,1,0.14553990610328638,0.21298522844383372
+D. australis,GO-BP,regulation of protein localization,1,1,0.14553990610328638,0.21298522844383372
+D. australis,GO-BP,response to nutrient,1,1,0.14553990610328638,0.21298522844383372
+D. australis,GO-BP,protein ufmylation,1,1,0.14553990610328638,0.21298522844383372
+D. australis,GO-BP,branched-chain amino acid catabolic process,1,1,0.14553990610328638,0.21298522844383372
+D. australis,GO-BP,COPI coating of Golgi vesicle,1,1,0.14553990610328638,0.21298522844383372
+D. australis,GO-BP,L-tyrosine catabolic process,1,1,0.14553990610328638,0.21298522844383372
+D. australis,GO-BP,transcription by RNA polymerase I,1,1,0.14553990610328638,0.21298522844383372
+D. australis,GO-BP,transcription by RNA polymerase II,1,1,0.14553990610328638,0.21298522844383372
+D. australis,GO-CC,cation-transporting ATPase complex,1,1,0.14553990610328638,0.34201877934272296
+D. australis,GO-CC,cell periphery,1,1,0.14553990610328638,0.34201877934272296
+D. australis,GO-CC,extracellular space,3,5,0.023715680298000398,0.34201877934272296
+D. australis,GO-CC,perinuclear region of cytoplasm,1,1,0.14553990610328638,0.34201877934272296
+D. australis,GO-CC,kinetochore,1,1,0.14553990610328638,0.34201877934272296
+D. australis,GO-CC,kinesin complex,1,1,0.14553990610328638,0.34201877934272296
+D. australis,GO-CC,presynaptic membrane,1,1,0.14553990610328638,0.34201877934272296
+D. australis,GO-CC,GMP reductase complex,1,1,0.14553990610328638,0.34201877934272296
+D. australis,GO-CC,EKC/KEOPS complex,1,1,0.14553990610328638,0.34201877934272296
+D. australis,GO-CC,glutamatergic synapse,1,1,0.14553990610328638,0.34201877934272296
+D. australis,GO-MF,zinc ion binding,7,11,0.0002072239185642184,0.010153972009646703
+D. australis,GO-MF,protein serine/threonine kinase activity,4,10,0.0433220398143951,0.274286746117732
+D. australis,GO-MF,glutamyl aminopeptidase activity,1,1,0.14553990610328638,0.274286746117732
+D. australis,GO-MF,"homogentisate 1,2-dioxygenase activity",1,1,0.14553990610328638,0.274286746117732
+D. australis,GO-MF,UFM1 activating enzyme activity,1,1,0.14553990610328638,0.274286746117732
+D. australis,GO-MF,phosphoenolpyruvate mutase activity,1,1,0.14553990610328638,0.274286746117732
+D. australis,GO-MF,GTPase activator activity,3,5,0.023715680298000398,0.274286746117732
+D. australis,GO-MF,betaine-homocysteine S-methyltransferase activity,1,1,0.14553990610328638,0.274286746117732
+D. australis,GO-MF,branched-chain 2-oxo acid dehydrogenase activity,1,1,0.14553990610328638,0.274286746117732
+D. australis,GO-MF,snoRNA binding,1,1,0.14553990610328638,0.274286746117732
+A. tenuifolia,GO-CC,membrane,189,212,0.0009642683494080257,0.32206562870228056
+A. tenuifolia,GO-CC,extracellular region,78,84,0.0022269656628448953,0.3719032656950975
+A. tenuifolia,GO-MF,metalloendopeptidase activity,33,33,0.0010487732463180103,0.8851646198924006

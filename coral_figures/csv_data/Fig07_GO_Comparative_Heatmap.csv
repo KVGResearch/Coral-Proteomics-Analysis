@@ -1,0 +1,46 @@
+ontology,term,A. muricata,M. angulosa,D. australis,A. tenuifolia
+Biological Process,proteolysis,4,9,8,95
+Biological Process,translation,6,13,16,51
+Biological Process,protein transport,9,12,16,47
+Biological Process,intracellular protein transport,3,18,14,40
+Biological Process,signal transduction,5,6,9,28
+Biological Process,carbohydrate metabolic process,0,1,6,36
+Biological Process,protein folding,3,5,6,26
+Biological Process,vesicle-mediated transport,4,7,8,19
+Biological Process,DNA-templated transcription,1,2,6,26
+Biological Process,endoplasmic reticulum to Golgi vesicle-mediated transport,2,7,6,17
+Biological Process,tricarboxylic acid cycle,4,6,3,19
+Biological Process,mRNA processing,1,5,5,20
+Biological Process,RNA splicing,1,5,5,19
+Biological Process,methylation,0,2,3,24
+Biological Process,microtubule-based process,4,4,7,12
+Cellular Component,cytoplasm,18,49,71,348
+Cellular Component,plasma membrane,11,26,32,233
+Cellular Component,nucleus,16,24,42,190
+Cellular Component,cytosol,19,29,44,178
+Cellular Component,membrane,7,18,15,212
+Cellular Component,mitochondrion,11,20,22,121
+Cellular Component,endoplasmic reticulum membrane,1,12,7,80
+Cellular Component,extracellular region,0,2,6,84
+Cellular Component,cytoskeleton,8,16,16,44
+Cellular Component,mitochondrial inner membrane,4,8,8,61
+Cellular Component,extracellular space,3,2,5,66
+Cellular Component,microtubule,6,8,17,37
+Cellular Component,endoplasmic reticulum,4,5,4,52
+Cellular Component,endomembrane system,1,7,8,43
+Cellular Component,Golgi membrane,2,9,9,33
+Molecular Function,ATP binding,27,58,94,257
+Molecular Function,metal ion binding,12,32,37,238
+Molecular Function,GTP binding,28,33,54,100
+Molecular Function,calcium ion binding,9,20,17,127
+Molecular Function,GTPase activity,21,25,40,72
+Molecular Function,RNA binding,5,16,25,104
+Molecular Function,ATP hydrolysis activity,9,19,28,71
+Molecular Function,structural constituent of ribosome,6,13,17,62
+Molecular Function,zinc ion binding,4,5,11,75
+Molecular Function,hydrolase activity,4,6,12,58
+Molecular Function,actin filament binding,5,8,12,42
+Molecular Function,DNA binding,3,6,10,41
+Molecular Function,actin binding,5,9,8,28
+Molecular Function,oxidoreductase activity,0,4,2,44
+Molecular Function,unfolded protein binding,4,7,10,27

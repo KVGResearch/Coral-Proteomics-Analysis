@@ -1,0 +1,17 @@
+species,database,proteins_annotated,total_proteins,pct_annotated
+A. muricata,GO annotation (BP/CC/MF),143,148,96.6
+A. muricata,Reactome pathway,0,148,0.0
+A. muricata,KEGG pathway,0,148,0.0
+A. muricata,WikiPathways,0,148,0.0
+M. angulosa,GO annotation (BP/CC/MF),332,355,93.5
+M. angulosa,Reactome pathway,0,355,0.0
+M. angulosa,KEGG pathway,0,355,0.0
+M. angulosa,WikiPathways,0,355,0.0
+D. australis,GO annotation (BP/CC/MF),410,426,96.2
+D. australis,Reactome pathway,0,426,0.0
+D. australis,KEGG pathway,0,426,0.0
+D. australis,WikiPathways,0,426,0.0
+A. tenuifolia,GO annotation (BP/CC/MF),2475,2893,85.6
+A. tenuifolia,Reactome pathway,0,2893,0.0
+A. tenuifolia,KEGG pathway,0,2893,0.0
+A. tenuifolia,WikiPathways,0,2893,0.0

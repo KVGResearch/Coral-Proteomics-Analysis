@@ -1,0 +1,55 @@
+species,biological_process,protein_count
+A. muricata,proteolysis,4
+A. muricata,translation,6
+A. muricata,protein transport,9
+A. muricata,intracellular protein transport,3
+A. muricata,signal transduction,5
+A. muricata,protein folding,3
+A. muricata,vesicle-mediated transport,4
+A. muricata,DNA-templated transcription,1
+A. muricata,endoplasmic reticulum to Golgi vesicle-mediated transport,2
+A. muricata,tricarboxylic acid cycle,4
+A. muricata,mRNA processing,1
+A. muricata,RNA splicing,1
+M. angulosa,proteolysis,9
+M. angulosa,translation,13
+M. angulosa,protein transport,12
+M. angulosa,intracellular protein transport,18
+M. angulosa,signal transduction,6
+M. angulosa,carbohydrate metabolic process,1
+M. angulosa,protein folding,5
+M. angulosa,vesicle-mediated transport,7
+M. angulosa,DNA-templated transcription,2
+M. angulosa,endoplasmic reticulum to Golgi vesicle-mediated transport,7
+M. angulosa,tricarboxylic acid cycle,6
+M. angulosa,mRNA processing,5
+M. angulosa,RNA splicing,5
+M. angulosa,methylation,2
+D. australis,proteolysis,8
+D. australis,translation,16
+D. australis,protein transport,16
+D. australis,intracellular protein transport,14
+D. australis,signal transduction,9
+D. australis,carbohydrate metabolic process,6
+D. australis,protein folding,6
+D. australis,vesicle-mediated transport,8
+D. australis,DNA-templated transcription,6
+D. australis,endoplasmic reticulum to Golgi vesicle-mediated transport,6
+D. australis,tricarboxylic acid cycle,3
+D. australis,mRNA processing,5
+D. australis,RNA splicing,5
+D. australis,methylation,3
+A. tenuifolia,proteolysis,95
+A. tenuifolia,translation,51
+A. tenuifolia,protein transport,47
+A. tenuifolia,intracellular protein transport,40
+A. tenuifolia,signal transduction,28
+A. tenuifolia,carbohydrate metabolic process,36
+A. tenuifolia,protein folding,26
+A. tenuifolia,vesicle-mediated transport,19
+A. tenuifolia,DNA-templated transcription,26
+A. tenuifolia,endoplasmic reticulum to Golgi vesicle-mediated transport,17
+A. tenuifolia,tricarboxylic acid cycle,19
+A. tenuifolia,mRNA processing,20
+A. tenuifolia,RNA splicing,19
+A. tenuifolia,methylation,24

@@ -1,0 +1,226 @@
+ontology,scope,term,protein_count
+Biological Process,ALL_SPECIES,proteolysis,116
+Biological Process,ALL_SPECIES,translation,86
+Biological Process,ALL_SPECIES,protein transport,84
+Biological Process,ALL_SPECIES,intracellular protein transport,75
+Biological Process,ALL_SPECIES,signal transduction,48
+Biological Process,ALL_SPECIES,carbohydrate metabolic process,43
+Biological Process,ALL_SPECIES,protein folding,40
+Biological Process,ALL_SPECIES,vesicle-mediated transport,38
+Biological Process,ALL_SPECIES,DNA-templated transcription,35
+Biological Process,ALL_SPECIES,endoplasmic reticulum to Golgi vesicle-mediated transport,32
+Biological Process,ALL_SPECIES,tricarboxylic acid cycle,32
+Biological Process,ALL_SPECIES,mRNA processing,31
+Biological Process,ALL_SPECIES,RNA splicing,30
+Biological Process,ALL_SPECIES,methylation,29
+Biological Process,ALL_SPECIES,microtubule-based process,27
+Biological Process,A. muricata,protein transport,9
+Biological Process,A. muricata,translation,6
+Biological Process,A. muricata,signal transduction,5
+Biological Process,A. muricata,microtubule-based process,4
+Biological Process,A. muricata,vesicle-mediated transport,4
+Biological Process,A. muricata,hydrogen peroxide catabolic process,4
+Biological Process,A. muricata,proteolysis,4
+Biological Process,A. muricata,tricarboxylic acid cycle,4
+Biological Process,A. muricata,intracellular protein transport,3
+Biological Process,A. muricata,protein folding,3
+Biological Process,A. muricata,cell redox homeostasis,3
+Biological Process,A. muricata,actin filament capping,3
+Biological Process,A. muricata,receptor-mediated endocytosis,2
+Biological Process,A. muricata,small GTPase-mediated signal transduction,2
+Biological Process,A. muricata,response to hydrogen peroxide,2
+Biological Process,M. angulosa,intracellular protein transport,18
+Biological Process,M. angulosa,translation,13
+Biological Process,M. angulosa,protein transport,12
+Biological Process,M. angulosa,proteolysis,9
+Biological Process,M. angulosa,vesicle-mediated transport,7
+Biological Process,M. angulosa,endoplasmic reticulum to Golgi vesicle-mediated transport,7
+Biological Process,M. angulosa,signal transduction,6
+Biological Process,M. angulosa,tricarboxylic acid cycle,6
+Biological Process,M. angulosa,intra-Golgi vesicle-mediated transport,6
+Biological Process,M. angulosa,protein folding,5
+Biological Process,M. angulosa,mRNA processing,5
+Biological Process,M. angulosa,RNA splicing,5
+Biological Process,M. angulosa,microtubule-based process,4
+Biological Process,M. angulosa,glycolytic process,4
+Biological Process,M. angulosa,small GTPase-mediated signal transduction,4
+Biological Process,D. australis,protein transport,16
+Biological Process,D. australis,translation,16
+Biological Process,D. australis,intracellular protein transport,14
+Biological Process,D. australis,signal transduction,9
+Biological Process,D. australis,vesicle-mediated transport,8
+Biological Process,D. australis,proteolysis,8
+Biological Process,D. australis,microtubule-based process,7
+Biological Process,D. australis,endocytosis,7
+Biological Process,D. australis,small GTPase-mediated signal transduction,6
+Biological Process,D. australis,DNA-templated transcription,6
+Biological Process,D. australis,endoplasmic reticulum to Golgi vesicle-mediated transport,6
+Biological Process,D. australis,"mRNA splicing, via spliceosome",6
+Biological Process,D. australis,carbohydrate metabolic process,6
+Biological Process,D. australis,protein folding,6
+Biological Process,D. australis,microtubule-based movement,5
+Biological Process,A. tenuifolia,proteolysis,95
+Biological Process,A. tenuifolia,translation,51
+Biological Process,A. tenuifolia,protein transport,47
+Biological Process,A. tenuifolia,intracellular protein transport,40
+Biological Process,A. tenuifolia,carbohydrate metabolic process,36
+Biological Process,A. tenuifolia,signal transduction,28
+Biological Process,A. tenuifolia,protein folding,26
+Biological Process,A. tenuifolia,DNA-templated transcription,26
+Biological Process,A. tenuifolia,methylation,24
+Biological Process,A. tenuifolia,cell-cell adhesion,20
+Biological Process,A. tenuifolia,mRNA processing,20
+Biological Process,A. tenuifolia,protein import into nucleus,20
+Biological Process,A. tenuifolia,vesicle-mediated transport,19
+Biological Process,A. tenuifolia,tricarboxylic acid cycle,19
+Biological Process,A. tenuifolia,RNA splicing,19
+Cellular Component,ALL_SPECIES,cytoplasm,486
+Cellular Component,ALL_SPECIES,plasma membrane,302
+Cellular Component,ALL_SPECIES,nucleus,272
+Cellular Component,ALL_SPECIES,cytosol,270
+Cellular Component,ALL_SPECIES,membrane,252
+Cellular Component,ALL_SPECIES,mitochondrion,174
+Cellular Component,ALL_SPECIES,endoplasmic reticulum membrane,100
+Cellular Component,ALL_SPECIES,extracellular region,92
+Cellular Component,ALL_SPECIES,cytoskeleton,84
+Cellular Component,ALL_SPECIES,mitochondrial inner membrane,81
+Cellular Component,ALL_SPECIES,extracellular space,76
+Cellular Component,ALL_SPECIES,microtubule,68
+Cellular Component,ALL_SPECIES,endoplasmic reticulum,65
+Cellular Component,ALL_SPECIES,endomembrane system,59
+Cellular Component,ALL_SPECIES,Golgi membrane,53
+Cellular Component,A. muricata,cytosol,19
+Cellular Component,A. muricata,cytoplasm,18
+Cellular Component,A. muricata,nucleus,16
+Cellular Component,A. muricata,mitochondrion,11
+Cellular Component,A. muricata,plasma membrane,11
+Cellular Component,A. muricata,cytoskeleton,8
+Cellular Component,A. muricata,membrane,7
+Cellular Component,A. muricata,microtubule,6
+Cellular Component,A. muricata,peroxisome,4
+Cellular Component,A. muricata,ribonucleoprotein complex,4
+Cellular Component,A. muricata,endoplasmic reticulum,4
+Cellular Component,A. muricata,cytosolic small ribosomal subunit,4
+Cellular Component,A. muricata,mitochondrial inner membrane,4
+Cellular Component,A. muricata,nucleosome,3
+Cellular Component,A. muricata,endoplasmic reticulum lumen,3
+Cellular Component,M. angulosa,cytoplasm,49
+Cellular Component,M. angulosa,cytosol,29
+Cellular Component,M. angulosa,plasma membrane,26
+Cellular Component,M. angulosa,nucleus,24
+Cellular Component,M. angulosa,mitochondrion,20
+Cellular Component,M. angulosa,membrane,18
+Cellular Component,M. angulosa,cytoskeleton,16
+Cellular Component,M. angulosa,endoplasmic reticulum membrane,12
+Cellular Component,M. angulosa,Golgi membrane,9
+Cellular Component,M. angulosa,microtubule,8
+Cellular Component,M. angulosa,mitochondrial inner membrane,8
+Cellular Component,M. angulosa,cytosolic small ribosomal subunit,8
+Cellular Component,M. angulosa,endomembrane system,7
+Cellular Component,M. angulosa,Golgi apparatus,7
+Cellular Component,M. angulosa,endoplasmic reticulum lumen,6
+Cellular Component,D. australis,cytoplasm,71
+Cellular Component,D. australis,cytosol,44
+Cellular Component,D. australis,nucleus,42
+Cellular Component,D. australis,plasma membrane,32
+Cellular Component,D. australis,mitochondrion,22
+Cellular Component,D. australis,microtubule,17
+Cellular Component,D. australis,cytoskeleton,16
+Cellular Component,D. australis,membrane,15
+Cellular Component,D. australis,Golgi membrane,9
+Cellular Component,D. australis,endomembrane system,8
+Cellular Component,D. australis,proteasome complex,8
+Cellular Component,D. australis,ribonucleoprotein complex,8
+Cellular Component,D. australis,mitochondrial inner membrane,8
+Cellular Component,D. australis,endoplasmic reticulum membrane,7
+Cellular Component,D. australis,cytosolic small ribosomal subunit,6
+Cellular Component,A. tenuifolia,cytoplasm,348
+Cellular Component,A. tenuifolia,plasma membrane,233
+Cellular Component,A. tenuifolia,membrane,212
+Cellular Component,A. tenuifolia,nucleus,190
+Cellular Component,A. tenuifolia,cytosol,178
+Cellular Component,A. tenuifolia,mitochondrion,121
+Cellular Component,A. tenuifolia,extracellular region,84
+Cellular Component,A. tenuifolia,endoplasmic reticulum membrane,80
+Cellular Component,A. tenuifolia,extracellular space,66
+Cellular Component,A. tenuifolia,mitochondrial inner membrane,61
+Cellular Component,A. tenuifolia,endoplasmic reticulum,52
+Cellular Component,A. tenuifolia,cytoskeleton,44
+Cellular Component,A. tenuifolia,endomembrane system,43
+Cellular Component,A. tenuifolia,microtubule,37
+Cellular Component,A. tenuifolia,ribonucleoprotein complex,34
+Molecular Function,ALL_SPECIES,ATP binding,436
+Molecular Function,ALL_SPECIES,metal ion binding,319
+Molecular Function,ALL_SPECIES,GTP binding,215
+Molecular Function,ALL_SPECIES,calcium ion binding,173
+Molecular Function,ALL_SPECIES,GTPase activity,158
+Molecular Function,ALL_SPECIES,RNA binding,150
+Molecular Function,ALL_SPECIES,ATP hydrolysis activity,127
+Molecular Function,ALL_SPECIES,structural constituent of ribosome,98
+Molecular Function,ALL_SPECIES,zinc ion binding,95
+Molecular Function,ALL_SPECIES,hydrolase activity,80
+Molecular Function,ALL_SPECIES,actin filament binding,67
+Molecular Function,ALL_SPECIES,DNA binding,60
+Molecular Function,ALL_SPECIES,actin binding,50
+Molecular Function,ALL_SPECIES,oxidoreductase activity,50
+Molecular Function,ALL_SPECIES,unfolded protein binding,48
+Molecular Function,A. muricata,GTP binding,28
+Molecular Function,A. muricata,ATP binding,27
+Molecular Function,A. muricata,GTPase activity,21
+Molecular Function,A. muricata,metal ion binding,12
+Molecular Function,A. muricata,calcium ion binding,9
+Molecular Function,A. muricata,ATP hydrolysis activity,9
+Molecular Function,A. muricata,structural constituent of ribosome,6
+Molecular Function,A. muricata,actin binding,5
+Molecular Function,A. muricata,actin filament binding,5
+Molecular Function,A. muricata,G protein activity,5
+Molecular Function,A. muricata,RNA binding,5
+Molecular Function,A. muricata,structural constituent of cytoskeleton,4
+Molecular Function,A. muricata,hydrolase activity,4
+Molecular Function,A. muricata,ATP-dependent protein folding chaperone,4
+Molecular Function,A. muricata,unfolded protein binding,4
+Molecular Function,M. angulosa,ATP binding,58
+Molecular Function,M. angulosa,GTP binding,33
+Molecular Function,M. angulosa,metal ion binding,32
+Molecular Function,M. angulosa,GTPase activity,25
+Molecular Function,M. angulosa,calcium ion binding,20
+Molecular Function,M. angulosa,ATP hydrolysis activity,19
+Molecular Function,M. angulosa,RNA binding,16
+Molecular Function,M. angulosa,structural constituent of ribosome,13
+Molecular Function,M. angulosa,actin binding,9
+Molecular Function,M. angulosa,structural molecule activity,8
+Molecular Function,M. angulosa,actin filament binding,8
+Molecular Function,M. angulosa,ATP-dependent protein folding chaperone,7
+Molecular Function,M. angulosa,unfolded protein binding,7
+Molecular Function,M. angulosa,structural constituent of cytoskeleton,6
+Molecular Function,M. angulosa,hydrolase activity,6
+Molecular Function,D. australis,ATP binding,94
+Molecular Function,D. australis,GTP binding,54
+Molecular Function,D. australis,GTPase activity,40
+Molecular Function,D. australis,metal ion binding,37
+Molecular Function,D. australis,ATP hydrolysis activity,28
+Molecular Function,D. australis,RNA binding,25
+Molecular Function,D. australis,calcium ion binding,17
+Molecular Function,D. australis,structural constituent of ribosome,17
+Molecular Function,D. australis,hydrolase activity,12
+Molecular Function,D. australis,actin filament binding,12
+Molecular Function,D. australis,zinc ion binding,11
+Molecular Function,D. australis,DNA binding,10
+Molecular Function,D. australis,ATP-dependent protein folding chaperone,10
+Molecular Function,D. australis,unfolded protein binding,10
+Molecular Function,D. australis,protein serine/threonine kinase activity,10
+Molecular Function,A. tenuifolia,ATP binding,257
+Molecular Function,A. tenuifolia,metal ion binding,238
+Molecular Function,A. tenuifolia,calcium ion binding,127
+Molecular Function,A. tenuifolia,RNA binding,104
+Molecular Function,A. tenuifolia,GTP binding,100
+Molecular Function,A. tenuifolia,zinc ion binding,75
+Molecular Function,A. tenuifolia,GTPase activity,72
+Molecular Function,A. tenuifolia,ATP hydrolysis activity,71
+Molecular Function,A. tenuifolia,structural constituent of ribosome,62
+Molecular Function,A. tenuifolia,hydrolase activity,58
+Molecular Function,A. tenuifolia,oxidoreductase activity,44
+Molecular Function,A. tenuifolia,actin filament binding,42
+Molecular Function,A. tenuifolia,DNA binding,41
+Molecular Function,A. tenuifolia,mRNA binding,39
+Molecular Function,A. tenuifolia,metalloendopeptidase activity,33

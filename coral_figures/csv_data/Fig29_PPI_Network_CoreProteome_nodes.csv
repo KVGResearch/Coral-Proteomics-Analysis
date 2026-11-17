@@ -1,0 +1,78 @@
+accession,label,degree,dominant_GO_BP
+A0AAD9Q9F5,Actin,18,cytoskeleton
+A0AAD9QQ06,ATP synthase subunit beta,18,proton motive force-driven mitochondrial ATP synthesis
+A0AAD9QAI5,Calmodulin,7,myosin II complex
+A0AAD9PWL2,ATP synthase subunit alpha,18,mitochondrion
+A0AAD9QHU4,Tubulin beta chain,17,microtubule-based process
+A0AAD9Q4X2,Ras-related protein Rab-2,15,GTP binding
+A0AAD9QZG1,ADP-ribosylation factor 1-li,21,vesicle-mediated transport
+A0A224ASV7,Heat shock protein 90,24,cytoplasm
+A0AAD9Q7N0,Clathrin heavy chain,1,clathrin complex
+A0AAD9PPI7,Histone H2B,10,structural constituent of chromatin
+A0AAD9VFR7,Ras-like protein RAS2,18,signal transduction
+A0AAD9Q5X1,Endoplasmic reticulum chaper,16,ATP binding
+A0AAD9QPL0,Ras-related protein Rab-11A,15,GTP binding
+A0AAD9Q386,Succinate-semialdehyde dehyd,15,GTP binding
+A0AAD9QX65,Alpha-actinin-1,8,actin binding
+A0AAD9VAZ6,Ras-related protein Rab-1A,17,GTP binding
+A0AAD9QT03,Flotillin-1,0,cytoplasmic vesicle
+A0AAD9Q7Z3,Guanine nucleotide-binding p,2,signal transduction
+P35059,Histone H4,10,structural constituent of chromatin
+A0AAD9VE97,Endoplasmin,16,ATP hydrolysis activity
+A0AAD9R1W9,Myosin heavy chain,18,myosin filament
+A0AAD9VFN0,Serine/threonine-protein pho,4,protein serine/threonine phosphatase activity
+A0AAD9R7U2,Fructose-bisphosphate aldola,1,glycolytic process
+A0AAD9VHB2,Serine/threonine-protein pho,19,cytoplasm
+A0AAD9Q7R8,Major vault protein,17,cytoplasm
+A0AAD9QB71,Beta'-coat protein,2,structural molecule activity
+A0AAD9Q3R2,Actin-related protein 2,19,cytoskeleton
+A0AAD9PRQ1,vesicle-fusing ATPase,29,cytosol
+A0AAD9V3U3,Cathepsin B,1,cysteine-type peptidase activity
+A0AAD9UYV3,Calreticulin,9,ERAD pathway
+A0AAD9VEK0,thioredoxin-dependent peroxi,6,cytosol
+A0AAD9VG87,Ras-related protein Rab-6A,15,GTP binding
+A0AAD9QYW8,Ras-related protein Rab-3,17,GTP binding
+A0AAD9R1J6,small monomeric GTPase,17,G protein activity
+A0AAD9QPI4,60 kDa heat shock protein,18,ATP-dependent protein folding chaperone
+A0AAD9Q0Q5,Spectrin beta chain,19,actin binding
+A0AAD9R183,Filamin-C,5,cytoskeleton
+A0AAD9V156,6-phosphogluconate dehydroge,0,pentose-phosphate shunt
+Q93116,Ubiquitin-ribosomal protein ,21,cytoplasm
+A0AAD9QKW8,serine--tRNA ligase,15,ATP binding
+A0AAD9QAQ0,S-phase kinase-associated pr,0,ubiquitin-dependent protein catabolic process
+A0AAD9USD1,Histone H2A,10,structural constituent of chromatin
+A0AAD9QTN8,Spectrin alpha chain,11,actin binding
+A0AAD9QGK0,Myosin regulatory light poly,6,calcium ion binding
+A0AAD9Q242,NADH dehydrogenase [ubiquino,7,mitochondrion
+A0AAD9R3Z7,Annexin,24,cytoplasm
+A0AAD9PW90,Splicing factor 3B subunit 4,2,RNA splicing
+A0AAD9R4B0,Vacuolar proton pump subunit,15,"proton-transporting V-type ATPase, V1 domain"
+A0AAD9QT90,40S ribosomal protein S5,6,RNA binding
+A0AAD9QVP4,Elongation factor 2,23,cytosol
+A0AAD9UVS8,Small ribosomal subunit prot,4,cytosolic small ribosomal subunit
+A0AAD9QXM6,RuvB-like helicase,24,DNA helicase activity
+A0AAD9PV58,Short-chain-enoyl-CoA hydrat,1,catalytic activity
+A0AAD9Q7X7,Enolase,1,glycolytic process
+A0AAD9Q8D3,Glutamine synthetase,23,ATP binding
+A0AAD9Q8J6,26S proteasome regulatory su,23,ATP binding
+A3F9F2,Histone H2B (Fragment),0,other
+A0AAD9VG18,Myoferlin,6,membrane fusion
+A0AAD9UYN9,Ras-like GTP-binding protein,15,GTP binding
+A0AAD9QKY7,ADP/ATP translocase,1,mitochondrial inner membrane
+A0AAD9QEH3,Aminopeptidase NPEPL1,11,cytoplasm
+A0AAD9R7Q5,"Elongation factor Tu, mitoch",20,mitochondrion
+A0AAD9R7I2,Dynein light chain 2 (Fragme,1,microtubule-based process
+A0AAD9V223,Trifunctional enzyme subunit,2,long-chain (3S)-3-hydroxyacyl-CoA dehydrogenase (NAD+) activity
+L0AUB3,Guanine nucleotide-binding p,26,heterotrimeric G-protein complex
+A0AAD9Q6Z3,small monomeric GTPase,16,signal transduction
+A0AAD9VH16,RNA helicase,17,translation initiation factor activity
+A0AAD9Q6S9,Sorting nexin-2,10,cytosol
+A0AAD9R5S6,Serine/threonine-protein pho,15,cytosol
+A0AAD9QTG5,Coatomer subunit delta,5,Golgi localization
+A0AAD9V784,Small ribosomal subunit prot,4,cytosolic small ribosomal subunit
+A0AAD9R269,Small ribosomal subunit prot,4,cytosolic small ribosomal subunit
+A0AAD9VHU7,GTP-binding nuclear protein,30,cytoplasm
+A0AAD9QMH0,COP9 signalosome complex sub,6,cytosol
+A0AAD9UZL7,Acyl-coenzyme A oxidase,0,lipid homeostasis
+A0AAD9Q2T7,Neurocalcin-like protein,6,calcium ion binding
+A0AAD9V922,Peroxiredoxin-6,11,cell redox homeostasis

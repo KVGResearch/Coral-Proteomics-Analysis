@@ -1,0 +1,1024 @@
+biological_process,A. muricata,M. angulosa,D. australis,A. tenuifolia
+'de novo' AMP biosynthetic process,0,0,0,1
+'de novo' GDP-L-fucose biosynthetic process,0,0,0,1
+'de novo' IMP biosynthetic process,0,1,0,2
+'de novo' NAD+ biosynthetic process from L-tryptophan,0,0,0,2
+'de novo' cotranslational protein folding,0,0,0,1
+'de novo' pyrimidine nucleobase biosynthetic process,0,0,0,3
+10-formyltetrahydrofolate biosynthetic process,0,0,0,1
+10-formyltetrahydrofolate catabolic process,0,1,1,1
+2-oxoglutarate metabolic process,0,0,0,1
+3'-phosphoadenosine 5'-phosphosulfate biosynthetic process,0,0,0,1
+3-keto-sphinganine metabolic process,0,0,0,1
+7-methylguanosine mRNA capping,0,0,0,1
+ADP biosynthetic process,0,0,0,2
+AMP metabolic process,0,0,0,2
+AMP salvage,0,0,0,2
+ATP metabolic process,1,2,2,3
+ATP synthesis coupled electron transport,0,0,0,3
+Arp2/3 complex-mediated actin nucleation,2,1,3,6
+CAAX-box protein processing,0,0,0,1
+CENP-A containing chromatin assembly,0,0,0,2
+COP9 signalosome assembly,0,0,0,1
+COPI coating of Golgi vesicle,0,0,1,0
+COPII vesicle coating,0,1,0,1
+COPII-coated vesicle budding,0,1,0,1
+COPII-coated vesicle cargo loading,0,2,1,4
+CTP biosynthetic process,0,0,0,3
+D-amino acid catabolic process,0,0,0,1
+D-gluconate metabolic process,1,1,1,1
+D-ribose catabolic process,0,0,0,1
+D-xylose metabolic process,0,0,0,1
+DNA catabolic process,0,0,0,1
+DNA damage response,0,0,0,2
+DNA integration,0,0,0,2
+DNA metabolic process,0,0,1,0
+DNA recombination,0,0,0,1
+DNA repair,1,2,2,7
+DNA replication,0,0,0,2
+DNA replication-dependent chromatin assembly,0,0,0,2
+DNA strand elongation involved in DNA replication,0,0,0,1
+DNA transposition,0,0,0,1
+DNA-templated transcription,1,2,6,26
+ERAD pathway,1,1,1,8
+G protein-coupled glutamate receptor signaling pathway,0,0,0,1
+G protein-coupled receptor internalization,0,0,0,1
+G protein-coupled receptor signaling pathway,0,0,0,4
+GDP-L-fucose biosynthetic process,0,0,0,1
+GDP-L-fucose salvage,0,0,0,1
+GDP-mannose biosynthetic process,0,0,1,2
+GMP biosynthetic process,0,0,0,1
+GPI anchor biosynthetic process,0,1,0,6
+GTP biosynthetic process,0,0,0,4
+GTP metabolic process,0,0,0,1
+Golgi localization,1,1,1,1
+Golgi organization,0,2,2,5
+Golgi to plasma membrane protein transport,0,1,0,2
+Golgi to plasma membrane transport,0,1,0,3
+Golgi to vacuole transport,0,1,0,1
+Golgi vesicle budding,0,0,0,1
+Golgi vesicle docking,0,0,0,1
+Golgi vesicle transport,0,2,0,0
+IMP metabolic process,0,0,0,1
+IRE1-mediated unfolded protein response,0,0,0,1
+ITP metabolic process,0,0,0,1
+"L-alanine catabolic process, by transamination",0,0,0,1
+L-arabinose metabolic process,0,0,0,1
+L-arginine biosynthetic process,0,0,0,1
+L-arginine biosynthetic process via ornithine,0,0,0,2
+L-arginine catabolic process to L-glutamate,0,0,0,1
+L-arginine catabolic process to proline via ornithine,0,0,0,1
+L-ascorbic acid biosynthetic process,0,0,0,2
+L-asparagine biosynthetic process,0,0,0,1
+L-aspartate biosynthetic process,0,0,0,1
+L-aspartate catabolic process,0,0,0,1
+L-cysteine biosynthetic process from L-serine,0,1,0,1
+L-cysteine biosynthetic process via L-cystathionine,0,0,1,1
+L-glutamate catabolic process,0,0,1,1
+L-histidine catabolic process,0,0,1,1
+L-leucine biosynthetic process,0,0,0,1
+L-leucine catabolic process,0,0,1,2
+L-lysine biosynthetic process via aminoadipic acid,0,0,0,1
+L-lysine catabolic process to acetyl-CoA via L-pipecolate,0,0,0,1
+L-methionine salvage from S-adenosylmethionine,0,0,0,2
+L-methionine salvage from methylthioadenosine,0,0,0,2
+L-phenylalanine catabolic process,0,0,1,3
+L-proline biosynthetic process,0,0,0,2
+L-proline catabolic process to L-glutamate,0,0,0,1
+L-serine biosynthetic process,0,1,0,2
+L-tryptophan catabolic process,0,0,0,2
+L-tyrosine catabolic process,0,0,1,2
+L-valine biosynthetic process,0,0,0,2
+L-valine catabolic process,0,0,0,3
+N-acetylglucosamine catabolic process,0,0,1,1
+N-acetylglucosamine metabolic process,0,0,0,1
+N-acetylneuraminate catabolic process,0,0,1,1
+N-acylethanolamine metabolic process,0,0,0,1
+N-glycan processing,0,0,0,3
+N-glycan processing to lysosome,0,0,0,1
+NAD+ biosynthetic process,0,0,0,4
+NAD+ biosynthetic process via the salvage pathway,0,0,0,1
+NAD+ metabolic process,0,0,0,1
+NADP+ biosynthetic process,0,0,0,1
+NADP+ metabolic process,1,1,2,2
+NADPH regeneration,0,1,0,2
+Notch signaling pathway,0,0,0,6
+RNA 5'-cap (guanine-N7)-methylation,0,0,0,1
+RNA export from nucleus,0,0,0,4
+RNA polymerase I assembly,0,0,0,1
+RNA polymerase II core complex assembly,0,0,0,1
+RNA polymerase II preinitiation complex assembly,0,0,0,1
+RNA polymerase III assembly,0,0,0,1
+RNA processing,0,0,0,3
+RNA splicing,1,5,5,19
+"RNA splicing, via transesterification reactions",0,0,0,1
+Rab protein signal transduction,0,0,0,1
+Rap protein signal transduction,1,1,1,1
+Rho protein signal transduction,0,0,0,5
+S-adenosylhomocysteine metabolic process,0,0,1,1
+S-adenosylmethionine biosynthetic process,1,0,1,3
+S-adenosylmethionine cycle,0,1,0,2
+S-adenosylmethionine metabolic process,0,0,1,1
+SCF complex assembly,0,1,0,1
+SNARE complex disassembly,0,1,0,2
+SREBP signaling pathway,0,1,0,1
+SRP-dependent cotranslational protein targeting to membrane,0,1,0,3
+"SRP-dependent cotranslational protein targeting to membrane, translocation",0,0,0,1
+TOR signaling,0,0,0,1
+TORC2 signaling,0,0,0,1
+UDP-N-acetylglucosamine biosynthetic process,0,0,2,3
+UDP-N-acetylglucosamine metabolic process,0,1,0,1
+UDP-alpha-D-glucose metabolic process,0,0,1,1
+UTP biosynthetic process,0,0,0,4
+UV protection,0,0,0,1
+Wnt protein secretion,0,0,0,1
+Wnt signaling pathway,0,0,1,1
+[2Fe-2S] cluster assembly,0,0,0,1
+acetate metabolic process,0,0,0,1
+acetyl-CoA biosynthetic process,0,1,0,2
+acetyl-CoA biosynthetic process from acetate,0,0,0,1
+acetyl-CoA transmembrane transport,0,0,0,1
+actin cortical patch organization,0,1,1,1
+actin crosslink formation,0,0,0,1
+actin cytoskeleton organization,2,3,5,11
+actin filament bundle assembly,0,1,0,3
+actin filament capping,3,2,3,3
+actin filament depolymerization,0,0,1,2
+actin filament network formation,0,0,0,1
+actin filament organization,0,1,2,14
+actin filament polymerization,2,1,3,4
+actin filament severing,0,0,0,3
+actin filament-based movement,0,0,1,2
+actin polymerization or depolymerization,1,1,1,5
+activation of innate immune response,0,0,0,1
+actomyosin structure organization,0,2,1,8
+acyl-CoA metabolic process,0,0,0,1
+acylglycerol catabolic process,0,0,0,1
+adenine salvage,0,0,0,1
+adenylate cyclase-activating G protein-coupled receptor signaling pathway,0,0,0,1
+adenylate cyclase-activating dopamine receptor signaling pathway,0,1,1,1
+adenylate cyclase-modulating G protein-coupled receptor signaling pathway,1,1,3,4
+adherens junction organization,0,0,0,1
+aerobic respiration,0,0,0,2
+alanyl-tRNA aminoacylation,0,1,0,1
+aldehyde metabolic process,0,1,0,1
+"alternative mRNA splicing, via spliceosome",0,0,0,2
+amine metabolic process,0,0,0,3
+amino acid biosynthetic process,0,0,0,1
+amino acid catabolic process,0,1,1,1
+amino acid import across plasma membrane,0,0,0,1
+amino acid metabolic process,0,0,0,3
+amino acid transport,0,0,0,8
+ammonium homeostasis,0,0,0,1
+anatomical structure formation involved in morphogenesis,0,0,0,1
+anatomical structure morphogenesis,0,1,1,2
+androgen metabolic process,0,0,0,1
+animal organ development,0,0,0,1
+animal organ morphogenesis,0,3,1,7
+anterograde axonal transport,0,0,1,1
+anterograde dendritic transport of messenger ribonucleoprotein complex,0,0,0,1
+anthranilate metabolic process,0,0,0,2
+antibiotic biosynthetic process,0,0,0,1
+apoptotic process,0,0,0,9
+apoptotic signaling pathway,0,0,0,1
+arachidonate secretion,0,0,0,1
+arginine metabolic process,0,0,0,1
+argininosuccinate metabolic process,0,0,0,1
+arginyl-tRNA aminoacylation,1,0,1,1
+asparagine metabolic process,0,0,0,1
+asparaginyl-tRNA aminoacylation,0,0,0,1
+aspartyl-tRNA aminoacylation,0,0,0,1
+attachment of GPI anchor to protein,0,0,0,4
+autophagosome assembly,1,0,1,4
+autophagosome maturation,1,1,1,2
+autophagy,0,0,0,3
+autophagy of mitochondrion,1,0,2,3
+axon development,0,0,0,1
+axon guidance,0,2,1,14
+axoneme assembly,0,1,0,2
+axonogenesis,0,1,0,3
+barbed-end actin filament capping,1,1,2,6
+basement membrane assembly,0,1,0,1
+beta-alanine biosynthetic process via 3-ureidopropionate,0,0,0,1
+bicarbonate transport,0,0,0,1
+bioluminescence,0,0,0,5
+box C/D sno(s)RNA 3'-end processing,0,0,1,1
+box H/ACA sno(s)RNA 3'-end processing,0,0,0,1
+branched-chain amino acid catabolic process,0,0,1,1
+brassinosteroid biosynthetic process,0,0,0,1
+butyrate catabolic process,0,0,1,1
+cAMP biosynthetic process,0,0,0,1
+calcineurin-mediated signaling,0,1,1,1
+calcium ion import across plasma membrane,0,0,0,2
+calcium ion transport,0,0,0,2
+calcium-dependent cell-cell adhesion,0,0,0,1
+calcium-ion regulated exocytosis,0,0,0,1
+calcium-mediated signaling,0,0,0,2
+canonical Wnt signaling pathway,0,0,0,7
+canonical glycolysis,0,0,0,1
+cap-dependent translational initiation,0,0,1,1
+carbohydrate catabolic process,0,0,0,1
+carbohydrate derivative catabolic process,0,0,0,1
+carbohydrate metabolic process,0,1,6,36
+carbohydrate phosphorylation,0,0,0,1
+carboxylic acid metabolic process,0,0,0,5
+carnitine biosynthetic process,0,0,0,1
+carnitine metabolic process,0,0,0,3
+carnitine transmembrane transport,0,0,0,1
+carotene catabolic process,0,0,0,1
+catecholamine uptake,0,0,0,4
+cell adhesion,0,1,2,8
+cell adhesion mediated by integrin,0,0,0,8
+cell communication,0,0,0,2
+cell development,0,0,0,1
+cell differentiation,0,1,0,9
+cell division,0,2,3,11
+cell junction assembly,0,0,1,1
+cell migration,0,3,1,14
+cell morphogenesis,0,1,1,3
+cell motility,0,0,0,3
+cell projection assembly,0,0,0,1
+cell projection morphogenesis,0,0,1,1
+cell projection organization,0,0,1,2
+cell redox homeostasis,3,2,3,6
+cell surface receptor protein tyrosine kinase signaling pathway,1,0,2,10
+cell surface receptor signaling pathway,0,0,0,6
+cell volume homeostasis,0,0,0,2
+cell-cell adhesion,0,3,3,20
+cell-cell adhesion mediated by cadherin,0,0,0,1
+cell-cell junction assembly,0,0,0,1
+cell-cell junction organization,0,0,1,1
+cell-matrix adhesion,0,0,0,13
+cellular heat acclimation,0,0,0,1
+cellular response to amino acid starvation,0,0,0,3
+cellular response to calcium ion,0,1,0,5
+cellular response to fibroblast growth factor stimulus,0,0,0,1
+cellular response to glucose stimulus,1,1,0,2
+cellular response to oxidative stress,0,0,0,3
+cellular response to starvation,0,0,2,3
+cellular response to stress,2,1,2,2
+centrosome cycle,0,1,0,1
+centrosome localization,0,0,1,0
+ceramide biosynthetic process,0,0,0,2
+chaperone-mediated protein complex assembly,0,0,0,2
+chemical synaptic transmission,0,2,1,2
+chitin catabolic process,0,0,1,3
+chloride ion homeostasis,0,0,0,2
+cholesterol biosynthetic process,0,0,0,2
+cholesterol catabolic process,0,0,0,1
+cholesterol metabolic process,0,0,0,1
+cholesterol transport,0,0,0,1
+chromatin organization,0,0,3,6
+chromosome condensation,0,0,0,4
+chromosome organization,0,0,1,3
+chromosome segregation,0,0,1,0
+ciliary basal body-plasma membrane docking,0,0,1,0
+ciliary transition zone assembly,0,0,1,0
+cilium assembly,0,0,1,6
+cilium movement,0,0,0,6
+cilium movement involved in cell motility,0,1,1,4
+cilium-dependent cell motility,0,0,0,1
+citrate metabolic process,0,1,0,2
+citrulline biosynthetic process,0,0,0,2
+citrulline metabolic process,0,0,0,1
+clathrin coat assembly,0,0,0,2
+clathrin-dependent endocytosis,0,2,0,3
+clustering of voltage-gated sodium channels,0,0,0,1
+collagen catabolic process,0,0,0,2
+collagen fibril organization,0,0,0,1
+collagen metabolic process,0,0,0,1
+complement activation,0,0,0,1
+copper ion homeostasis,0,0,0,2
+copper ion import,0,0,0,1
+copper ion transport,0,0,0,2
+cortical actin cytoskeleton organization,0,1,0,3
+creatine biosynthetic process,0,0,1,1
+cristae formation,0,0,0,2
+cyclic threonylcarbamoyladenosine biosynthetic process,0,0,1,0
+cyclooxygenase pathway,0,0,0,1
+cysteine metabolic process,0,0,0,1
+cysteinyl-tRNA aminoacylation,0,0,0,1
+cytoplasmic microtubule organization,0,1,1,1
+cytoplasmic translation,0,0,1,11
+cytoplasmic translational elongation,0,0,0,1
+cytoplasmic translational initiation,0,1,0,1
+cytoskeleton organization,0,0,1,1
+cytoskeleton-dependent intracellular transport,0,0,0,1
+cytosolic ribosome assembly,0,0,1,1
+deadenylation-independent decapping of nuclear-transcribed mRNA,0,0,0,1
+defense response,0,0,0,1
+defense response to bacterium,0,0,0,1
+defense response to virus,0,0,0,1
+dendrite development,0,0,0,1
+dendrite self-avoidance,0,0,0,1
+deoxyribonucleoside monophosphate catabolic process,0,0,0,1
+detection of mechanical stimulus,1,0,0,2
+dolichol-linked oligosaccharide biosynthetic process,0,1,0,2
+dopamine catabolic process,0,0,0,3
+dopaminergic neuron differentiation,0,1,0,1
+double-strand break repair via break-induced replication,0,0,0,1
+double-strand break repair via homologous recombination,0,0,1,1
+early endosome to Golgi transport,1,1,1,2
+early endosome to late endosome transport,0,0,0,1
+electron transport coupled proton transport,0,0,0,3
+embryonic morphogenesis,0,0,0,1
+endocytic recycling,0,1,1,5
+endocytosis,1,3,7,15
+endocytosis involved in viral entry into host cell,0,0,0,1
+endoplasmic reticulum calcium ion homeostasis,0,0,0,1
+endoplasmic reticulum mannose trimming,0,0,0,2
+endoplasmic reticulum membrane organization,0,0,0,1
+endoplasmic reticulum organization,0,1,0,1
+endoplasmic reticulum to Golgi vesicle-mediated transport,2,7,6,17
+endoplasmic reticulum unfolded protein response,0,0,0,4
+endoplasmic reticulum-plasma membrane tethering,0,1,0,3
+endosomal transport,0,1,3,7
+endosome fission,0,1,1,1
+endosome organization,1,1,2,6
+endosome to lysosome transport,1,1,0,4
+endosome transport via multivesicular body sorting pathway,0,1,0,1
+ephrin receptor signaling pathway,0,0,0,1
+epithelial cell differentiation,0,0,0,1
+epithelial cilium movement involved in determination of left/right asymmetry,0,0,0,1
+epoxide metabolic process,0,0,0,1
+establishment of mitotic spindle orientation,0,1,2,4
+establishment of spindle orientation,0,1,0,1
+establishment or maintenance of cell polarity,0,0,0,3
+establishment or maintenance of epithelial cell apical/basal polarity,0,1,1,3
+estrogen metabolic process,0,0,0,1
+ethanolamine metabolic process,0,0,0,1
+exocytosis,0,3,2,4
+extracellular matrix organization,0,0,0,12
+extrinsic apoptotic signaling pathway in absence of ligand,0,0,0,2
+eye morphogenesis,0,0,0,1
+fatty acid beta-oxidation,2,4,2,12
+fatty acid beta-oxidation using acyl-CoA dehydrogenase,0,1,2,3
+fatty acid beta-oxidation using acyl-CoA oxidase,1,1,1,3
+fatty acid biosynthetic process,0,1,0,3
+fatty acid catabolic process,0,0,1,2
+fatty acid metabolic process,0,1,0,13
+fertilization,0,0,0,1
+folic acid metabolic process,0,0,0,1
+formaldehyde catabolic process,1,0,0,2
+formation of cytoplasmic translation initiation complex,0,0,2,9
+"fructose 1,6-bisphosphate metabolic process",0,0,1,2
+"fructose 2,6-bisphosphate metabolic process",0,0,0,1
+fructose 6-phosphate metabolic process,0,1,1,3
+fructose metabolic process,0,0,1,3
+fucose metabolic process,0,0,0,8
+fumarate metabolic process,0,0,0,1
+"galactose catabolic process via UDP-galactose, Leloir pathway",0,1,0,4
+galactose metabolic process,0,0,0,1
+gamma-aminobutyric acid catabolic process,1,1,1,2
+ganglioside catabolic process,0,0,1,1
+generation of precursor metabolites and energy,0,0,0,3
+germ cell development,0,0,0,1
+glucan catabolic process,0,0,0,1
+gluconeogenesis,1,3,2,8
+glucosamine catabolic process,0,0,1,1
+glucose 6-phosphate metabolic process,0,0,0,1
+glucose catabolic process,0,0,0,1
+glucose metabolic process,1,1,2,6
+glucosylceramide catabolic process,0,0,0,1
+glucuronoside catabolic process,0,0,0,2
+glutamate biosynthetic process,0,1,0,2
+glutamine biosynthetic process,1,1,1,1
+glutamine metabolic process,0,0,0,3
+glutaminyl-tRNA aminoacylation,0,1,1,1
+glutathione biosynthetic process,0,0,0,1
+glutathione catabolic process,1,0,0,9
+glutathione metabolic process,0,0,0,11
+glyceraldehyde-3-phosphate biosynthetic process,0,1,0,2
+glyceraldehyde-3-phosphate metabolic process,0,1,1,4
+glycerol biosynthetic process from pyruvate,1,1,0,2
+glycerol catabolic process,0,1,0,2
+glycerol metabolic process,0,0,0,2
+glycerol-3-phosphate biosynthetic process,0,0,0,2
+glycerol-3-phosphate catabolic process,0,0,0,1
+glycerol-3-phosphate metabolic process,0,0,0,1
+glycerophospholipid biosynthetic process,0,0,0,1
+glycerophospholipid catabolic process,0,0,0,2
+glycine biosynthetic process from L-serine,0,0,1,3
+"glycine biosynthetic process, by transamination of glyoxylate",0,0,0,1
+glycine decarboxylation via glycine cleavage system,0,0,0,1
+glycogen biosynthetic process,0,0,1,5
+glycogen catabolic process,0,1,0,3
+glycolate biosynthetic process,0,0,0,1
+glycolipid biosynthetic process,0,0,0,1
+glycolipid catabolic process,0,0,0,1
+glycolytic process,2,4,4,12
+glycophagy,1,0,1,1
+glycoprotein biosynthetic process,0,2,2,7
+glycoprotein catabolic process,0,0,0,2
+glycosaminoglycan catabolic process,0,0,1,2
+glycosaminoglycan metabolic process,0,0,1,3
+glycoside catabolic process,0,0,0,8
+glyoxal metabolic process,0,0,0,1
+glyoxylate catabolic process,0,0,0,1
+glyoxylate cycle,1,2,2,5
+heme biosynthetic process,0,0,0,2
+heme catabolic process,0,0,0,1
+hemostasis,0,0,0,1
+heparan sulfate proteoglycan catabolic process,0,0,1,1
+heterochromatin formation,0,1,0,2
+heterophilic cell-cell adhesion,0,0,0,1
+histidyl-tRNA aminoacylation,0,0,1,0
+homocysteine catabolic process,0,0,0,1
+homocysteine metabolic process,0,0,0,1
+homogentisate catabolic process,0,0,0,1
+homophilic cell-cell adhesion,0,0,1,11
+hormone biosynthetic process,0,0,0,4
+hydrogen peroxide catabolic process,4,2,3,5
+hydrogen sulfide metabolic process,0,0,0,1
+immune response,0,0,0,2
+import into nucleus,0,0,0,1
+innate immune response,0,0,0,2
+inner dynein arm assembly,0,0,0,1
+inner mitochondrial membrane organization,0,0,0,1
+inositol metabolic process,0,0,0,1
+integrin-mediated signaling pathway,0,0,0,9
+intein-mediated protein splicing,0,0,0,2
+interstrand cross-link repair,0,0,0,2
+intra-Golgi vesicle-mediated transport,1,6,3,7
+intracellular calcium ion homeostasis,0,0,0,2
+intracellular cholesterol transport,0,0,0,1
+intracellular distribution of mitochondria,0,0,0,3
+intracellular glucose homeostasis,0,0,1,1
+intracellular iron ion homeostasis,0,0,0,4
+intracellular mRNA localization,0,0,0,1
+intracellular monoatomic cation homeostasis,0,0,0,1
+intracellular potassium ion homeostasis,0,1,2,2
+intracellular protein transport,3,18,14,40
+intracellular signal transduction,0,0,1,8
+intracellular sodium ion homeostasis,0,1,2,2
+intraciliary transport,0,0,0,1
+intrinsic apoptotic signaling pathway in response to DNA damage,0,0,0,2
+iron ion transport,0,1,0,12
+iron-sulfur cluster assembly,0,0,0,1
+isocitrate metabolic process,1,1,2,5
+isoleucine biosynthetic process,0,0,0,1
+isoleucyl-tRNA aminoacylation,0,0,0,2
+killing of cells of another organism,0,0,0,2
+kynurenine metabolic process,0,0,0,2
+lactate catabolic process,0,0,0,1
+lactate metabolic process,0,1,0,1
+late endosome to Golgi transport,0,1,0,1
+late endosome to vacuole transport via multivesicular body sorting pathway,0,1,1,2
+leading strand elongation,0,0,0,1
+learning or memory,0,0,0,1
+leucyl-tRNA aminoacylation,0,0,0,2
+leukotriene metabolic process,0,0,0,1
+lipid biosynthetic process,0,0,0,6
+lipid catabolic process,0,0,0,8
+lipid homeostasis,1,1,1,3
+lipid metabolic process,0,1,0,6
+lipid oxidation,0,1,0,7
+lipid storage,0,0,0,1
+lipid transport,0,2,1,7
+lipoprotein transport,0,0,0,1
+locomotion,0,0,1,1
+long-chain fatty acid import into cell,0,0,0,1
+long-chain fatty acid import into peroxisome,0,0,0,1
+long-chain fatty-acyl-CoA metabolic process,0,0,0,1
+lysosomal transport,0,0,0,1
+lysyl-tRNA aminoacylation,0,0,0,1
+mRNA 3'-end processing,0,0,1,1
+mRNA 5'-splice site recognition,0,0,0,1
+mRNA catabolic process,0,0,1,1
+"mRNA cis splicing, via spliceosome",0,1,1,3
+mRNA export from nucleus,0,1,0,5
+mRNA processing,1,5,5,20
+mRNA pseudouridine synthesis,0,0,0,1
+mRNA splice site recognition,0,0,0,2
+"mRNA splicing, via spliceosome",0,1,6,14
+mRNA transport,0,1,1,10
+macroautophagy,0,1,0,2
+magnesium ion transport,0,0,0,1
+malate metabolic process,0,0,0,2
+malate-aspartate shuttle,0,1,1,1
+mannose metabolic process,0,0,0,4
+"maturation of LSU-rRNA from tricistronic rRNA transcript (SSU-rRNA, 5.8S rRNA, LSU-rRNA)",0,0,0,1
+maturation of SSU-rRNA,0,1,0,1
+"maturation of SSU-rRNA from tricistronic rRNA transcript (SSU-rRNA, 5.8S rRNA, LSU-rRNA)",0,0,0,1
+medium-chain fatty acid catabolic process,0,1,1,1
+meiotic cell cycle,0,0,0,1
+"meiotic sister chromatid cohesion, centromeric",0,0,0,1
+membrane fusion,1,3,1,5
+membrane organization,0,0,0,2
+membrane protein ectodomain proteolysis,0,0,0,2
+membrane protein proteolysis,0,1,0,1
+methionine biosynthetic process,0,1,1,2
+methionine metabolic process,0,0,0,1
+methionyl-tRNA aminoacylation,0,0,0,1
+methylation,0,2,3,24
+methylglyoxal catabolic process to D-lactate via S-lactoyl-glutathione,0,0,0,2
+microtubule bundle formation,0,0,0,1
+microtubule cytoskeleton organization,0,0,1,1
+microtubule depolymerization,0,0,0,1
+microtubule nucleation,0,1,2,0
+microtubule polymerization,0,0,0,1
+microtubule severing,0,0,0,2
+microtubule sliding,0,1,1,1
+microtubule-based movement,1,2,5,13
+microtubule-based process,4,4,7,12
+mismatch repair,0,0,0,1
+mitochondrial ADP transmembrane transport,1,2,2,1
+mitochondrial ATP transmembrane transport,1,2,2,1
+mitochondrial citrate transmembrane transport,0,0,1,1
+"mitochondrial electron transport, NADH to ubiquinone",0,1,1,9
+"mitochondrial electron transport, cytochrome c to oxygen",0,0,0,4
+"mitochondrial electron transport, succinate to ubiquinone",0,0,0,2
+"mitochondrial electron transport, ubiquinol to cytochrome c",0,0,0,4
+mitochondrial fission,0,0,0,2
+mitochondrial fusion,0,0,0,1
+mitochondrial glycyl-tRNA aminoacylation,0,0,0,1
+mitochondrial phosphate ion transmembrane transport,0,1,0,1
+mitochondrial protein processing,0,0,0,2
+mitochondrial respiratory chain complex I assembly,0,1,0,4
+mitochondrial respiratory chain complex assembly,0,0,0,1
+mitochondrial translation,0,0,1,0
+mitochondrial translational elongation,1,1,1,1
+mitochondrial transport,0,0,0,1
+mitochondrion organization,2,1,2,7
+mitophagy,0,0,0,2
+mitotic DNA replication initiation,0,0,0,1
+mitotic actomyosin contractile ring assembly actin filament organization,0,0,0,1
+mitotic centrosome separation,0,0,1,0
+mitotic chromosome condensation,0,1,0,1
+mitotic cytokinesis,0,0,0,3
+mitotic spindle assembly,0,0,0,1
+mitotic spindle disassembly,1,1,1,1
+mitotic spindle organization,0,0,0,1
+monoacylglycerol catabolic process,0,0,0,2
+monoatomic anion transport,0,0,0,1
+monoatomic ion homeostasis,0,0,0,1
+monoatomic ion transmembrane transport,0,0,0,3
+monosaccharide metabolic process,0,0,0,1
+morphogenesis of an epithelium,0,0,0,2
+motile cilium assembly,0,1,0,1
+muscle organ development,0,0,0,2
+muscle structure development,0,0,0,2
+myo-inositol transport,0,0,0,1
+negative regulation of BMP signaling pathway,0,0,0,2
+negative regulation of DNA recombination,0,0,0,4
+negative regulation of DNA-templated transcription,0,0,0,4
+negative regulation of ERK1 and ERK2 cascade,0,0,0,1
+negative regulation of Wnt signaling pathway,0,0,0,1
+negative regulation of apoptotic process,0,0,0,3
+negative regulation of autophagy,0,0,2,4
+negative regulation of canonical Wnt signaling pathway,0,0,0,3
+negative regulation of cell cycle process,0,0,0,1
+negative regulation of cell growth,0,0,0,1
+negative regulation of cell population proliferation,0,0,0,1
+negative regulation of developmental process,0,0,0,1
+negative regulation of filopodium assembly,0,1,1,1
+negative regulation of gene expression,0,0,0,2
+negative regulation of membrane protein ectodomain proteolysis,0,0,0,1
+negative regulation of mitochondrial outer membrane permeabilization involved in apoptotic signaling pathway,1,2,2,1
+negative regulation of monoatomic ion transport,0,0,0,1
+negative regulation of multicellular organismal process,0,0,0,2
+negative regulation of organ growth,0,1,0,0
+negative regulation of oxidative stress-induced intrinsic apoptotic signaling pathway,0,0,0,1
+negative regulation of protein localization to cell surface,0,0,0,1
+negative regulation of protein localization to cilium,0,0,0,1
+negative regulation of protein ubiquitination,0,0,0,1
+negative regulation of receptor signaling pathway via JAK-STAT,0,0,0,1
+negative regulation of sodium ion transmembrane transport,0,0,0,1
+negative regulation of transcription by RNA polymerase II,0,0,1,2
+negative regulation of translation,0,0,1,1
+nerve development,0,0,0,2
+nervous system development,0,0,0,4
+nervous system process,0,0,0,1
+neurogenesis,0,0,0,1
+neuron differentiation,0,0,0,2
+neuron migration,0,0,0,3
+neuron projection development,0,1,0,2
+neuron projection morphogenesis,0,0,0,3
+"neurotransmitter receptor transport, endosome to postsynaptic membrane",0,0,1,0
+neurotransmitter secretion,0,1,1,2
+neurotransmitter transport,0,1,1,5
+non-canonical Wnt signaling pathway,0,0,0,6
+non-motile cilium assembly,0,0,1,0
+norepinephrine biosynthetic process,0,0,0,3
+nuclear chromosome segregation,0,0,0,1
+nuclear envelope organization,0,1,0,2
+nuclear membrane organization,0,0,0,1
+nuclear membrane reassembly,0,0,0,1
+nuclear migration,0,1,0,1
+nuclear pore localization,0,1,0,1
+nuclear pore organization,0,0,0,1
+nuclear-transcribed mRNA catabolic process,0,0,0,1
+"nuclear-transcribed mRNA catabolic process, deadenylation-dependent decay",0,0,1,1
+"nuclear-transcribed mRNA catabolic process, nonsense-mediated decay",0,0,0,3
+nucleobase-containing compound metabolic process,0,1,1,4
+nucleocytoplasmic transport,0,0,0,3
+nucleophagy,1,0,1,1
+nucleoside diphosphate catabolic process,0,0,0,1
+nucleoside metabolic process,0,0,0,3
+nucleosome assembly,0,0,0,6
+nucleosome organization,0,1,0,1
+nucleotide catabolic process,0,0,0,1
+nucleotide metabolic process,0,1,0,1
+nucleotide-excision repair,0,0,1,1
+octopamine biosynthetic process,0,0,0,3
+oligopeptide export from mitochondrion,0,1,0,4
+oligopeptide transport,0,0,0,2
+oligosaccharide catabolic process,0,0,0,1
+oligosaccharide metabolic process,0,0,1,4
+one-carbon metabolic process,1,2,5,9
+organelle fusion,0,0,0,1
+organelle transport along microtubule,0,1,1,1
+organic phosphonate catabolic process,0,0,0,1
+outer dynein arm assembly,0,0,0,2
+oxaloacetate metabolic process,1,1,0,3
+oxidation-dependent protein catabolic process,0,0,0,1
+oxylipin biosynthetic process,0,0,0,1
+pentose-phosphate shunt,1,1,1,1
+"pentose-phosphate shunt, non-oxidative branch",0,0,0,2
+"pentose-phosphate shunt, oxidative branch",1,0,1,1
+peptide catabolic process,1,1,2,8
+peptide metabolic process,0,0,0,5
+peroxisome fission,0,0,0,3
+peroxisome organization,0,0,0,1
+phagocytosis,0,0,0,1
+phagosome-lysosome fusion,0,1,0,1
+phenylalanyl-tRNA aminoacylation,0,0,0,4
+phosphate-containing compound metabolic process,0,1,0,1
+phosphatidylcholine biosynthetic process,0,0,1,1
+phosphatidylethanolamine biosynthetic process,0,0,1,3
+phosphatidylinositol 3-kinase/protein kinase B signal transduction,0,0,0,1
+phosphatidylinositol dephosphorylation,0,1,1,4
+phosphatidylinositol metabolic process,0,0,0,1
+phosphatidylinositol phosphate biosynthetic process,0,0,1,4
+phosphatidylinositol-mediated signaling,0,0,0,1
+phosphatidylserine biosynthetic process,0,0,0,1
+phosphatidylserine catabolic process,0,0,0,2
+phosphocreatine biosynthetic process,1,1,2,1
+phospholipid biosynthetic process,0,0,0,3
+phospholipid catabolic process,0,0,0,4
+phospholipid metabolic process,0,0,0,2
+phospholipid translocation,0,0,0,1
+photoreactive repair,0,0,0,1
+piRNA processing,0,0,0,1
+piecemeal microautophagy of the nucleus,0,0,1,1
+plasma membrane organization,1,3,1,5
+plasma membrane tubulation,0,0,0,1
+pointed-end actin filament capping,0,0,0,1
+poly(A)+ mRNA export from nucleus,0,0,0,2
+polyamine catabolic process,0,0,0,1
+polysaccharide catabolic process,0,0,0,1
+positive regulation of Arp2/3 complex-mediated actin nucleation,0,0,0,1
+positive regulation of BMP signaling pathway,0,0,0,1
+positive regulation of DNA-templated transcription,0,0,1,4
+positive regulation of ERK1 and ERK2 cascade,0,1,1,2
+positive regulation of Rho protein signal transduction,0,0,0,1
+positive regulation of TOR signaling,0,1,0,1
+positive regulation of TORC1 signaling,0,0,2,4
+positive regulation of apoptotic process,0,0,0,1
+positive regulation of apoptotic signaling pathway,1,1,0,1
+positive regulation of autophagosome assembly,0,0,0,1
+positive regulation of axon extension,0,0,0,1
+positive regulation of canonical NF-kappaB signal transduction,0,0,0,1
+positive regulation of cell junction assembly,1,1,1,1
+positive regulation of cell-cell adhesion mediated by cadherin,1,1,1,1
+positive regulation of cellular component organization,0,0,1,1
+positive regulation of endocytosis,1,1,1,1
+positive regulation of fibroblast growth factor receptor signaling pathway,0,0,0,1
+positive regulation of integrin-mediated signaling pathway,0,0,1,0
+"positive regulation of mRNA splicing, via spliceosome",1,1,1,1
+positive regulation of macroautophagy,0,0,0,1
+positive regulation of microtubule nucleation,0,1,0,0
+positive regulation of multicellular organismal process,0,0,0,3
+positive regulation of neuron migration,0,0,0,1
+positive regulation of neuron projection development,0,0,0,1
+positive regulation of nitric oxide biosynthetic process,0,0,0,1
+positive regulation of protein polymerization,0,0,0,1
+positive regulation of protein ubiquitination,0,0,0,1
+positive regulation of receptor internalization,0,1,0,0
+positive regulation of sarcomere organization,0,0,0,1
+positive regulation of signal transduction,0,0,0,3
+positive regulation of stress fiber assembly,0,0,0,1
+positive regulation of striated muscle contraction,0,0,0,1
+positive regulation of substrate adhesion-dependent cell spreading,0,0,1,0
+positive regulation of synapse assembly,0,0,0,1
+positive regulation of synaptic transmission,0,0,0,1
+positive regulation of transcription by RNA polymerase II,0,0,0,2
+positive regulation of transcription elongation by RNA polymerase II,0,0,0,3
+positive regulation of transcription initiation by RNA polymerase II,0,0,0,1
+positive regulation of translation,0,0,0,2
+positive regulation of translational elongation,0,0,0,1
+positive regulation of translational termination,0,0,0,1
+positive regulation of triglyceride storage,0,0,0,1
+positive regulation of type I interferon production,0,0,0,1
+positive regulation of ubiquitin-dependent protein catabolic process,0,0,0,1
+post-Golgi vesicle-mediated transport,0,0,0,4
+post-chaperonin tubulin folding pathway,0,0,0,1
+post-embryonic development,0,0,1,1
+post-transcriptional tethering of RNA polymerase II gene DNA at nuclear periphery,0,0,0,1
+post-translational protein modification,0,2,1,2
+post-translational protein targeting to endoplasmic reticulum membrane,0,1,0,2
+"post-translational protein targeting to membrane, translocation",0,0,0,1
+postsynaptic actin cytoskeleton organization,0,0,0,1
+potassium ion homeostasis,0,0,0,2
+potassium ion import across plasma membrane,0,1,2,4
+progesterone metabolic process,0,0,0,4
+programmed cell death,0,0,0,1
+prolyl-tRNA aminoacylation,0,0,1,1
+propionate catabolic process,1,1,0,2
+"propionate metabolic process, methylmalonyl pathway",0,0,1,1
+prostaglandin biosynthetic process,0,0,0,2
+proteasomal protein catabolic process,0,0,0,1
+proteasomal ubiquitin-independent protein catabolic process,0,0,0,1
+proteasome assembly,0,0,0,1
+proteasome-mediated ubiquitin-dependent protein catabolic process,1,1,3,13
+protein K6-linked ubiquitination,0,0,0,2
+protein K63-linked ubiquitination,0,0,1,1
+protein K69-linked ufmylation,0,0,0,1
+protein N-linked glycosylation,0,1,1,7
+protein O-linked glycosylation,0,0,0,4
+protein O-linked glycosylation via N-acetyl-galactosamine,0,0,0,1
+protein O-linked glycosylation via mannose,0,1,0,1
+protein deubiquitination,1,0,0,7
+protein exit from endoplasmic reticulum,0,1,0,1
+protein export from nucleus,0,0,1,4
+protein folding,3,5,6,26
+protein folding in endoplasmic reticulum,0,0,0,3
+protein histidyl modification to diphthamide,0,0,0,1
+protein homooligomerization,0,0,1,2
+protein homotetramerization,0,0,1,1
+protein import into mitochondrial matrix,0,0,0,5
+protein import into nucleus,1,2,2,20
+protein insertion into ER membrane,0,0,0,1
+protein insertion into mitochondrial inner membrane,0,0,0,1
+protein insertion into mitochondrial outer membrane,0,0,0,1
+protein kinase C signaling,1,1,1,1
+protein localization to cell surface,0,0,0,1
+protein localization to cell-cell junction,0,0,0,1
+protein localization to endoplasmic reticulum exit site,0,0,0,1
+protein localization to membrane,0,1,0,5
+protein localization to nuclear envelope,0,1,0,1
+protein localization to nuclear inner membrane,0,0,0,1
+protein localization to plasma membrane,1,2,2,4
+protein localization to synapse,0,0,0,1
+protein maturation,0,0,0,3
+protein polyubiquitination,0,0,0,3
+protein processing,0,1,0,10
+protein processing involved in protein targeting to mitochondrion,0,0,0,2
+protein quality control for misfolded or incompletely synthesized proteins,0,0,0,2
+protein refolding,1,1,1,1
+protein repair,0,0,0,1
+protein retention in ER lumen,0,0,0,1
+protein retention in Golgi apparatus,0,0,0,1
+protein secretion,0,1,1,2
+protein targeting,0,0,0,1
+protein targeting to ER,0,0,0,2
+protein targeting to lysosome,0,0,0,2
+protein targeting to membrane,0,0,0,3
+protein targeting to vacuole,0,0,0,3
+protein transport,9,12,16,47
+protein transport to vacuole involved in ubiquitin-dependent protein catabolic process via the multivesicular body sorting pathway,0,0,0,1
+protein ubiquitination,0,0,1,6
+protein ufmylation,0,0,1,0
+proteoglycan biosynthetic process,0,0,0,1
+proteolysis,4,9,8,95
+proteolysis involved in protein catabolic process,1,0,2,7
+proton motive force-driven ATP synthesis,0,0,0,5
+proton motive force-driven mitochondrial ATP synthesis,1,1,1,1
+proton transmembrane transport,0,1,2,1
+protoporphyrinogen IX biosynthetic process,0,0,1,1
+purine nucleobase catabolic process,0,0,0,1
+purine nucleobase metabolic process,0,0,1,2
+purine nucleotide biosynthetic process,0,0,0,1
+purine nucleotide metabolic process,0,0,1,1
+purine ribonucleoside salvage,0,0,0,4
+"putrescine biosynthetic process from arginine, via agmatine",0,1,0,1
+pyridoxal 5'-phosphate salvage,0,0,0,1
+pyridoxal phosphate biosynthetic process,0,0,0,2
+pyridoxine biosynthetic process,0,0,0,2
+pyridoxine metabolic process,0,0,0,1
+pyrimidine nucleobase catabolic process,0,1,0,1
+pyrimidine ribonucleotide biosynthetic process,0,0,0,1
+pyruvate decarboxylation to acetyl-CoA,0,0,0,2
+pyruvate import into mitochondria,0,0,0,1
+quinolinate biosynthetic process,0,0,0,2
+rRNA processing,0,0,0,2
+rRNA pseudouridine synthesis,0,0,0,1
+receptor clustering,0,2,1,2
+receptor internalization,0,0,1,1
+receptor localization to synapse,0,1,1,2
+receptor-mediated endocytosis,2,1,1,5
+recombinational repair,0,0,0,1
+regionalization,0,0,0,1
+regulation of ARF protein signal transduction,0,0,0,3
+regulation of Arp2/3 complex-mediated actin nucleation,0,1,0,1
+regulation of COPII vesicle coating,0,0,0,1
+regulation of DNA replication,0,0,0,1
+regulation of DNA-templated transcription,0,1,1,3
+regulation of G protein-coupled receptor signaling pathway,0,0,0,1
+regulation of Golgi organization,0,1,0,0
+regulation of Notch signaling pathway,0,1,0,2
+regulation of RNA metabolic process,0,0,0,1
+regulation of RNA splicing,0,1,0,2
+regulation of Rac protein signal transduction,0,0,0,1
+regulation of Rho protein signal transduction,0,0,0,1
+regulation of actin cytoskeleton organization,0,0,0,2
+regulation of actin filament depolymerization,0,0,1,1
+regulation of actin filament polymerization,0,0,1,9
+regulation of actin filament-based process,1,0,1,1
+regulation of actin nucleation,0,1,1,1
+regulation of actin polymerization or depolymerization,0,0,0,1
+"regulation of alternative mRNA splicing, via spliceosome",0,0,0,5
+regulation of apoptotic process,0,0,0,9
+regulation of autophagosome maturation,0,0,0,1
+regulation of autophagy,0,0,0,1
+regulation of canonical NF-kappaB signal transduction,0,0,0,1
+regulation of cell cycle,0,1,1,1
+regulation of cell junction assembly,0,0,0,1
+regulation of cell migration,0,0,1,1
+regulation of cell size,0,0,0,1
+regulation of chromatin organization,0,0,0,1
+regulation of cytosolic calcium ion concentration,0,1,0,5
+regulation of dendrite morphogenesis,0,0,1,1
+regulation of developmental process,0,0,0,1
+regulation of double-strand break repair,0,0,0,1
+regulation of early endosome to late endosome transport,0,0,0,1
+regulation of establishment or maintenance of cell polarity,0,1,0,1
+regulation of gene expression,1,0,1,3
+regulation of gluconeogenesis,0,0,1,1
+regulation of glutamate receptor signaling pathway,0,0,0,1
+regulation of hippo signaling,0,1,0,0
+regulation of intracellular pH,0,1,0,1
+regulation of lamellipodium assembly,0,1,1,2
+regulation of lipid metabolic process,0,0,0,1
+regulation of mRNA processing,0,0,0,1
+"regulation of mRNA splicing, via spliceosome",0,0,0,1
+regulation of mRNA stability,0,0,0,2
+regulation of macromolecule metabolic process,0,0,1,3
+regulation of mitotic cell cycle phase transition,0,0,0,1
+regulation of mitotic cytokinesis,0,0,0,1
+regulation of mitotic spindle assembly,0,0,0,1
+regulation of modification of synaptic structure,0,0,1,0
+regulation of monoatomic ion transmembrane transport,0,0,0,1
+regulation of myoblast differentiation,0,1,1,1
+"regulation of neurotransmitter receptor transport, endosome to postsynaptic membrane",0,0,1,0
+regulation of neurotransmitter secretion,0,0,1,0
+regulation of phosphatidylinositol 3-kinase/protein kinase B signal transduction,0,0,0,1
+regulation of postsynaptic membrane neurotransmitter receptor levels,0,1,1,2
+regulation of primary metabolic process,0,0,0,3
+regulation of proteasomal ubiquitin-dependent protein catabolic process,0,0,0,2
+regulation of protein catabolic process,0,1,2,3
+regulation of protein localization,0,0,1,0
+regulation of protein localization to plasma membrane,0,1,0,0
+regulation of protein metabolic process,0,1,0,1
+regulation of protein stability,0,0,0,1
+regulation of receptor internalization,1,1,1,1
+regulation of receptor-mediated endocytosis,0,0,0,1
+regulation of recycling endosome localization within postsynapse,0,0,1,0
+regulation of secretion,0,0,0,1
+regulation of short-term neuronal synaptic plasticity,0,0,0,1
+regulation of signal transduction,0,0,1,3
+regulation of small GTPase mediated signal transduction,0,0,0,1
+regulation of store-operated calcium entry,0,0,0,1
+regulation of transcription by RNA polymerase II,0,0,0,2
+regulation of translation,0,0,1,8
+regulation of translational initiation,0,0,0,1
+regulation of transport,0,0,1,2
+regulatory ncRNA-mediated gene silencing,0,0,0,2
+release of cytochrome c from mitochondria,0,0,0,2
+release of sequestered calcium ion into cytosol,0,0,0,1
+resolution of meiotic recombination intermediates,0,1,0,1
+respiratory electron transport chain,1,0,1,10
+response to ATP,0,0,0,1
+response to endoplasmic reticulum stress,0,3,0,6
+response to heat,0,0,0,1
+response to hydrogen peroxide,2,1,1,2
+response to lipid,1,1,0,2
+response to nutrient,0,0,1,0
+response to oxidative stress,2,1,2,15
+response to pheromone,0,0,0,1
+response to retinoic acid,0,0,0,1
+response to starvation,1,1,0,3
+response to stress,0,0,0,2
+response to toxic substance,0,0,0,1
+reticulophagy,0,0,1,2
+"retrograde protein transport, ER to cytosol",1,1,1,3
+"retrograde transport, endosome to Golgi",1,2,3,5
+"retrograde vesicle-mediated transport, Golgi to endoplasmic reticulum",2,3,4,10
+ribosomal large subunit assembly,0,0,1,3
+ribosomal large subunit biogenesis,0,1,1,2
+ribosomal large subunit export from nucleus,0,0,1,1
+ribosomal small subunit assembly,0,2,0,4
+ribosomal small subunit biogenesis,1,1,1,2
+ribosomal small subunit export from nucleus,0,0,1,1
+ribosomal subunit export from nucleus,1,1,1,1
+ribosome biogenesis,0,0,1,3
+ruffle assembly,0,1,0,1
+sarcomere organization,0,0,0,1
+sarcosine metabolic process,0,0,1,1
+secretion of lysosomal enzymes,0,0,0,1
+sensory organ development,0,0,0,1
+serine import into mitochondrion,0,0,0,1
+seryl-tRNA aminoacylation,1,1,1,2
+signal peptide processing,0,1,1,4
+signal transduction,5,6,9,28
+sister chromatid cohesion,0,0,0,1
+small GTPase-mediated signal transduction,2,4,6,10
+small molecule metabolic process,0,0,0,3
+snRNA pseudouridine synthesis,0,0,0,1
+snRNA transcription by RNA polymerase II,0,0,0,1
+snoRNA guided rRNA pseudouridine synthesis,0,0,0,1
+sodium ion export across plasma membrane,0,1,2,2
+sodium ion homeostasis,0,0,0,1
+sodium ion transmembrane transport,0,0,0,4
+sodium ion transport,0,0,1,1
+sodium-dependent phosphate transport,0,0,0,1
+sorbitol catabolic process,0,0,0,1
+spermatid development,0,0,0,1
+spermatogenesis,0,1,0,4
+spermidine biosynthetic process,0,0,0,1
+sphingolipid biosynthetic process,0,0,0,1
+sphingolipid catabolic process,0,0,0,1
+sphingolipid metabolic process,0,0,0,3
+sphingosine biosynthetic process,0,0,0,1
+spliceosomal complex assembly,0,1,1,2
+spliceosomal conformational changes to generate catalytic conformation,0,1,1,1
+spliceosomal snRNP assembly,0,2,2,3
+spliceosomal tri-snRNP complex assembly,0,1,1,3
+steroid catabolic process,0,0,0,1
+steroid metabolic process,0,1,0,4
+sterol biosynthetic process,0,0,0,1
+stress granule assembly,0,0,0,2
+substrate adhesion-dependent cell spreading,0,2,0,2
+succinyl-CoA metabolic process,0,1,0,2
+sucrose biosynthetic process,0,0,1,1
+sulfate assimilation,0,0,0,1
+"sulfide oxidation, using sulfide:quinone oxidoreductase",0,0,0,1
+sulfur compound metabolic process,0,0,0,1
+superoxide metabolic process,0,0,0,2
+synapse organization,0,0,0,2
+synaptic signaling,0,0,0,1
+synaptic vesicle budding from presynaptic endocytic zone membrane,0,0,1,2
+synaptic vesicle endocytosis,0,0,0,1
+synaptic vesicle fusion to presynaptic active zone membrane,0,1,0,1
+synaptic vesicle priming,0,1,0,1
+system development,0,0,0,1
+system process,0,0,0,2
+tRNA aminoacylation,0,0,0,1
+tRNA import into mitochondrion,0,0,0,1
+tRNA processing,0,0,1,1
+tRNA threonylcarbamoyladenosine metabolic process,0,0,1,0
+tRNA threonylcarbamoyladenosine modification,0,0,0,1
+tRNA transcription by RNA polymerase III,0,0,1,1
+tail-anchored membrane protein insertion into ER membrane,0,0,0,1
+telomere tethering at nuclear periphery,0,0,0,1
+tetrahydrobiopterin biosynthetic process,0,0,0,3
+tetrahydrofolate interconversion,0,0,0,3
+tetrahydrofolate metabolic process,0,0,1,3
+tetrahydrofolylpolyglutamate metabolic process,0,0,0,1
+thiamine biosynthetic process,0,0,0,1
+thiamine metabolic process,0,0,0,2
+threonyl-tRNA aminoacylation,0,2,1,2
+thymine catabolic process,0,0,0,1
+tissue development,0,3,0,6
+transcription by RNA polymerase I,0,0,1,1
+transcription by RNA polymerase II,0,0,1,2
+transcription elongation by RNA polymerase II,0,1,0,5
+transcription initiation at RNA polymerase II promoter,0,1,1,2
+transcription-dependent tethering of RNA polymerase II gene DNA at nuclear periphery,0,0,0,2
+transcytosis,0,0,0,1
+translation,6,13,16,51
+translation reinitiation,0,0,0,2
+translational elongation,0,0,0,1
+translesion synthesis,0,0,0,2
+transmembrane transport,0,0,0,3
+transport along microtubule,0,0,0,1
+transsulfuration,0,0,1,2
+trehalose catabolic process,0,0,1,1
+tricarboxylic acid cycle,4,6,3,19
+tricarboxylic acid metabolic process,0,1,0,1
+triglyceride biosynthetic process,0,0,0,4
+triglyceride metabolic process,0,0,0,2
+tryptophanyl-tRNA aminoacylation,0,0,1,1
+tubulin complex assembly,0,0,0,2
+tumor necrosis factor-mediated signaling pathway,0,0,0,1
+tyrosyl-tRNA aminoacylation,0,0,1,1
+ubiquinone biosynthetic process,0,0,0,1
+ubiquitin-dependent protein catabolic process,1,4,5,17
+ubiquitin-dependent protein catabolic process via the multivesicular body sorting pathway,0,0,0,1
+urate catabolic process,0,0,0,1
+urea catabolic process,0,0,0,2
+urea cycle,0,0,0,1
+vacuolar acidification,1,2,2,2
+vacuolar protein processing,0,0,0,1
+vacuolar transport,0,0,0,2
+vacuole organization,0,0,1,2
+valyl-tRNA aminoacylation,0,0,0,1
+very long-chain fatty acid catabolic process,0,0,0,1
+vesicle budding from membrane,0,1,1,2
+vesicle docking,0,2,1,3
+vesicle docking involved in exocytosis,0,0,0,1
+vesicle fusion,0,2,1,4
+vesicle fusion with Golgi apparatus,0,1,0,1
+vesicle transport along microtubule,0,0,1,0
+vesicle-mediated transport,4,7,8,19
+vitamin K metabolic process,0,0,0,1

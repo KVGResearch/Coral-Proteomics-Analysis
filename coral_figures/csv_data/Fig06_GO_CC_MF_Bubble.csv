@@ -1,0 +1,1394 @@
+ontology,term,A. muricata,M. angulosa,D. australis,A. tenuifolia
+Cellular Component,6-phosphofructokinase complex,0,0,0,1
+Cellular Component,9+2 motile cilium,0,0,2,1
+Cellular Component,90S preribosome,0,0,0,1
+Cellular Component,AP-1 adaptor complex,0,1,1,2
+Cellular Component,AP-2 adaptor complex,0,1,0,1
+Cellular Component,AP-3 adaptor complex,0,1,0,2
+Cellular Component,AP-type membrane coat adaptor complex,0,0,1,1
+Cellular Component,ASAP complex,0,0,0,1
+Cellular Component,Arp2/3 protein complex,2,0,2,5
+Cellular Component,Atg12-Atg5-Atg16 complex,0,0,0,1
+Cellular Component,BAT3 complex,0,0,0,1
+Cellular Component,BLOC-1 complex,0,0,0,1
+Cellular Component,BRCA1-A complex,0,0,0,2
+Cellular Component,BRCA1-BARD1 complex,0,0,0,2
+Cellular Component,CAAX-protein geranylgeranyltransferase complex,0,0,0,1
+Cellular Component,CCAAT-binding factor complex,0,0,0,1
+Cellular Component,CCR4-NOT core complex,0,0,1,1
+Cellular Component,COP9 signalosome,1,2,2,3
+Cellular Component,COPI vesicle coat,2,5,4,7
+Cellular Component,COPII vesicle coat,0,3,1,5
+Cellular Component,COPII-coated ER to Golgi transport vesicle,0,1,0,4
+Cellular Component,Cajal body,0,0,1,2
+Cellular Component,Cdc73/Paf1 complex,0,0,0,2
+Cellular Component,Cul3-RING ubiquitin ligase complex,0,0,0,1
+Cellular Component,DNA-directed RNA polymerase complex,0,0,0,2
+Cellular Component,DUBm complex,0,0,0,1
+Cellular Component,EKC/KEOPS complex,0,0,1,1
+Cellular Component,EMC complex,0,0,0,4
+Cellular Component,ER to Golgi transport vesicle membrane,0,1,0,1
+Cellular Component,ESCRT I complex,0,0,0,2
+Cellular Component,ESCRT II complex,0,0,0,1
+Cellular Component,ESCRT III complex,0,1,1,1
+Cellular Component,F-actin capping protein complex,1,1,2,2
+Cellular Component,FACT complex,0,0,0,1
+Cellular Component,Fanconi anaemia nuclear complex,0,0,0,1
+Cellular Component,GET complex,0,0,0,1
+Cellular Component,GMP reductase complex,0,0,1,0
+Cellular Component,GPI-anchor transamidase complex,0,0,0,4
+Cellular Component,Golgi apparatus,2,7,3,26
+Cellular Component,Golgi cisterna,0,0,0,1
+Cellular Component,Golgi cisterna membrane,0,1,1,5
+Cellular Component,Golgi medial cisterna,0,0,0,1
+Cellular Component,Golgi membrane,2,9,9,33
+Cellular Component,Golgi stack,0,1,0,3
+Cellular Component,Golgi trans cisterna,0,0,0,1
+Cellular Component,Gtr1-Gtr2 GTPase complex,0,0,2,3
+Cellular Component,HOPS complex,0,0,0,1
+Cellular Component,HULC complex,0,0,0,1
+Cellular Component,I band,0,0,0,1
+Cellular Component,ISWI-type complex,0,1,0,1
+Cellular Component,Lsm1-7-Pat1 complex,0,1,1,2
+Cellular Component,M band,0,0,0,1
+Cellular Component,MCM complex,0,0,0,1
+Cellular Component,MICOS complex,0,0,0,1
+Cellular Component,MPP7-DLG1-LIN7 complex,0,1,1,1
+Cellular Component,NatA complex,0,0,0,1
+Cellular Component,NuRD complex,0,0,0,1
+Cellular Component,P-body,0,1,3,4
+Cellular Component,"PAM complex, Tim23 associated import motor",0,0,0,1
+Cellular Component,PCNA complex,0,0,0,1
+Cellular Component,Prp19 complex,0,1,2,3
+Cellular Component,RNA polymerase I complex,0,0,2,2
+Cellular Component,"RNA polymerase II, core complex",0,0,2,3
+Cellular Component,RNA polymerase III complex,0,0,2,2
+Cellular Component,SAGA complex,0,0,0,2
+Cellular Component,SAM complex,0,0,0,1
+Cellular Component,SCAR complex,0,0,0,4
+Cellular Component,SMN complex,0,0,0,1
+Cellular Component,SNARE complex,0,4,1,7
+Cellular Component,SWI/SNF complex,0,0,1,1
+Cellular Component,Sec61 translocon complex,0,0,1,1
+Cellular Component,Sec62/Sec63 complex,0,1,0,1
+Cellular Component,Seh1-associated complex,0,0,0,1
+Cellular Component,Set1C/COMPASS complex,0,0,0,1
+Cellular Component,Sin3-type complex,0,0,1,1
+Cellular Component,THO complex,0,0,0,1
+Cellular Component,TIM23 mitochondrial import inner membrane translocase complex,0,0,0,1
+Cellular Component,TORC1 complex,0,0,0,1
+Cellular Component,TORC2 complex,0,0,0,1
+Cellular Component,TRAPP complex,0,1,0,1
+Cellular Component,TRC complex,0,0,0,1
+Cellular Component,U1 snRNP,0,0,1,5
+Cellular Component,U12-type spliceosomal complex,0,0,1,3
+Cellular Component,U2 snRNP,1,2,3,5
+Cellular Component,U2-type catalytic step 1 spliceosome,0,0,1,2
+Cellular Component,U2-type catalytic step 2 spliceosome,0,0,1,2
+Cellular Component,U2-type prespliceosome,0,0,1,7
+Cellular Component,U4 snRNP,0,0,1,2
+Cellular Component,U4/U6 x U5 tri-snRNP complex,0,1,3,7
+Cellular Component,U5 snRNP,0,1,2,3
+Cellular Component,U6 snRNP,0,1,1,3
+Cellular Component,VCB complex,0,1,0,1
+Cellular Component,VCP-NPL4-UFD1 AAA ATPase complex,1,1,1,1
+Cellular Component,WASH complex,0,1,1,2
+Cellular Component,Z disc,0,0,1,1
+Cellular Component,acetolactate synthase complex,0,0,0,1
+Cellular Component,actin cytoskeleton,1,1,1,8
+Cellular Component,actin filament,0,1,0,9
+Cellular Component,actin filament bundle,0,0,0,1
+Cellular Component,actin-based cell projection,0,0,0,1
+Cellular Component,adherens junction,0,1,0,5
+Cellular Component,aminoacyl-tRNA synthetase multienzyme complex,1,1,3,7
+Cellular Component,anchoring junction,0,0,2,2
+Cellular Component,apical plasma membrane,0,1,1,9
+Cellular Component,astral microtubule,0,0,0,1
+Cellular Component,autophagosome,0,0,0,2
+Cellular Component,autophagosome membrane,0,0,0,2
+Cellular Component,axon,0,0,0,6
+Cellular Component,axon cytoplasm,0,0,1,1
+Cellular Component,axonal growth cone,0,0,0,1
+Cellular Component,axonemal dynein complex,0,1,3,4
+Cellular Component,axonemal microtubule,0,0,0,1
+Cellular Component,axoneme,0,1,2,13
+Cellular Component,basement membrane,0,2,0,8
+Cellular Component,basolateral plasma membrane,0,3,2,5
+Cellular Component,bicellular tight junction,0,1,2,5
+Cellular Component,bounding membrane of organelle,1,1,1,3
+Cellular Component,box C/D methylation guide snoRNP complex,0,0,2,2
+Cellular Component,box H/ACA snoRNP complex,0,0,0,2
+Cellular Component,cAMP-dependent protein kinase complex,1,0,3,3
+Cellular Component,catalytic step 2 spliceosome,0,2,5,13
+Cellular Component,catenin complex,0,1,0,2
+Cellular Component,cation channel complex,0,0,0,1
+Cellular Component,cation-transporting ATPase complex,0,0,1,0
+Cellular Component,cell cortex,1,1,1,7
+Cellular Component,cell junction,0,0,1,1
+Cellular Component,cell leading edge,0,0,0,1
+Cellular Component,cell periphery,0,0,1,2
+Cellular Component,cell projection,1,2,3,7
+Cellular Component,cell surface,0,1,0,11
+Cellular Component,cell-cell junction,0,0,2,4
+Cellular Component,cell-substrate junction,0,0,0,1
+Cellular Component,centriolar satellite,0,0,1,0
+Cellular Component,centriole,0,1,1,4
+Cellular Component,centrosome,0,3,4,11
+Cellular Component,chaperonin-containing T-complex,0,2,4,4
+Cellular Component,chromatin,1,2,2,3
+Cellular Component,chromosome,0,0,1,6
+Cellular Component,"chromosome, centromeric region",0,0,0,1
+Cellular Component,ciliary basal body,0,0,2,1
+Cellular Component,ciliary base,0,0,1,2
+Cellular Component,ciliary membrane,0,0,1,3
+Cellular Component,ciliary transition zone,0,0,1,0
+Cellular Component,cilium,0,0,0,7
+Cellular Component,clathrin adaptor complex,0,1,2,3
+Cellular Component,clathrin coat of coated pit,1,2,1,3
+Cellular Component,clathrin coat of trans-Golgi network vesicle,1,2,1,2
+Cellular Component,clathrin complex,1,1,1,1
+Cellular Component,clathrin vesicle coat,0,0,2,2
+Cellular Component,clathrin-coated endocytic vesicle,1,1,1,1
+Cellular Component,clathrin-coated pit,1,0,1,5
+Cellular Component,clathrin-coated vesicle,0,0,0,4
+Cellular Component,clathrin-coated vesicle membrane,0,1,1,2
+Cellular Component,cleavage furrow,0,0,1,1
+Cellular Component,cohesin complex,0,0,0,1
+Cellular Component,collagen trimer,0,0,0,2
+Cellular Component,commitment complex,0,0,0,1
+Cellular Component,condensed chromosome,0,1,1,3
+Cellular Component,condensin complex,0,1,0,1
+Cellular Component,cortical actin cytoskeleton,0,1,1,7
+Cellular Component,cortical cytoskeleton,1,0,1,1
+Cellular Component,cytoplasm,18,49,71,348
+Cellular Component,cytoplasmic dynein complex,2,1,2,4
+Cellular Component,cytoplasmic side of endoplasmic reticulum membrane,0,1,0,1
+Cellular Component,cytoplasmic side of plasma membrane,0,1,1,1
+Cellular Component,cytoplasmic stress granule,0,0,0,6
+Cellular Component,cytoplasmic vesicle,2,3,4,7
+Cellular Component,cytoplasmic vesicle membrane,1,3,1,7
+Cellular Component,cytoskeleton,8,16,16,44
+Cellular Component,cytosol,19,29,44,178
+Cellular Component,cytosolic large ribosomal subunit,0,2,4,23
+Cellular Component,cytosolic ribosome,1,1,1,2
+Cellular Component,cytosolic small ribosomal subunit,4,8,6,16
+Cellular Component,dendrite,0,0,0,3
+Cellular Component,dendrite cytoplasm,0,0,0,1
+Cellular Component,dolichol-phosphate-mannose synthase complex,0,0,0,1
+Cellular Component,dynactin complex,0,0,0,1
+Cellular Component,dynein complex,0,0,1,7
+Cellular Component,dystroglycan complex,0,0,0,2
+Cellular Component,dystrophin-associated glycoprotein complex,0,0,1,1
+Cellular Component,early endosome,1,0,1,8
+Cellular Component,early endosome membrane,1,3,1,7
+Cellular Component,electron transfer flavoprotein complex,0,0,0,1
+Cellular Component,elongin complex,0,1,0,1
+Cellular Component,endocytic vesicle,0,0,0,2
+Cellular Component,endomembrane system,1,7,8,43
+Cellular Component,endoplasmic reticulum,4,5,4,52
+Cellular Component,endoplasmic reticulum chaperone complex,0,0,1,2
+Cellular Component,endoplasmic reticulum exit site,0,3,1,5
+Cellular Component,endoplasmic reticulum lumen,3,6,4,21
+Cellular Component,endoplasmic reticulum membrane,1,12,7,80
+Cellular Component,endoplasmic reticulum quality control compartment,0,0,0,2
+Cellular Component,endoplasmic reticulum-Golgi intermediate compartment,0,3,1,6
+Cellular Component,endoplasmic reticulum-Golgi intermediate compartment membrane,0,1,1,3
+Cellular Component,endosome,1,3,4,13
+Cellular Component,endosome membrane,0,1,3,6
+Cellular Component,eukaryotic 43S preinitiation complex,0,0,2,7
+Cellular Component,eukaryotic 48S preinitiation complex,0,0,2,8
+Cellular Component,eukaryotic translation elongation factor 1 complex,0,1,0,2
+Cellular Component,eukaryotic translation initiation factor 2 complex,0,0,0,1
+Cellular Component,eukaryotic translation initiation factor 3 complex,0,1,1,7
+Cellular Component,"eukaryotic translation initiation factor 3 complex, eIF3e",0,0,0,3
+Cellular Component,"eukaryotic translation initiation factor 3 complex, eIF3m",0,0,1,4
+Cellular Component,exon-exon junction complex,0,0,0,1
+Cellular Component,external side of plasma membrane,0,0,0,6
+Cellular Component,extracellular exosome,0,1,0,1
+Cellular Component,extracellular matrix,0,0,1,19
+Cellular Component,extracellular region,0,2,6,84
+Cellular Component,extracellular space,3,2,5,66
+Cellular Component,extrinsic component of mitochondrial inner membrane,0,0,0,1
+Cellular Component,extrinsic component of postsynaptic early endosome membrane,0,0,1,0
+Cellular Component,extrinsic component of presynaptic endocytic zone membrane,0,0,0,1
+Cellular Component,filamentous actin,0,0,0,2
+Cellular Component,flotillin complex,1,2,2,2
+Cellular Component,focal adhesion,1,2,4,9
+Cellular Component,gamma-tubulin complex,0,1,1,0
+Cellular Component,glucosidase II complex,0,0,0,1
+Cellular Component,glutamate-cysteine ligase complex,0,0,0,1
+Cellular Component,glutamatergic synapse,0,0,1,0
+Cellular Component,glutaminase complex,0,0,0,1
+Cellular Component,glycine cleavage complex,0,0,0,1
+Cellular Component,heterotrimeric G-protein complex,1,2,4,6
+Cellular Component,integrin complex,0,0,0,8
+Cellular Component,intermediate filament,0,1,0,2
+Cellular Component,intracellular organelle lumen,0,0,1,1
+Cellular Component,intracellular protein-containing complex,0,0,0,1
+Cellular Component,intraciliary transport particle B,0,0,0,1
+Cellular Component,katanin complex,0,0,0,1
+Cellular Component,kinesin complex,0,0,1,1
+Cellular Component,kinetochore,0,0,1,0
+Cellular Component,kinocilium,0,1,0,1
+Cellular Component,lamellipodium,0,0,1,5
+Cellular Component,laminin trimer,0,1,0,1
+Cellular Component,large ribosomal subunit,0,0,0,1
+Cellular Component,late endosome,1,2,2,6
+Cellular Component,late endosome membrane,0,1,0,4
+Cellular Component,lipid droplet,0,0,0,4
+Cellular Component,lumenal side of endoplasmic reticulum membrane,0,1,0,1
+Cellular Component,lysosomal membrane,0,1,3,8
+Cellular Component,lysosome,2,2,4,28
+Cellular Component,lytic vacuole,0,0,0,2
+Cellular Component,m-AAA complex,0,0,0,2
+Cellular Component,mRNA capping enzyme complex,0,0,0,1
+Cellular Component,mRNA cleavage and polyadenylation specificity factor complex,0,0,1,1
+Cellular Component,membrane,7,18,15,212
+Cellular Component,membrane coat,1,0,1,1
+Cellular Component,methionine adenosyltransferase complex,0,0,0,1
+Cellular Component,methylcrotonoyl-CoA carboxylase complex,0,0,0,1
+Cellular Component,microtubule,6,8,17,37
+Cellular Component,microtubule associated complex,0,1,1,1
+Cellular Component,microtubule cytoskeleton,0,0,1,3
+Cellular Component,microtubule organizing center,0,1,1,2
+Cellular Component,microvillus,0,0,2,3
+Cellular Component,midbody,0,0,1,1
+Cellular Component,mitochondrial [2Fe-2S] assembly complex,0,0,0,1
+Cellular Component,mitochondrial chromosome,0,0,0,1
+Cellular Component,mitochondrial envelope,0,0,0,1
+Cellular Component,mitochondrial fatty acid beta-oxidation multienzyme complex,1,1,1,2
+Cellular Component,mitochondrial inner membrane,4,8,8,61
+Cellular Component,mitochondrial intermembrane space,0,0,1,7
+Cellular Component,mitochondrial large ribosomal subunit,0,0,0,1
+Cellular Component,mitochondrial matrix,0,3,3,18
+Cellular Component,mitochondrial membrane,1,0,3,7
+Cellular Component,mitochondrial nucleoid,0,0,0,1
+Cellular Component,mitochondrial outer membrane,0,0,0,18
+Cellular Component,mitochondrial outer membrane translocase complex,0,0,0,1
+Cellular Component,mitochondrial small ribosomal subunit,0,0,0,1
+Cellular Component,mitochondrion,11,20,22,121
+Cellular Component,mitotic spindle pole,0,0,0,1
+Cellular Component,monoatomic ion channel complex,0,0,0,1
+Cellular Component,motile cilium,0,0,0,9
+Cellular Component,multi-eIF complex,0,0,0,2
+Cellular Component,multivesicular body,0,1,1,2
+Cellular Component,multivesicular body membrane,0,0,0,1
+Cellular Component,myofibril,1,1,1,3
+Cellular Component,myosin II complex,2,4,3,13
+Cellular Component,myosin complex,0,1,2,11
+Cellular Component,myosin filament,1,1,1,3
+Cellular Component,nascent polypeptide-associated complex,0,0,0,1
+Cellular Component,nematocyst,0,0,1,7
+Cellular Component,neuromuscular junction,0,1,1,1
+Cellular Component,neuron projection,0,3,1,10
+Cellular Component,neuronal cell body,0,0,0,2
+Cellular Component,nuclear cap binding complex,0,0,0,1
+Cellular Component,nuclear envelope,0,0,0,6
+Cellular Component,nuclear inner membrane,0,0,0,4
+Cellular Component,nuclear lamina,0,1,0,1
+Cellular Component,nuclear membrane,0,2,0,5
+Cellular Component,nuclear periphery,0,0,0,1
+Cellular Component,nuclear pore,0,1,0,12
+Cellular Component,nuclear pore central transport channel,0,0,0,1
+Cellular Component,nuclear pore cytoplasmic filaments,0,0,0,1
+Cellular Component,nuclear pore inner ring,0,0,0,2
+Cellular Component,nuclear pore outer ring,0,1,0,3
+Cellular Component,nuclear speck,0,1,2,2
+Cellular Component,nucleolus,1,1,3,9
+Cellular Component,nucleoplasm,1,0,3,16
+Cellular Component,nucleosome,3,3,5,10
+Cellular Component,nucleotide-activated protein kinase complex,0,0,0,1
+Cellular Component,nucleotide-excision repair factor 3 complex,0,0,1,0
+Cellular Component,nucleus,16,24,42,190
+Cellular Component,oligosaccharyltransferase complex,0,1,2,7
+Cellular Component,organelle,0,0,0,1
+Cellular Component,outer dynein arm,0,0,0,2
+Cellular Component,oxoglutarate dehydrogenase complex,0,0,0,2
+Cellular Component,palmitoyltransferase complex,0,0,0,1
+Cellular Component,periciliary membrane compartment,0,0,0,1
+Cellular Component,perinuclear endoplasmic reticulum,0,0,0,1
+Cellular Component,perinuclear region of cytoplasm,0,1,1,3
+Cellular Component,peroxisomal matrix,0,0,0,2
+Cellular Component,peroxisomal membrane,0,0,0,3
+Cellular Component,peroxisome,4,3,4,18
+Cellular Component,phagocytic vesicle,0,1,0,1
+Cellular Component,phagocytic vesicle membrane,1,0,1,2
+Cellular Component,phagophore assembly site,1,0,2,3
+Cellular Component,phagophore assembly site membrane,0,0,0,1
+Cellular Component,phenylalanine-tRNA ligase complex,0,0,0,3
+Cellular Component,phosphopyruvate hydratase complex,1,1,1,1
+Cellular Component,plasma membrane,11,26,32,233
+Cellular Component,plasma membrane bounded cell projection,0,0,0,3
+Cellular Component,plasma membrane protein complex,1,0,2,1
+Cellular Component,pore complex,0,0,0,1
+Cellular Component,postsynapse,0,0,0,2
+Cellular Component,postsynaptic density,0,1,0,6
+Cellular Component,postsynaptic density membrane,0,1,1,1
+Cellular Component,postsynaptic membrane,0,1,2,8
+Cellular Component,postsynaptic recycling endosome,0,0,1,0
+Cellular Component,precatalytic spliceosome,1,2,2,8
+Cellular Component,prefoldin complex,0,0,0,3
+Cellular Component,presynapse,0,2,2,4
+Cellular Component,presynaptic active zone,0,0,0,1
+Cellular Component,presynaptic membrane,0,0,1,0
+Cellular Component,proteasome complex,1,3,8,10
+Cellular Component,proteasome core complex,0,0,1,4
+Cellular Component,"proteasome core complex, alpha-subunit complex",2,3,4,6
+Cellular Component,"proteasome core complex, beta-subunit complex",0,0,1,1
+Cellular Component,proteasome regulatory particle,0,0,0,2
+Cellular Component,"proteasome regulatory particle, base subcomplex",0,1,1,3
+Cellular Component,"proteasome regulatory particle, lid subcomplex",0,0,1,5
+Cellular Component,proteasome storage granule,0,1,1,2
+Cellular Component,protein farnesyltransferase complex,0,0,0,1
+Cellular Component,protein kinase CK2 complex,0,1,1,1
+Cellular Component,protein phosphatase type 2A complex,1,2,3,5
+Cellular Component,protein-containing complex,0,1,0,3
+Cellular Component,proton-transporting ATP synthase complex,2,2,2,9
+Cellular Component,"proton-transporting V-type ATPase, V0 domain",0,0,0,1
+Cellular Component,"proton-transporting V-type ATPase, V1 domain",1,2,2,2
+Cellular Component,"proton-transporting two-sector ATPase complex, catalytic domain",0,1,1,1
+Cellular Component,pseudopodium membrane,0,1,1,1
+Cellular Component,pyruvate dehydrogenase complex,0,0,0,1
+Cellular Component,radial spoke,0,1,0,1
+Cellular Component,receptor complex,1,0,2,12
+Cellular Component,recycling endosome,0,0,0,5
+Cellular Component,recycling endosome membrane,2,2,2,3
+Cellular Component,respiratory chain complex I,0,0,0,7
+Cellular Component,respiratory chain complex III,0,0,0,3
+Cellular Component,respiratory chain complex IV,0,0,0,4
+Cellular Component,retromer complex,0,1,1,2
+Cellular Component,"retromer, cargo-selective complex",0,1,1,2
+Cellular Component,ribonucleoprotein complex,4,5,8,34
+Cellular Component,ribosome,1,2,5,18
+Cellular Component,rough endoplasmic reticulum,0,0,0,1
+Cellular Component,rough endoplasmic reticulum membrane,0,0,0,1
+Cellular Component,ruffle,0,1,1,1
+Cellular Component,ruffle membrane,0,1,0,2
+Cellular Component,sarcoglycan complex,0,0,0,3
+Cellular Component,sarcolemma,0,1,0,6
+Cellular Component,secretory granule,0,0,0,1
+Cellular Component,secretory granule membrane,0,0,0,3
+Cellular Component,semaphorin receptor complex,0,0,1,1
+Cellular Component,serine palmitoyltransferase complex,0,0,0,1
+Cellular Component,side of membrane,0,0,0,6
+Cellular Component,signal peptidase complex,0,0,1,3
+Cellular Component,signal recognition particle receptor complex,0,0,0,1
+Cellular Component,site of polarized growth,0,0,0,4
+Cellular Component,small nuclear ribonucleoprotein complex,0,1,1,1
+Cellular Component,small ribosomal subunit,1,1,3,4
+Cellular Component,small-subunit processome,0,0,2,3
+Cellular Component,sodium:potassium-exchanging ATPase complex,0,0,0,1
+Cellular Component,sperm flagellum,0,0,1,1
+Cellular Component,sperm head-tail coupling apparatus,0,0,0,1
+Cellular Component,spindle,0,0,2,2
+Cellular Component,spindle microtubule,0,0,0,1
+Cellular Component,spindle pole,0,0,0,3
+Cellular Component,spliceosomal complex,0,6,6,10
+Cellular Component,spliceosomal snRNP complex,0,0,1,1
+Cellular Component,spliceosomal tri-snRNP complex,0,0,0,1
+Cellular Component,stress fiber,0,0,0,3
+Cellular Component,succinate-CoA ligase complex,0,1,0,2
+Cellular Component,succinate-CoA ligase complex (ADP-forming),0,0,0,1
+Cellular Component,synapse,0,1,1,8
+Cellular Component,synaptic vesicle,0,0,0,1
+Cellular Component,synaptic vesicle membrane,0,0,1,1
+Cellular Component,trans-Golgi network,0,1,1,10
+Cellular Component,trans-Golgi network membrane,0,1,0,0
+Cellular Component,transcription elongation factor complex,0,0,0,1
+Cellular Component,transcription export complex,0,0,0,1
+Cellular Component,transcription export complex 2,0,0,0,1
+Cellular Component,transcription factor TFIIA complex,0,1,0,1
+Cellular Component,transcription factor TFIID complex,0,0,0,1
+Cellular Component,transcription factor TFIIF complex,0,0,0,1
+Cellular Component,transcription factor TFIIH holo complex,0,0,1,0
+Cellular Component,transcription preinitiation complex,0,0,1,0
+Cellular Component,transcription regulator complex,0,0,0,3
+Cellular Component,transferase complex,0,0,0,2
+Cellular Component,transmembrane transporter complex,0,0,0,3
+Cellular Component,transport vesicle,0,0,1,0
+Cellular Component,transport vesicle membrane,0,0,0,2
+Cellular Component,urease complex,0,0,0,1
+Cellular Component,vacuolar membrane,0,0,0,3
+Cellular Component,"vacuolar proton-transporting V-type ATPase, V0 domain",0,1,1,1
+Cellular Component,"vacuolar proton-transporting V-type ATPase, V1 domain",0,0,0,3
+Cellular Component,vacuole,0,0,0,2
+Cellular Component,vesicle,0,1,0,1
+Cellular Component,vesicle membrane,1,2,1,3
+Cellular Component,voltage-gated calcium channel complex,0,1,0,1
+Molecular Function,(3S)-3-hydroxyacyl-CoA dehydrogenase (NAD+) activity,0,1,0,2
+Molecular Function,(R)-3-amino-2-methylpropionate-pyruvate transaminase activity,0,0,0,1
+Molecular Function,"(R,S)-4-hydroxy-2-oxoglutarate aldolase activity",0,0,0,1
+Molecular Function,(S)-2-hydroxyglutarate dehydrogenase activity,0,0,0,1
+Molecular Function,(S)-3-amino-2-methylpropionate transaminase activity,0,0,0,1
+Molecular Function,"1,4-alpha-glucan branching enzyme activity",0,0,0,1
+Molecular Function,1-phosphatidylinositol 4-kinase activity,0,0,1,1
+Molecular Function,1-phosphatidylinositol binding,0,0,0,1
+Molecular Function,1-phosphatidylinositol-4-phosphate 5-kinase activity,0,0,0,1
+Molecular Function,1-phosphatidylinositol-5-phosphate 4-kinase activity,0,0,0,1
+Molecular Function,15-oxoprostaglandin 13-reductase [NAD(P)+] activity,0,0,0,1
+Molecular Function,"2 iron, 2 sulfur cluster binding",1,0,2,8
+Molecular Function,"2',3'-cyclic GMP-AMP binding",0,0,0,1
+Molecular Function,2-aminoadipate transaminase activity,0,0,0,1
+Molecular Function,2-methoxy-6-polyprenolphenol 4-hydroxylase activity,0,0,0,1
+Molecular Function,2-oxoglutarate-dependent dioxygenase activity,0,0,0,2
+Molecular Function,"3 iron, 4 sulfur cluster binding",1,0,1,1
+Molecular Function,3'-5' DNA helicase activity,0,0,1,2
+Molecular Function,3'-5' exonuclease activity,0,0,1,1
+Molecular Function,3'-5'-RNA exonuclease activity,0,0,0,1
+Molecular Function,3'-nucleotidase activity,0,0,0,1
+Molecular Function,3'-phosphoadenosine 5'-phosphosulfate transmembrane transporter activity,0,0,0,1
+Molecular Function,3-dehydroquinate synthase activity,0,0,0,1
+Molecular Function,3-dehydrosphinganine reductase activity,0,0,0,1
+Molecular Function,3-hydroxyacyl-CoA dehydratase activity,0,0,0,1
+Molecular Function,"3-hydroxyanthranilate 3,4-dioxygenase activity",0,0,0,1
+Molecular Function,3-hydroxybutyrate dehydrogenase activity,0,0,0,1
+Molecular Function,3-hydroxyisobutyrate dehydrogenase activity,0,0,0,1
+Molecular Function,3-hydroxyisobutyryl-CoA hydrolase activity,0,0,0,1
+Molecular Function,3-methylbutanoyl-CoA dehydrogenase activity,0,0,1,1
+Molecular Function,"4 iron, 4 sulfur cluster binding",1,3,2,9
+Molecular Function,4-alpha-glucanotransferase activity,0,0,0,1
+Molecular Function,4-alpha-hydroxytetrahydrobiopterin dehydratase activity,0,0,0,2
+Molecular Function,4-aminobutyrate:2-oxoglutarate transaminase activity,0,0,0,1
+Molecular Function,4-hydroxy-3-all-trans-polyprenylbenzoate oxygenase activity,0,0,0,1
+Molecular Function,4-hydroxy-4-methyl-2-oxoglutarate aldolase activity,0,0,0,1
+Molecular Function,4-hydroxy-tetrahydrodipicolinate synthase activity,0,0,0,1
+Molecular Function,4-oxoproline reductase activity,0,0,0,1
+Molecular Function,5'-nucleotidase activity,0,1,0,3
+Molecular Function,5-hydroxymethyl-dUMP N-hydrolase activity,0,0,0,1
+Molecular Function,5-oxoprolinase (ATP-hydrolyzing) activity,0,0,0,1
+Molecular Function,5S rRNA binding,0,0,0,1
+Molecular Function,"6,7-dihydropteridine reductase activity",0,0,0,1
+Molecular Function,6-phosphofructo-2-kinase activity,0,0,0,1
+Molecular Function,6-phosphofructokinase activity,0,0,0,1
+Molecular Function,7-dehydrocholesterol reductase activity,0,0,0,1
+Molecular Function,A2-type glycerophospholipase activity,0,0,0,3
+Molecular Function,ABC-type glutathione S-conjugate transporter activity,0,0,0,2
+Molecular Function,ABC-type oligopeptide transporter activity,0,1,0,4
+Molecular Function,ABC-type transporter activity,0,0,0,6
+Molecular Function,ADP binding,1,1,2,3
+Molecular Function,ADP-ribose diphosphatase activity,0,0,0,1
+Molecular Function,ADP-specific glucokinase activity,0,0,0,1
+Molecular Function,AMP binding,0,0,0,3
+Molecular Function,AMP kinase activity,0,0,0,2
+Molecular Function,ATP binding,27,58,94,257
+Molecular Function,ATP citrate synthase activity,0,1,0,1
+Molecular Function,ATP hydrolysis activity,9,19,28,71
+Molecular Function,ATP-dependent chromatin remodeler activity,0,1,0,1
+Molecular Function,ATP-dependent peptidase activity,0,0,0,4
+Molecular Function,ATP-dependent protein folding chaperone,4,7,10,16
+Molecular Function,ATP:ADP antiporter activity,1,2,2,1
+Molecular Function,ATPase activator activity,0,0,0,2
+Molecular Function,ATPase binding,0,1,1,1
+Molecular Function,ATPase-coupled intramembrane lipid transporter activity,0,0,0,1
+Molecular Function,ATPase-coupled monoatomic cation transmembrane transporter activity,0,0,0,1
+Molecular Function,ATPase-coupled transmembrane transporter activity,0,0,0,1
+Molecular Function,Arp2/3 complex binding,0,0,0,1
+Molecular Function,Atg8-family ligase activity,1,0,1,1
+Molecular Function,BH domain binding,0,0,0,2
+Molecular Function,BMP binding,0,0,0,1
+Molecular Function,CAAX-protein geranylgeranyltransferase activity,0,0,0,1
+Molecular Function,D-amino-acid oxidase activity,0,0,0,1
+Molecular Function,"D-arabinono-1,4-lactone oxidase activity",0,0,0,1
+Molecular Function,D-glucose binding,0,0,1,1
+Molecular Function,D-glucose:sodium symporter activity,0,0,0,2
+Molecular Function,D-lactate dehydrogenase (NAD+) activity,0,0,0,1
+Molecular Function,D-lactate dehydrogenase (cytochrome) activity,0,0,0,1
+Molecular Function,D-mannose binding,0,1,0,3
+Molecular Function,DNA binding,3,6,10,41
+Molecular Function,DNA helicase activity,1,2,1,3
+Molecular Function,DNA polymerase processivity factor activity,0,0,0,1
+Molecular Function,"DNA-binding transcription activator activity, RNA polymerase II-specific",0,0,0,1
+Molecular Function,DNA-binding transcription factor activity,0,0,0,6
+Molecular Function,"DNA-binding transcription factor activity, RNA polymerase II-specific",0,0,0,5
+Molecular Function,DNA-binding transcription factor binding,0,0,0,1
+Molecular Function,DNA-directed DNA polymerase activity,0,0,0,1
+Molecular Function,DNA-directed RNA polymerase activity,0,0,2,5
+Molecular Function,Delta14-sterol reductase activity,0,0,0,1
+Molecular Function,E-box binding,0,0,0,1
+Molecular Function,F-actin monooxygenase activity,0,0,0,1
+Molecular Function,FAD binding,1,1,2,13
+Molecular Function,FFAT motif binding,0,0,0,1
+Molecular Function,FMN binding,0,0,1,2
+Molecular Function,G protein activity,5,3,6,7
+Molecular Function,G protein-coupled glutamate receptor binding,0,0,0,1
+Molecular Function,G protein-coupled receptor activity,1,0,1,20
+Molecular Function,G protein-coupled receptor binding,1,2,4,8
+Molecular Function,G protein-coupled receptor kinase activity,0,0,1,2
+Molecular Function,G-protein alpha-subunit binding,0,0,0,5
+Molecular Function,G-protein beta-subunit binding,0,0,0,1
+Molecular Function,G-protein beta/gamma-subunit complex binding,1,2,4,5
+Molecular Function,GDP phosphatase activity,0,0,0,2
+Molecular Function,GDP-L-fucose synthase activity,0,0,0,1
+Molecular Function,GDP-dissociation inhibitor activity,0,0,0,3
+Molecular Function,"GDP-mannose 4,6-dehydratase activity",0,0,0,1
+Molecular Function,GMP kinase activity,0,0,0,1
+Molecular Function,GMP reductase activity,0,0,1,0
+Molecular Function,GPI-anchor transamidase activity,0,0,0,1
+Molecular Function,GTP binding,28,33,54,100
+Molecular Function,GTPase activator activity,1,2,5,16
+Molecular Function,GTPase activity,21,25,40,72
+Molecular Function,Glc3Man9GlcNAc2 oligosaccharide glucosidase activity,0,0,1,2
+Molecular Function,Hsp70 protein binding,0,0,0,5
+Molecular Function,Hsp90 protein binding,0,0,0,5
+Molecular Function,IMP cyclohydrolase activity,0,0,0,1
+Molecular Function,IMP dehydrogenase activity,0,0,0,1
+Molecular Function,K63-linked polyubiquitin modification-dependent protein binding,0,0,0,1
+Molecular Function,L-alanine:2-oxoglutarate aminotransferase activity,0,0,0,2
+Molecular Function,L-amino acid transmembrane transporter activity,0,0,0,1
+Molecular Function,L-ascorbic acid binding,0,1,0,4
+Molecular Function,L-aspartate transmembrane transporter activity,0,1,1,1
+Molecular Function,L-aspartate:2-oxoglutarate aminotransferase activity,0,0,0,2
+Molecular Function,L-glutamate gamma-semialdehyde dehydrogenase activity,0,0,0,1
+Molecular Function,L-glutamate transmembrane transporter activity,0,1,1,5
+Molecular Function,L-gulonolactone oxidase activity,0,0,0,1
+Molecular Function,L-iditol 2-dehydrogenase (NAD+) activity,0,0,0,1
+Molecular Function,L-lactate dehydrogenase (NAD+) activity,0,1,0,1
+Molecular Function,L-malate dehydrogenase (NAD+) activity,1,1,0,2
+Molecular Function,L-pipecolate oxidase activity,0,0,0,1
+Molecular Function,L-serine-phosphatidylethanolamine phosphatidyltransferase activity,0,0,0,1
+Molecular Function,L-serine-pyruvate transaminase activity,0,0,0,1
+Molecular Function,MAP kinase kinase activity,0,0,1,1
+Molecular Function,MAP-kinase scaffold activity,0,0,0,1
+Molecular Function,"N,N-dimethylaniline monooxygenase activity",0,0,0,2
+Molecular Function,N-acetyl-beta-glucosaminyl-derivative 4-beta-N-acetylgalactosaminyltransferase activity,0,0,0,1
+Molecular Function,N-acetylglucosamine 6-O-sulfotransferase activity,0,0,0,1
+Molecular Function,N-acetylglucosamine kinase activity,0,0,0,1
+Molecular Function,N-acetylglucosamine-6-sulfatase activity,0,0,0,1
+Molecular Function,N-acylsphingosine amidohydrolase activity,0,0,0,1
+Molecular Function,N-sulfoglucosamine sulfohydrolase activity,0,0,1,1
+Molecular Function,NAD binding,1,3,3,13
+Molecular Function,NAD+ binding,1,2,1,4
+Molecular Function,NAD+ kinase activity,0,0,0,1
+Molecular Function,NAD+ poly-ADP-ribosyltransferase activity,0,0,0,1
+Molecular Function,NADH binding,0,0,0,1
+Molecular Function,NADH dehydrogenase (ubiquinone) activity,1,1,2,6
+Molecular Function,NADH dehydrogenase activity,0,1,0,4
+Molecular Function,NADP binding,2,3,2,9
+Molecular Function,NADPH binding,0,0,0,5
+Molecular Function,NF-kappaB binding,0,0,0,1
+Molecular Function,Notch binding,0,0,0,1
+Molecular Function,O-acyl-L-carnitine transmembrane transporter activity,0,0,0,1
+Molecular Function,O-acyltransferase activity,0,0,0,1
+Molecular Function,O-methyltransferase activity,0,0,0,2
+Molecular Function,O-phospho-L-serine:2-oxoglutarate aminotransferase activity,0,0,0,1
+Molecular Function,P-type calcium transporter activity,0,1,0,4
+Molecular Function,P-type ion transporter activity,0,0,0,1
+Molecular Function,P-type monovalent copper transporter activity,0,0,0,1
+Molecular Function,P-type sodium:potassium-exchanging transporter activity,0,1,2,1
+Molecular Function,RNA binding,5,16,25,104
+Molecular Function,RNA cap binding,0,0,0,1
+Molecular Function,RNA endonuclease activity,0,0,0,2
+Molecular Function,"RNA endonuclease activity producing 5'-phosphomonoesters, hydrolytic mechanism",0,0,0,1
+Molecular Function,RNA helicase activity,2,4,6,15
+Molecular Function,RNA polymerase II cis-regulatory region sequence-specific DNA binding,0,0,0,2
+Molecular Function,RNA polymerase II complex binding,0,0,0,2
+Molecular Function,RNA polymerase II general transcription initiation factor activity,0,0,0,1
+Molecular Function,RNA polymerase II transcription regulatory region sequence-specific DNA binding,0,0,0,1
+Molecular Function,RNA polymerase binding,0,0,0,1
+Molecular Function,RNA transmembrane transporter activity,0,0,0,1
+Molecular Function,Rab GDP-dissociation inhibitor activity,1,0,1,1
+Molecular Function,Rho GDP-dissociation inhibitor activity,0,0,0,1
+Molecular Function,Rho-dependent protein serine/threonine kinase activity,0,0,0,1
+Molecular Function,S-(hydroxymethyl)glutathione dehydrogenase [NAD(P)+] activity,1,0,0,1
+Molecular Function,S-adenosyl-L-methionine binding,0,0,1,1
+Molecular Function,S-adenosylmethionine-dependent methyltransferase activity,0,0,0,4
+Molecular Function,S-formylglutathione hydrolase activity,0,0,0,1
+Molecular Function,S-methyl-5-thioadenosine phosphorylase activity,0,0,0,2
+Molecular Function,S100 protein binding,1,0,1,1
+Molecular Function,SH3 domain binding,0,0,0,3
+Molecular Function,SNAP receptor activity,0,5,2,7
+Molecular Function,SNARE binding,0,3,1,7
+Molecular Function,Ser-tRNA(Ala) deacylase activity,0,0,0,1
+Molecular Function,TBP-class protein binding,0,0,0,1
+Molecular Function,TFIIF-class transcription factor complex binding,0,0,0,1
+Molecular Function,U1 snRNA binding,0,1,1,2
+Molecular Function,U2 snRNA binding,0,1,1,1
+Molecular Function,U4 snRNA binding,0,0,0,1
+Molecular Function,U5 snRNA binding,0,1,2,2
+Molecular Function,U6 snRNA binding,0,1,1,3
+Molecular Function,UDP phosphatase activity,0,0,0,2
+Molecular Function,UDP-N-acetylglucosamine 4-epimerase activity,0,0,0,1
+Molecular Function,UDP-N-acetylglucosamine diphosphorylase activity,0,0,1,2
+Molecular Function,UDP-N-acetylglucosamine-dolichyl-phosphate N-acetylglucosaminephosphotransferase activity,0,0,0,1
+Molecular Function,UDP-N-acetylglucosamine-lysosomal-enzyme N-acetylglucosaminephosphotransferase activity,0,0,0,1
+Molecular Function,UDP-galactose transmembrane transporter activity,0,0,0,1
+Molecular Function,UDP-glucose 4-epimerase activity,0,0,0,2
+Molecular Function,UDP-glucose transmembrane transporter activity,0,0,0,1
+Molecular Function,UDP-glucose:glycoprotein glucosyltransferase activity,0,0,0,1
+Molecular Function,UDP-glucose:hexose-1-phosphate uridylyltransferase activity,0,0,0,1
+Molecular Function,UDP-glucuronate decarboxylase activity,0,0,0,1
+Molecular Function,UDP-glycosyltransferase activity,0,0,0,1
+Molecular Function,UFM1 activating enzyme activity,0,0,1,0
+Molecular Function,UFM1 ligase activity,0,0,0,1
+Molecular Function,UTP:glucose-1-phosphate uridylyltransferase activity,0,0,1,1
+Molecular Function,Wnt receptor activity,0,0,0,6
+Molecular Function,Wnt-protein binding,0,0,0,7
+Molecular Function,acetate CoA-transferase activity,0,0,0,1
+Molecular Function,acetate-CoA ligase activity,0,0,0,2
+Molecular Function,acetolactate synthase activity,0,0,0,1
+Molecular Function,acetyl-CoA C-acetyltransferase activity,0,0,0,2
+Molecular Function,acetyl-CoA C-acyltransferase activity,0,0,0,2
+Molecular Function,acetyl-CoA C-myristoyltransferase activity,0,0,0,2
+Molecular Function,acetyl-CoA carboxylase activity,0,0,0,1
+Molecular Function,acetyl-CoA transmembrane transporter activity,0,0,0,1
+Molecular Function,acetylcholine-gated monoatomic cation-selective channel activity,0,0,0,1
+Molecular Function,acetylglucosaminyltransferase activity,0,0,0,2
+Molecular Function,acetylpyruvate hydrolase activity,0,0,0,1
+Molecular Function,acetylserotonin O-methyltransferase activity,0,0,0,1
+Molecular Function,acetyltransferase activity,0,0,0,1
+Molecular Function,acid phosphatase activity,0,0,0,4
+Molecular Function,acireductone dioxygenase (Ni2+-requiring) activity,0,0,0,1
+Molecular Function,acireductone dioxygenase [iron(II)-requiring] activity,0,0,0,1
+Molecular Function,aconitate hydratase activity,0,2,0,2
+Molecular Function,actin binding,5,9,8,28
+Molecular Function,actin filament binding,5,8,12,42
+Molecular Function,actin monomer binding,0,0,0,3
+Molecular Function,acyl binding,0,0,0,1
+Molecular Function,acyl carrier activity,0,0,0,1
+Molecular Function,acyl-CoA dehydrogenase activity,0,0,0,1
+Molecular Function,acyl-CoA oxidase activity,1,1,1,3
+Molecular Function,acyltransferase activity,0,1,1,2
+Molecular Function,"acyltransferase activity, acyl groups converted into alkyl on transfer",0,0,0,1
+Molecular Function,"acyltransferase activity, transferring groups other than amino-acyl groups",0,0,0,2
+Molecular Function,adenine binding,0,0,0,1
+Molecular Function,adenine phosphoribosyltransferase activity,0,0,0,1
+Molecular Function,adenosine kinase activity,0,0,0,1
+Molecular Function,adenosylhomocysteinase activity,0,1,0,1
+Molecular Function,adenosylhomocysteine nucleosidase activity,0,0,0,2
+Molecular Function,adenyl-nucleotide exchange factor activity,0,0,0,1
+Molecular Function,adenylate cyclase activity,0,0,0,1
+Molecular Function,adenylate cyclase binding,0,0,0,1
+Molecular Function,adenylate cyclase inhibitor activity,0,0,0,2
+Molecular Function,adenylosuccinate synthase activity,0,0,0,1
+Molecular Function,adenylylsulfate kinase activity,0,0,0,1
+Molecular Function,agmatinase activity,0,1,0,1
+Molecular Function,alanine-glyoxylate transaminase activity,0,0,0,2
+Molecular Function,alanine-tRNA ligase activity,0,1,0,1
+Molecular Function,alanyl aminopeptidase activity,0,0,0,1
+Molecular Function,alcohol dehydrogenase (NAD+) activity,1,0,0,3
+Molecular Function,alcohol dehydrogenase (NADP+) activity,0,0,0,1
+Molecular Function,aldehyde dehydrogenase (NAD+) activity,0,1,0,3
+Molecular Function,aldose 1-epimerase activity,0,0,0,2
+Molecular Function,alkaline phosphatase activity,0,0,0,4
+Molecular Function,alkylglycerone-phosphate synthase activity,0,0,0,1
+Molecular Function,all-trans-retinol dehydrogenase (NADP+) activity,0,0,0,3
+Molecular Function,"alpha,alpha-trehalase activity",0,0,1,1
+Molecular Function,alpha-(1->3)-fucosyltransferase activity,0,0,0,1
+Molecular Function,"alpha-1,4-glucan glucosyltransferase (UDP-glucose donor) activity",0,0,1,2
+Molecular Function,"alpha-1,4-glucosidase activity",0,0,0,1
+Molecular Function,alpha-L-arabinofuranosidase activity,0,0,0,1
+Molecular Function,alpha-L-fucosidase activity,0,0,0,7
+Molecular Function,alpha-galactosidase activity,0,0,0,2
+Molecular Function,alpha-glucosidase activity,0,0,0,2
+Molecular Function,alpha-mannosidase activity,0,0,0,2
+Molecular Function,alternative oxidase activity,0,0,0,1
+Molecular Function,amino acid binding,0,0,0,3
+Molecular Function,amino acid transmembrane transporter activity,0,1,0,1
+Molecular Function,amino acid:sodium symporter activity,0,0,0,1
+Molecular Function,aminoacyl-tRNA deacylase activity,0,1,0,6
+Molecular Function,aminoacyl-tRNA ligase activity,0,0,0,1
+Molecular Function,aminoacylase activity,0,0,0,1
+Molecular Function,aminomethyltransferase activity,0,0,0,1
+Molecular Function,aminopeptidase activity,0,1,1,7
+Molecular Function,ammonium channel activity,0,0,0,1
+Molecular Function,"amylo-alpha-1,6-glucosidase activity",0,0,0,1
+Molecular Function,"androstan-3-alpha,17-beta-diol dehydrogenase (NAD+) activity",0,0,0,1
+Molecular Function,antioxidant activity,0,0,0,1
+Molecular Function,antiporter activity,0,0,0,1
+Molecular Function,arginine kinase activity,1,0,1,1
+Molecular Function,arginine-tRNA ligase activity,1,0,1,1
+Molecular Function,argininosuccinate lyase activity,0,0,0,1
+Molecular Function,argininosuccinate synthase activity,0,0,0,1
+Molecular Function,arsenite methyltransferase activity,0,0,0,1
+Molecular Function,arylamine N-acetyltransferase activity,0,0,0,1
+Molecular Function,arylesterase activity,0,0,0,3
+Molecular Function,asparagine synthase (glutamine-hydrolyzing) activity,0,0,0,1
+Molecular Function,asparagine-tRNA ligase activity,0,0,0,1
+Molecular Function,aspartate carbamoyltransferase activity,0,0,0,1
+Molecular Function,aspartate dehydrogenase [NAD(P)+] activity,0,0,0,1
+Molecular Function,aspartate-tRNA ligase activity,0,0,0,1
+Molecular Function,"aspartic endopeptidase activity, intramembrane cleaving",0,1,0,1
+Molecular Function,aspartic-type endopeptidase activity,0,0,0,1
+Molecular Function,axon guidance receptor activity,0,0,0,1
+Molecular Function,beta-N-acetylhexosaminidase activity,0,0,1,3
+Molecular Function,beta-alanine:pyruvate transaminase activity,0,0,0,1
+Molecular Function,beta-catenin binding,0,1,0,2
+Molecular Function,beta-galactosidase activity,0,0,0,1
+Molecular Function,beta-glucosidase activity,0,0,1,3
+Molecular Function,beta-glucuronidase activity,0,0,0,2
+Molecular Function,beta-mannosidase activity,0,0,0,1
+Molecular Function,beta-tubulin binding,0,0,0,1
+Molecular Function,beta-ureidopropionase activity,0,0,0,1
+Molecular Function,betaine-homocysteine S-methyltransferase activity,0,1,1,1
+Molecular Function,biliverdin reductase [NAD(P)H] activity,0,0,0,1
+Molecular Function,biotin binding,0,1,0,2
+Molecular Function,biotin carboxylase activity,0,0,0,1
+Molecular Function,box H/ACA snoRNA binding,0,0,0,1
+Molecular Function,branched-chain 2-oxo acid dehydrogenase activity,0,0,1,1
+Molecular Function,branched-chain-amino-acid transaminase activity,0,0,0,1
+Molecular Function,cAMP binding,1,0,2,2
+Molecular Function,cAMP-dependent protein kinase activity,0,0,1,1
+Molecular Function,cAMP-dependent protein kinase inhibitor activity,1,0,2,2
+Molecular Function,cGMP-dependent protein kinase activity,0,0,1,1
+Molecular Function,cadherin binding,0,1,2,4
+Molecular Function,calcium channel activity,1,0,0,3
+Molecular Function,calcium ion binding,9,20,17,127
+Molecular Function,calcium-activated cation channel activity,0,0,0,2
+Molecular Function,calcium-activated potassium channel activity,0,0,0,1
+Molecular Function,calcium-dependent cysteine-type endopeptidase activity,0,0,0,1
+Molecular Function,calcium-dependent phospholipid binding,1,4,1,11
+Molecular Function,calcium-dependent protein binding,0,0,1,2
+Molecular Function,calcium/calmodulin-dependent protein kinase activity,0,0,0,2
+Molecular Function,calcium:proton antiporter activity,0,0,0,1
+Molecular Function,calcium:sodium antiporter activity,0,0,0,1
+Molecular Function,calmodulin binding,2,4,4,10
+Molecular Function,calmodulin-dependent protein phosphatase activity,0,1,1,1
+Molecular Function,carbamoyl-phosphate synthase (ammonia) activity,0,0,0,2
+Molecular Function,carbamoyl-phosphate synthase (glutamine-hydrolyzing) activity,0,0,0,2
+Molecular Function,carbohydrate binding,1,3,3,25
+Molecular Function,carbohydrate derivative binding,0,1,0,2
+Molecular Function,carbon-carbon lyase activity,0,0,0,4
+Molecular Function,"carbon-oxygen lyase activity, acting on polysaccharides",0,0,0,1
+Molecular Function,carbon-sulfur lyase activity,0,0,0,1
+Molecular Function,carbonate dehydratase activity,0,0,0,6
+Molecular Function,carbonyl reductase (NADPH) activity,0,0,0,1
+Molecular Function,carboxy-lyase activity,0,2,0,2
+Molecular Function,carboxylic ester hydrolase activity,0,0,0,2
+Molecular Function,carboxypeptidase activity,0,0,0,5
+Molecular Function,carnitine O-acyltransferase activity,0,0,0,1
+Molecular Function,carnitine O-palmitoyltransferase activity,0,0,0,3
+Molecular Function,carotenoid dioxygenase activity,0,0,0,1
+Molecular Function,catalase activity,2,1,1,2
+Molecular Function,catalytic activity,1,1,1,10
+Molecular Function,cation binding,0,0,0,1
+Molecular Function,cell adhesion molecule binding,0,1,1,5
+Molecular Function,cell-cell adhesion mediator activity,0,0,0,3
+Molecular Function,chitin binding,0,0,2,6
+Molecular Function,chitinase activity,0,0,1,2
+Molecular Function,chloride channel activity,0,1,0,10
+Molecular Function,chloride transmembrane transporter activity,0,0,0,1
+Molecular Function,cholesterol 24-hydroxylase activity,0,0,0,1
+Molecular Function,cholesterol binding,0,1,0,1
+Molecular Function,choline dehydrogenase activity,0,0,0,1
+Molecular Function,choline-phosphate cytidylyltransferase activity,0,0,0,1
+Molecular Function,chromatin DNA binding,0,0,0,1
+Molecular Function,chromatin binding,0,1,0,2
+Molecular Function,cis-regulatory region sequence-specific DNA binding,0,0,0,1
+Molecular Function,citrate secondary active transmembrane transporter activity,0,0,1,1
+Molecular Function,clathrin adaptor activity,0,1,0,3
+Molecular Function,clathrin binding,0,1,1,2
+Molecular Function,clathrin heavy chain binding,0,1,0,2
+Molecular Function,clathrin light chain binding,1,1,1,2
+Molecular Function,co-receptor binding,0,0,0,2
+Molecular Function,cobalamin binding,0,0,1,2
+Molecular Function,collagen binding,0,0,0,1
+Molecular Function,copper chaperone activity,0,0,0,1
+Molecular Function,copper ion binding,0,2,0,17
+Molecular Function,coproporphyrinogen oxidase activity,0,0,1,1
+Molecular Function,creatine kinase activity,1,1,2,1
+Molecular Function,cullin family protein binding,0,0,0,2
+Molecular Function,cyclic-di-GMP binding,0,0,0,1
+Molecular Function,cyclosporin A binding,1,1,3,5
+Molecular Function,cystathionine gamma-lyase activity,0,0,1,1
+Molecular Function,cysteine desulfurase activity,0,0,0,1
+Molecular Function,cysteine dioxygenase activity,0,0,0,1
+Molecular Function,cysteine-tRNA ligase activity,0,0,0,1
+Molecular Function,cysteine-type aminopeptidase activity,0,0,0,1
+Molecular Function,cysteine-type deubiquitinase activity,1,0,0,7
+Molecular Function,cysteine-type endopeptidase activity,0,0,0,6
+Molecular Function,cysteine-type endopeptidase inhibitor activity,0,0,0,4
+Molecular Function,cysteine-type peptidase activity,2,1,2,7
+Molecular Function,"cytochrome-b5 reductase activity, acting on NADH",0,0,0,1
+Molecular Function,cytochrome-c oxidase activity,0,0,0,3
+Molecular Function,cytokine activity,0,0,0,1
+Molecular Function,cytoskeletal anchor activity,0,0,0,2
+Molecular Function,cytoskeletal motor activity,0,0,0,4
+Molecular Function,cytoskeletal protein binding,0,0,0,2
+Molecular Function,damaged DNA binding,0,0,0,2
+Molecular Function,death domain binding,0,0,0,1
+Molecular Function,delta(3)-delta(2)-enoyl-CoA isomerase activity,0,0,0,4
+Molecular Function,"delta(3,5)-delta(2,4)-dienoyl-CoA isomerase activity",0,0,0,1
+Molecular Function,deoxyribodipyrimidine photo-lyase activity,0,0,0,1
+Molecular Function,deoxyribonuclease I activity,0,0,0,1
+Molecular Function,deubiquitinase activity,0,0,0,1
+Molecular Function,diacylglycerol O-acyltransferase activity,0,0,0,3
+Molecular Function,diacylglycerol-dependent serine/threonine kinase activity,0,0,0,2
+Molecular Function,dihydrolipoamide branched chain acyltransferase activity,0,0,0,1
+Molecular Function,dihydrolipoyl dehydrogenase (NADH) activity,0,0,0,1
+Molecular Function,dihydrolipoyllysine-residue acetyltransferase activity,0,0,0,1
+Molecular Function,dihydrolipoyllysine-residue succinyltransferase activity,1,1,0,1
+Molecular Function,dihydroorotase activity,0,0,0,1
+Molecular Function,dihydroorotate dehydrogenase (quinone) activity,0,0,0,1
+Molecular Function,dihydropyrimidinase activity,0,1,0,1
+Molecular Function,dimethylargininase activity,0,0,0,1
+Molecular Function,dimethylglycine dehydrogenase activity,0,0,0,1
+Molecular Function,dioxygenase activity,0,0,0,2
+Molecular Function,dipeptidyl-peptidase activity,0,1,1,7
+Molecular Function,diphthine methyl ester synthase activity,0,0,0,1
+Molecular Function,diphthine synthase activity,0,0,0,1
+Molecular Function,disulfide oxidoreductase activity,0,0,0,1
+Molecular Function,dolichyl-diphosphooligosaccharide-protein glycotransferase activity,0,2,1,2
+Molecular Function,dolichyl-phosphate beta-D-mannosyltransferase activity,0,1,0,1
+Molecular Function,dolichyl-phosphate-mannose-protein mannosyltransferase activity,0,0,0,2
+Molecular Function,dopamine beta-monooxygenase activity,0,0,0,3
+Molecular Function,double-stranded DNA binding,0,0,0,4
+Molecular Function,double-stranded RNA binding,0,0,1,5
+Molecular Function,dynein complex binding,0,1,1,1
+Molecular Function,dynein heavy chain binding,0,0,1,5
+Molecular Function,dynein intermediate chain binding,2,2,5,10
+Molecular Function,dynein light chain binding,0,0,0,3
+Molecular Function,dynein light intermediate chain binding,0,1,3,9
+Molecular Function,electron transfer activity,1,1,2,9
+Molecular Function,electron-transferring-flavoprotein dehydrogenase activity,0,0,0,1
+Molecular Function,endochitinase activity,0,0,0,1
+Molecular Function,endonuclease activity,0,0,0,1
+Molecular Function,endopeptidase activator activity,0,0,0,1
+Molecular Function,endopeptidase inhibitor activity,0,0,0,3
+Molecular Function,enoyl-CoA hydratase activity,1,2,1,3
+Molecular Function,enzyme binding,0,0,0,1
+Molecular Function,enzyme inhibitor activity,0,0,0,2
+Molecular Function,enzyme regulator activity,0,1,2,3
+Molecular Function,epoxide hydrolase activity,0,0,0,2
+Molecular Function,estradiol 17-beta-dehydrogenase [NAD(P)+] activity,0,0,0,2
+Molecular Function,ethanolamine kinase activity,0,0,0,1
+Molecular Function,ethanolamine-phosphate cytidylyltransferase activity,0,0,1,1
+Molecular Function,exonuclease activity,0,0,0,1
+Molecular Function,extracellular ligand-gated monoatomic ion channel activity,0,0,0,2
+Molecular Function,extracellular matrix binding,0,0,0,1
+Molecular Function,extracellular matrix structural constituent,0,1,1,12
+Molecular Function,extracellular matrix structural constituent conferring tensile strength,0,0,0,2
+Molecular Function,extracellularly ATP-gated monoatomic cation channel activity,0,0,0,1
+Molecular Function,fatty acid amide hydrolase activity,0,0,0,1
+Molecular Function,fatty acid binding,1,1,1,3
+Molecular Function,fatty acid elongase activity,0,0,0,1
+Molecular Function,fatty-acyl-CoA binding,0,1,1,3
+Molecular Function,ferric iron binding,0,0,0,2
+Molecular Function,ferrochelatase activity,0,0,0,1
+Molecular Function,ferrous iron binding,0,0,0,4
+Molecular Function,ferroxidase activity,0,0,0,2
+Molecular Function,flavin adenine dinucleotide binding,0,2,3,16
+Molecular Function,folic acid binding,0,0,1,1
+Molecular Function,formate-tetrahydrofolate ligase activity,0,0,0,1
+Molecular Function,formyltetrahydrofolate dehydrogenase activity,0,1,1,1
+Molecular Function,fructokinase activity,0,0,1,1
+Molecular Function,"fructose 1,6-bisphosphate 1-phosphatase activity",0,0,1,1
+Molecular Function,"fructose-2,6-bisphosphate 2-phosphatase activity",0,0,0,1
+Molecular Function,fructose-6-phosphate binding,0,0,0,1
+Molecular Function,fructose-bisphosphate aldolase activity,1,1,1,1
+Molecular Function,fucokinase activity,0,0,0,1
+Molecular Function,fumarate hydratase activity,0,0,0,1
+Molecular Function,fumarylacetoacetase activity,0,0,0,1
+Molecular Function,galactokinase activity,0,1,0,2
+Molecular Function,galactosyltransferase activity,0,0,0,1
+Molecular Function,gamma-glutamyl carboxylase activity,0,0,0,1
+Molecular Function,gamma-glutamyl-peptidase activity,0,0,0,1
+Molecular Function,glucokinase activity,0,0,1,1
+Molecular Function,gluconolactonase activity,0,0,0,1
+Molecular Function,glucosamine-6-phosphate deaminase activity,0,0,1,1
+Molecular Function,glucose-6-phosphate 1-epimerase activity,0,0,0,1
+Molecular Function,glucose-6-phosphate dehydrogenase activity,1,0,1,1
+Molecular Function,glucose-6-phosphate isomerase activity,0,0,0,1
+Molecular Function,glucosylceramidase activity,0,0,0,1
+Molecular Function,glucosyltransferase activity,0,0,0,1
+Molecular Function,glucuronosyltransferase activity,0,0,0,1
+Molecular Function,glutamate 5-kinase activity,0,0,0,1
+Molecular Function,glutamate dehydrogenase (NAD+) activity,0,0,1,1
+Molecular Function,glutamate dehydrogenase (NADP+) activity,0,1,0,2
+Molecular Function,glutamate-5-semialdehyde dehydrogenase activity,0,0,0,1
+Molecular Function,glutamate-cysteine ligase activity,0,0,0,1
+Molecular Function,glutamate:sodium symporter activity,0,0,0,4
+Molecular Function,glutaminase activity,0,0,0,1
+Molecular Function,glutamine synthetase activity,1,1,1,1
+Molecular Function,glutamine-fructose-6-phosphate transaminase (isomerizing) activity,0,1,0,1
+Molecular Function,glutamine-tRNA ligase activity,0,1,1,1
+Molecular Function,glutamyl aminopeptidase activity,1,1,1,3
+Molecular Function,glutathione dehydrogenase (ascorbate) activity,0,0,0,2
+Molecular Function,glutathione hydrolase activity,1,0,0,9
+Molecular Function,glutathione peroxidase activity,0,0,0,2
+Molecular Function,glutathione transferase activity,0,1,0,11
+Molecular Function,glutathione-dependent sulfide quinone oxidoreductase activity,0,0,0,1
+Molecular Function,glutathione-disulfide reductase (NADPH) activity,0,0,0,1
+Molecular Function,glyceraldehyde-3-phosphate dehydrogenase (NAD+) (phosphorylating) activity,0,1,0,2
+Molecular Function,glycerate 2-kinase activity,0,0,0,1
+Molecular Function,glycerate kinase activity,0,0,0,1
+Molecular Function,glycerol kinase activity,0,0,0,2
+Molecular Function,glycerol-3-phosphate O-acyltransferase activity,0,0,0,1
+Molecular Function,glycerol-3-phosphate dehydrogenase (NAD+) activity,0,0,0,1
+Molecular Function,glycerol-3-phosphate dehydrogenase (quinone) activity,0,0,0,1
+Molecular Function,glycerophosphodiester phosphodiesterase activity,0,0,0,1
+Molecular Function,glycerophospholipase activity,0,0,0,7
+Molecular Function,glycine N-methyltransferase activity,0,0,1,1
+Molecular Function,glycine amidinotransferase activity,0,0,1,1
+Molecular Function,glycine binding,0,0,1,2
+Molecular Function,glycine dehydrogenase (decarboxylating) activity,0,0,0,1
+Molecular Function,glycine hydroxymethyltransferase activity,0,0,1,3
+Molecular Function,glycine-tRNA ligase activity,0,0,0,1
+Molecular Function,glycogen phosphorylase activity,0,1,0,2
+Molecular Function,glycogenin glucosyltransferase activity,0,0,0,1
+Molecular Function,glycoprotein 6-alpha-L-fucosyltransferase activity,0,0,0,1
+Molecular Function,glycosaminoglycan binding,0,0,0,1
+Molecular Function,glycosyltransferase activity,0,0,1,6
+Molecular Function,glycylpeptide N-tetradecanoyltransferase activity,0,0,0,1
+Molecular Function,glyoxalase III activity,0,0,0,1
+Molecular Function,glyoxylate reductase (NADPH) activity,0,0,0,1
+Molecular Function,growth factor activity,0,0,0,2
+Molecular Function,guanidinobutyrase activity,0,1,0,1
+Molecular Function,guanyl-nucleotide exchange factor activity,0,3,1,18
+Molecular Function,helicase activity,0,0,1,1
+Molecular Function,heme binding,2,2,1,27
+Molecular Function,heparin binding,0,0,0,3
+Molecular Function,hexosaminidase activity,0,0,0,1
+Molecular Function,histidine-tRNA ligase activity,0,0,1,0
+Molecular Function,histone H2AQ104 methyltransferase activity,0,0,1,1
+Molecular Function,histone H3K36me/H3K36me2 demethylase activity,0,0,0,1
+Molecular Function,histone H3K4 demethylase activity,0,0,0,1
+Molecular Function,histone binding,0,1,0,6
+Molecular Function,"histone deacetylase activity, NAD-dependent",0,0,0,1
+Molecular Function,"histone deacetylase activity, hydrolytic mechanism",0,0,0,1
+Molecular Function,histone methyltransferase activity,0,1,0,2
+Molecular Function,histone modifying activity,0,0,0,1
+Molecular Function,holocytochrome-c synthase activity,0,0,0,1
+Molecular Function,"homogentisate 1,2-dioxygenase activity",0,0,1,0
+Molecular Function,hormone binding,0,0,0,2
+Molecular Function,hydro-lyase activity,0,0,0,2
+Molecular Function,hydrolase activity,4,6,12,58
+Molecular Function,"hydrolase activity, acting on carbon-nitrogen (but not peptide) bonds",0,0,0,1
+Molecular Function,"hydrolase activity, acting on carbon-nitrogen (but not peptide) bonds, in linear amides",0,0,0,2
+Molecular Function,"hydrolase activity, acting on ester bonds",0,0,0,1
+Molecular Function,"hydrolase activity, acting on glycosyl bonds",0,0,0,1
+Molecular Function,"hydrolase activity, hydrolyzing O-glycosyl compounds",0,0,0,5
+Molecular Function,hydroxyacid-oxoacid transhydrogenase activity,0,0,0,1
+Molecular Function,hydroxyacylglutathione hydrolase activity,0,0,0,1
+Molecular Function,hydroxyethylthiazole kinase activity,0,0,0,1
+Molecular Function,hydroxyisourate hydrolase activity,0,0,0,1
+Molecular Function,hydroxypyruvate reductase (NADH) activity,0,0,0,1
+Molecular Function,identical protein binding,0,1,2,8
+Molecular Function,initiator methionyl aminopeptidase activity,0,1,0,1
+Molecular Function,inorganic diphosphate phosphatase activity,0,1,0,1
+Molecular Function,"inositol 1,4,5 trisphosphate binding",0,0,0,1
+Molecular Function,inositol monophosphate 1-phosphatase activity,0,0,0,1
+Molecular Function,inositol monophosphate phosphatase activity,0,0,0,1
+Molecular Function,integrin binding,0,1,1,10
+Molecular Function,"intracellularly phosphatidylinositol-3,5-bisphosphate-gated monatomic cation channel activity",0,0,0,1
+Molecular Function,inward rectifier potassium channel activity,0,0,0,1
+Molecular Function,iron ion binding,0,2,1,22
+Molecular Function,iron ion transmembrane transporter activity,1,0,1,1
+Molecular Function,iron-sulfur cluster binding,1,1,1,3
+Molecular Function,isocitrate dehydrogenase (NAD+) activity,0,0,0,1
+Molecular Function,isocitrate dehydrogenase (NADP+) activity,1,1,2,2
+Molecular Function,isocitrate lyase activity,0,1,0,2
+Molecular Function,isoleucine-tRNA ligase activity,0,0,0,2
+Molecular Function,isomerase activity,0,0,1,3
+Molecular Function,ketohexokinase activity,0,0,0,1
+Molecular Function,kinase activity,1,3,3,17
+Molecular Function,kinase binding,0,1,0,0
+Molecular Function,kinesin binding,0,0,0,2
+Molecular Function,kynurenine 3-monooxygenase activity,0,0,0,1
+Molecular Function,kynurenine-oxoglutarate transaminase activity,0,0,0,1
+Molecular Function,lactoylglutathione lyase activity,0,0,0,1
+Molecular Function,laminin binding,0,0,0,2
+Molecular Function,large ribosomal subunit rRNA binding,0,0,1,3
+Molecular Function,leucine-tRNA ligase activity,0,0,0,2
+Molecular Function,leukotriene-C4 synthase activity,0,0,0,1
+Molecular Function,ligand-gated monoatomic ion channel activity,0,1,1,3
+Molecular Function,ligand-gated sodium channel activity,0,0,0,1
+Molecular Function,ligase activity,0,1,1,4
+Molecular Function,lipase activity,0,0,0,1
+Molecular Function,lipid binding,0,0,0,13
+Molecular Function,lipid transporter activity,0,0,0,5
+Molecular Function,lipoic acid binding,0,0,0,1
+Molecular Function,long-chain (3S)-3-hydroxyacyl-CoA dehydrogenase (NAD+) activity,1,1,1,1
+Molecular Function,long-chain fatty acid transmembrane transporter activity,0,0,0,2
+Molecular Function,long-chain fatty acid-CoA ligase activity,0,0,0,7
+Molecular Function,long-chain fatty acyl-CoA hydrolase activity,0,0,0,1
+Molecular Function,long-chain-alcohol O-fatty-acyltransferase activity,0,0,0,2
+Molecular Function,low-density lipoprotein particle receptor binding,0,0,0,1
+Molecular Function,lyase activity,0,1,0,6
+Molecular Function,lysine-tRNA ligase activity,0,0,0,1
+Molecular Function,lysozyme activity,0,0,0,1
+Molecular Function,mRNA 3'-UTR AU-rich region binding,0,0,0,2
+Molecular Function,mRNA 3'-UTR binding,0,0,0,4
+Molecular Function,mRNA 5'-cap (guanine-N7-)-methyltransferase activity,0,0,0,1
+Molecular Function,mRNA binding,0,5,3,39
+Molecular Function,mRNA cap binding,0,0,1,1
+Molecular Function,magnesium ion binding,2,6,4,19
+Molecular Function,malate synthase activity,0,0,0,1
+Molecular Function,maleylacetoacetate isomerase activity,0,0,0,1
+Molecular Function,manganese ion binding,2,4,1,10
+Molecular Function,mannose-1-phosphate guanylyltransferase (GTP) activity,0,0,1,1
+Molecular Function,"mannosyl-oligosaccharide 1,2-alpha-mannosidase activity",0,0,0,4
+Molecular Function,"mannosyl-oligosaccharide 1,3-1,6-alpha-mannosidase activity",0,0,0,1
+Molecular Function,mannosyltransferase activity,0,0,0,1
+Molecular Function,medium-chain fatty acid-CoA ligase activity,0,0,0,1
+Molecular Function,medium-chain fatty acyl-CoA dehydrogenase activity,0,1,1,1
+Molecular Function,metal ion binding,12,32,37,238
+Molecular Function,metalloaminopeptidase activity,2,5,3,14
+Molecular Function,metallocarboxypeptidase activity,0,0,0,5
+Molecular Function,metallodipeptidase activity,0,0,0,4
+Molecular Function,metalloendopeptidase activity,0,1,0,33
+Molecular Function,metalloendopeptidase inhibitor activity,0,0,0,1
+Molecular Function,metalloexopeptidase activity,0,0,0,1
+Molecular Function,metallopeptidase activity,0,2,2,10
+Molecular Function,methanethiol oxidase activity,0,0,0,2
+Molecular Function,methenyltetrahydrofolate cyclohydrolase activity,0,0,0,1
+Molecular Function,methionine adenosyltransferase activity,1,0,1,2
+Molecular Function,methionine adenosyltransferase regulator activity,0,0,0,1
+Molecular Function,methionine synthase activity,0,0,0,1
+Molecular Function,methionine-tRNA ligase activity,0,0,0,1
+Molecular Function,methionyl-tRNA formyltransferase activity,0,1,1,1
+Molecular Function,methylarsonate reductase activity,0,0,0,1
+Molecular Function,methylcrotonoyl-CoA carboxylase activity,0,0,0,1
+Molecular Function,methylenetetrahydrofolate dehydrogenase (NADP+) activity,0,0,0,1
+Molecular Function,methylenetetrahydrofolate reductase (NADPH) activity,0,0,0,1
+Molecular Function,"methylmalonate-semialdehyde dehydrogenase (acylating, NAD) activity",0,0,0,1
+Molecular Function,methylmalonyl-CoA mutase activity,0,0,1,1
+Molecular Function,methylthioadenosine nucleosidase activity,0,0,0,2
+Molecular Function,methyltransferase activity,0,0,0,5
+Molecular Function,microfilament motor activity,1,2,3,7
+Molecular Function,microtubule binding,0,1,4,15
+Molecular Function,microtubule motor activity,0,1,1,4
+Molecular Function,microtubule severing ATPase activity,0,0,0,1
+Molecular Function,minus-end-directed microtubule motor activity,0,0,2,5
+Molecular Function,misfolded protein binding,0,0,0,6
+Molecular Function,mitochondrion targeting sequence binding,0,0,0,2
+Molecular Function,molecular adaptor activity,0,2,1,3
+Molecular Function,molybdenum ion binding,0,0,0,1
+Molecular Function,monoacylglycerol lipase activity,0,0,0,3
+Molecular Function,monoamine oxidase activity,0,0,0,2
+Molecular Function,monoamine transmembrane transporter activity,0,0,0,4
+Molecular Function,monoatomic anion transmembrane transporter activity,0,1,0,2
+Molecular Function,monoatomic ion channel activity,0,0,0,2
+Molecular Function,monoatomic ion transmembrane transporter activity,0,0,1,2
+Molecular Function,monooxygenase activity,0,0,0,5
+Molecular Function,monosaccharide binding,0,0,0,2
+Molecular Function,muscle alpha-actinin binding,0,0,0,2
+Molecular Function,myosin II binding,0,1,0,1
+Molecular Function,myosin light chain binding,0,0,0,1
+Molecular Function,neutral L-amino acid transmembrane transporter activity,0,0,0,4
+Molecular Function,nickel cation binding,0,0,0,3
+Molecular Function,nicotinamide phosphoribosyltransferase activity,0,0,0,2
+Molecular Function,nicotinamide-nucleotide adenylyltransferase activity,0,0,0,1
+Molecular Function,nicotinate phosphoribosyltransferase activity,0,0,0,1
+Molecular Function,nicotinate-nucleotide adenylyltransferase activity,0,0,0,1
+Molecular Function,non-membrane spanning protein tyrosine kinase activity,0,0,1,2
+Molecular Function,non-membrane spanning protein tyrosine phosphatase activity,0,1,1,3
+Molecular Function,nuclear export signal receptor activity,0,0,1,3
+Molecular Function,nuclear import signal receptor activity,0,0,0,1
+Molecular Function,nuclear localization sequence binding,0,0,0,2
+Molecular Function,nuclear receptor activity,0,0,0,1
+Molecular Function,nuclease activity,0,0,1,1
+Molecular Function,nucleic acid binding,0,4,3,24
+Molecular Function,nucleobase-containing compound kinase activity,0,1,0,2
+Molecular Function,nucleoside diphosphate kinase activity,0,0,0,4
+Molecular Function,nucleoside triphosphate adenylate kinase activity,0,0,0,1
+Molecular Function,nucleosomal DNA binding,0,0,0,4
+Molecular Function,nucleosome binding,0,1,0,2
+Molecular Function,nucleotide binding,0,2,1,12
+Molecular Function,nucleotidyltransferase activity,0,0,0,2
+Molecular Function,nutrient reservoir activity,0,0,0,2
+Molecular Function,oligopeptidase activity,0,0,0,2
+Molecular Function,oligosaccharide binding,0,0,0,3
+Molecular Function,omega peptidase activity,0,0,0,1
+Molecular Function,omega-amidase activity,0,0,0,1
+Molecular Function,ornithine aminotransferase activity,0,0,0,1
+Molecular Function,ornithine carbamoyltransferase activity,0,0,0,1
+Molecular Function,oxaloacetate decarboxylase activity,0,0,0,1
+Molecular Function,oxaloacetate tautomerase activity,0,0,0,1
+Molecular Function,oxidoreductase activity,0,4,2,44
+Molecular Function,"oxidoreductase activity, acting on CH-OH group of donors",0,0,0,2
+Molecular Function,"oxidoreductase activity, acting on NAD(P)H",1,1,1,4
+Molecular Function,"oxidoreductase activity, acting on a sulfur group of donors, disulfide as acceptor",0,0,0,1
+Molecular Function,"oxidoreductase activity, acting on paired donors, with incorporation or reduction of molecular oxygen",0,0,0,8
+Molecular Function,"oxidoreductase activity, acting on paired donors, with incorporation or reduction of molecular oxygen, reduced flavin or flavoprotein as one donor, and incorporation of one atom of oxygen",0,0,0,1
+Molecular Function,"oxidoreductase activity, acting on single donors with incorporation of molecular oxygen, incorporation of two atoms of oxygen",0,1,0,8
+Molecular Function,"oxidoreductase activity, acting on the CH-CH group of donors",0,0,0,1
+Molecular Function,"oxidoreductase activity, acting on the CH-OH group of donors, NAD or NADP as acceptor",0,0,0,4
+Molecular Function,"oxidoreductase activity, acting on the aldehyde or oxo group of donors, NAD or NADP as acceptor",1,0,2,4
+Molecular Function,oxoglutarate dehydrogenase (succinyl-transferring) activity,0,0,0,1
+Molecular Function,palmitoyl-(protein) hydrolase activity,1,0,0,3
+Molecular Function,peptidase activator activity,0,0,0,1
+Molecular Function,peptidase activity,0,0,0,5
+Molecular Function,peptidase inhibitor activity,0,1,0,2
+Molecular Function,peptide binding,1,1,2,6
+Molecular Function,peptide-N4-(N-acetyl-beta-glucosaminyl)asparagine amidase activity,0,0,0,1
+Molecular Function,peptide-O-fucosyltransferase activity,0,0,0,2
+Molecular Function,peptide-methionine (R)-S-oxide reductase activity,0,0,0,1
+Molecular Function,peptidyl-aspartic acid 3-dioxygenase activity,0,0,0,1
+Molecular Function,peptidyl-dipeptidase activity,0,0,0,1
+Molecular Function,peptidyl-prolyl cis-trans isomerase activity,2,1,4,15
+Molecular Function,peptidyl-tRNA hydrolase activity,0,0,0,2
+Molecular Function,peptidylamidoglycolate lyase activity,0,0,0,1
+Molecular Function,peptidylglycine monooxygenase activity,0,0,0,1
+Molecular Function,peroxidase activity,0,0,0,8
+Molecular Function,peroxiredoxin activity,1,1,1,2
+Molecular Function,phenylalanine-tRNA ligase activity,0,0,0,4
+Molecular Function,phosphatase activity,0,0,0,2
+Molecular Function,phosphatase regulator activity,0,0,0,2
+Molecular Function,phosphate transmembrane transporter activity,0,1,0,1
+Molecular Function,phosphatidate cytidylyltransferase activity,0,0,0,1
+Molecular Function,phosphatidyl-N-methylethanolamine N-methyltransferase activity,0,0,1,1
+Molecular Function,phosphatidylcholine binding,0,1,0,5
+Molecular Function,phosphatidylcholine lysophospholipase A1 activity,0,0,0,1
+Molecular Function,phosphatidylcholine transporter activity,0,0,0,1
+Molecular Function,phosphatidylethanolamine N-methyltransferase activity,0,0,1,1
+Molecular Function,phosphatidylethanolamine binding,0,1,0,3
+Molecular Function,phosphatidylinositol binding,2,4,2,16
+Molecular Function,phosphatidylinositol phosphate binding,0,0,0,1
+Molecular Function,phosphatidylinositol transfer activity,0,0,0,1
+Molecular Function,"phosphatidylinositol-3,4,5-trisphosphate 3-phosphatase activity",0,0,0,1
+Molecular Function,"phosphatidylinositol-3,4-bisphosphate binding",0,0,0,1
+Molecular Function,"phosphatidylinositol-3,5-bisphosphate 3-phosphatase activity",0,0,1,1
+Molecular Function,"phosphatidylinositol-3,5-bisphosphate binding",0,0,0,1
+Molecular Function,phosphatidylinositol-3-phosphate binding,0,1,0,2
+Molecular Function,phosphatidylinositol-3-phosphate phosphatase activity,0,0,1,2
+Molecular Function,"phosphatidylinositol-4,5-bisphosphate 5-phosphatase activity",0,1,0,1
+Molecular Function,"phosphatidylinositol-4,5-bisphosphate binding",0,0,0,4
+Molecular Function,"phosphatidylinositol-4,5-bisphosphate phospholipase C activity",0,0,0,1
+Molecular Function,phosphatidylinositol-4-phosphate binding,0,0,0,2
+Molecular Function,phosphatidylinositol-4-phosphate phosphatase activity,0,0,0,1
+Molecular Function,phosphatidylserine binding,1,2,1,3
+Molecular Function,phosphatidylserine decarboxylase activity,0,0,0,1
+Molecular Function,phosphoacetylglucosamine mutase activity,0,0,1,1
+Molecular Function,phosphoenolpyruvate carboxykinase (GTP) activity,1,1,0,2
+Molecular Function,phosphoenolpyruvate mutase activity,0,0,1,0
+Molecular Function,phosphoethanolamine N-methyltransferase activity,0,0,0,2
+Molecular Function,phosphoglucomutase activity,0,1,0,1
+Molecular Function,phosphogluconate dehydrogenase (decarboxylating) activity,1,1,1,1
+Molecular Function,phosphoglycerate dehydrogenase activity,0,1,0,1
+Molecular Function,phosphoglycerate kinase activity,0,0,1,1
+Molecular Function,phosphoglycerate mutase activity,0,0,0,1
+Molecular Function,phospholipid binding,1,3,2,6
+Molecular Function,phospholipid scramblase activity,0,0,0,3
+Molecular Function,phosphomannomutase activity,0,0,0,1
+Molecular Function,phosphonoacetaldehyde hydrolase activity,0,0,0,1
+Molecular Function,phosphopyruvate hydratase activity,1,1,1,1
+Molecular Function,phosphoribosylaminoimidazolecarboxamide formyltransferase activity,0,0,0,1
+Molecular Function,phosphoribosylaminoimidazolesuccinocarboxamide synthase activity,0,1,0,1
+Molecular Function,phosphoric diester hydrolase activity,0,1,0,0
+Molecular Function,"phosphotransferase activity, for other substituted phosphate groups",0,0,0,1
+Molecular Function,phosphotyrosine residue binding,0,0,0,1
+Molecular Function,poly(A) binding,0,0,0,1
+Molecular Function,polypeptide N-acetylgalactosaminyltransferase activity,0,0,0,4
+Molecular Function,polysaccharide binding,0,0,0,1
+Molecular Function,polyubiquitin modification-dependent protein binding,1,1,1,5
+Molecular Function,porin activity,0,0,0,2
+Molecular Function,potassium channel activity,0,0,0,1
+Molecular Function,potassium ion binding,0,0,0,1
+Molecular Function,potassium:chloride symporter activity,0,0,0,1
+Molecular Function,pre-mRNA 5'-splice site binding,0,0,0,1
+Molecular Function,pre-mRNA binding,0,0,0,1
+Molecular Function,pre-mRNA intronic binding,0,1,1,1
+Molecular Function,primary methylamine oxidase activity,0,0,0,5
+Molecular Function,procollagen-lysine 5-dioxygenase activity,0,0,0,1
+Molecular Function,procollagen-proline 3-dioxygenase activity,0,0,0,1
+Molecular Function,procollagen-proline 4-dioxygenase activity,0,1,0,2
+Molecular Function,proline-tRNA ligase activity,0,0,1,1
+Molecular Function,propionyl-CoA carboxylase activity,0,0,1,1
+Molecular Function,prostaglandin F synthase activity,0,0,0,1
+Molecular Function,prostaglandin-E synthase activity,0,0,0,1
+Molecular Function,prostaglandin-endoperoxide synthase activity,0,0,0,1
+Molecular Function,protease binding,1,2,2,3
+Molecular Function,proteasome binding,0,0,0,3
+Molecular Function,protein dimerization activity,0,0,1,12
+Molecular Function,protein disulfide isomerase activity,1,3,0,8
+Molecular Function,protein domain specific binding,0,1,0,1
+Molecular Function,protein farnesyltransferase activity,0,0,0,1
+Molecular Function,protein folding chaperone,0,0,0,3
+Molecular Function,protein heterodimerization activity,3,3,5,7
+Molecular Function,protein homodimerization activity,0,0,0,2
+Molecular Function,protein kinase A catalytic subunit binding,1,0,2,2
+Molecular Function,protein kinase A regulatory subunit binding,0,0,0,1
+Molecular Function,protein kinase C binding,0,1,0,0
+Molecular Function,protein kinase activator activity,0,0,0,1
+Molecular Function,protein kinase activity,0,2,1,8
+Molecular Function,protein kinase binding,0,1,1,6
+Molecular Function,protein kinase regulator activity,0,0,0,1
+Molecular Function,protein phosphatase activator activity,0,1,1,2
+Molecular Function,protein phosphatase binding,0,0,0,1
+Molecular Function,protein phosphatase regulator activity,1,1,2,4
+Molecular Function,protein serine/threonine kinase activator activity,0,0,1,1
+Molecular Function,protein serine/threonine kinase activity,0,2,10,18
+Molecular Function,protein serine/threonine phosphatase activity,2,2,4,7
+Molecular Function,protein serine/threonine/tyrosine kinase activity,0,0,0,1
+Molecular Function,protein transmembrane transporter activity,0,1,0,5
+Molecular Function,protein tyrosine kinase activity,0,0,1,2
+Molecular Function,protein tyrosine phosphatase activity,0,0,0,7
+Molecular Function,protein-L-histidine N-tele-methyltransferase activity,0,0,0,1
+Molecular Function,protein-L-isoaspartate (D-aspartate) O-methyltransferase activity,0,0,0,1
+Molecular Function,protein-arginine N-methyltransferase activity,0,0,0,1
+Molecular Function,protein-arginine omega-N asymmetric methyltransferase activity,0,1,0,1
+Molecular Function,protein-arginine omega-N monomethyltransferase activity,0,1,0,1
+Molecular Function,protein-containing complex binding,0,0,0,2
+Molecular Function,protein-cysteine S-palmitoyltransferase activity,0,0,0,2
+Molecular Function,protein-disulfide reductase [NAD(P)H] activity,0,0,0,1
+Molecular Function,protein-disulfide reductase activity,0,2,0,5
+Molecular Function,protein-folding chaperone binding,0,0,1,7
+Molecular Function,protein-glutamine gamma-glutamyltransferase activity,0,0,0,1
+Molecular Function,protein-lysine 6-oxidase activity,0,0,0,2
+Molecular Function,protein-lysine N-methyltransferase activity,0,0,0,1
+Molecular Function,protein-macromolecule adaptor activity,0,0,0,2
+Molecular Function,protein-membrane adaptor activity,0,0,0,2
+Molecular Function,proton transmembrane transporter activity,0,0,0,4
+Molecular Function,proton-translocating NAD(P)+ transhydrogenase activity,0,1,0,1
+Molecular Function,"proton-transporting ATP synthase activity, rotational mechanism",2,3,2,6
+Molecular Function,"proton-transporting ATPase activity, rotational mechanism",1,4,4,10
+Molecular Function,pseudouridine synthase activity,0,0,0,1
+Molecular Function,purine-nucleoside phosphorylase activity,0,0,0,1
+Molecular Function,purine-rich negative regulatory element binding,0,0,0,1
+Molecular Function,purinergic nucleotide receptor activity,0,0,0,1
+Molecular Function,pyridoxal 5'-phosphate synthase (glutamine hydrolysing) activity,0,0,0,1
+Molecular Function,pyridoxal kinase activity,0,0,0,1
+Molecular Function,pyridoxal phosphate binding,0,2,3,29
+Molecular Function,pyridoxamine phosphate oxidase activity,0,0,0,1
+Molecular Function,pyrroline-2-carboxylate reductase activity,0,0,0,1
+Molecular Function,pyrroline-5-carboxylate reductase activity,0,0,0,1
+Molecular Function,pyruvate carboxylase activity,0,1,0,1
+Molecular Function,pyruvate dehydrogenase (acetyl-transferring) activity,0,0,0,1
+Molecular Function,pyruvate kinase activity,0,0,0,1
+Molecular Function,quinol-cytochrome-c reductase activity,0,0,0,1
+Molecular Function,quinone binding,0,0,0,6
+Molecular Function,quinone reductase (NADPH) activity,0,0,0,4
+Molecular Function,rRNA binding,1,1,3,5
+Molecular Function,rRNA methyltransferase activity,0,0,1,1
+Molecular Function,"racemase and epimerase activity, acting on carbohydrates and derivatives",0,0,0,1
+Molecular Function,receptor antagonist activity,0,0,0,4
+Molecular Function,receptor tyrosine kinase binding,0,1,1,3
+Molecular Function,ribokinase activity,0,0,0,1
+Molecular Function,ribonuclease III activity,0,0,0,2
+Molecular Function,ribonuclease inhibitor activity,0,0,0,1
+Molecular Function,ribonucleoprotein complex binding,0,0,0,1
+Molecular Function,ribonucleoside binding,0,0,0,1
+Molecular Function,ribonucleoside triphosphate phosphatase activity,0,0,0,1
+Molecular Function,ribosomal large subunit binding,0,0,1,1
+Molecular Function,ribosome binding,1,1,2,6
+Molecular Function,saccharopine dehydrogenase activity,0,0,0,1
+Molecular Function,sarcosine oxidase activity,0,0,0,1
+Molecular Function,scavenger receptor activity,0,0,0,1
+Molecular Function,selenium binding,0,0,0,2
+Molecular Function,semaphorin receptor activity,0,0,1,1
+Molecular Function,sequence-specific DNA binding,0,0,0,6
+Molecular Function,serine C-palmitoyltransferase activity,0,0,0,1
+Molecular Function,serine hydrolase activity,0,0,0,1
+Molecular Function,serine-tRNA ligase activity,1,1,1,2
+Molecular Function,serine-type carboxypeptidase activity,0,0,0,2
+Molecular Function,serine-type endopeptidase activity,0,1,2,25
+Molecular Function,serine-type endopeptidase inhibitor activity,0,0,1,15
+Molecular Function,serine-type exopeptidase activity,0,0,0,2
+Molecular Function,serine-type peptidase activity,0,1,1,6
+Molecular Function,short-chain fatty acyl-CoA dehydrogenase activity,0,0,1,1
+Molecular Function,signal peptidase activity,0,0,1,1
+Molecular Function,signal recognition particle binding,0,0,0,1
+Molecular Function,signaling adaptor activity,0,0,0,2
+Molecular Function,signaling receptor activity,0,1,1,8
+Molecular Function,signaling receptor complex adaptor activity,0,0,0,1
+Molecular Function,single-stranded DNA binding,0,0,0,3
+Molecular Function,single-stranded DNA helicase activity,0,0,0,1
+Molecular Function,single-stranded RNA binding,0,0,0,1
+Molecular Function,small GTPase binding,0,0,4,15
+Molecular Function,small ribosomal subunit rRNA binding,0,0,1,2
+Molecular Function,snRNP binding,0,0,1,1
+Molecular Function,snoRNA binding,0,0,1,1
+Molecular Function,sodium channel activity,0,0,0,1
+Molecular Function,sodium:bicarbonate symporter activity,0,1,0,1
+Molecular Function,sodium:chloride symporter activity,0,0,0,4
+Molecular Function,sodium:phosphate symporter activity,0,0,0,1
+Molecular Function,sodium:potassium:chloride symporter activity,0,0,0,1
+Molecular Function,soluble NSF attachment protein activity,0,0,0,1
+Molecular Function,solute:inorganic anion antiporter activity,0,1,0,2
+Molecular Function,spectrin binding,0,0,0,1
+Molecular Function,spermidine synthase activity,0,0,0,1
+Molecular Function,sphinganine-1-phosphate aldolase activity,0,0,0,1
+Molecular Function,sphingomyelin phosphodiesterase activity,0,0,0,1
+Molecular Function,sphingosine N-acyltransferase activity,0,0,0,1
+Molecular Function,steroid 17-alpha-monooxygenase activity,0,0,0,4
+Molecular Function,steroid 21-monooxygenase activity,0,0,0,1
+Molecular Function,steroid hydroxylase activity,0,0,0,5
+Molecular Function,sterol binding,0,1,1,3
+Molecular Function,store-operated calcium channel activity,0,0,0,1
+Molecular Function,structural constituent of chromatin,3,3,5,10
+Molecular Function,structural constituent of cytoskeleton,4,6,7,11
+Molecular Function,structural constituent of nuclear pore,0,0,0,9
+Molecular Function,structural constituent of ribosome,6,13,17,62
+Molecular Function,structural molecule activity,2,8,5,13
+Molecular Function,succinate dehydrogenase (quinone) activity,1,0,1,2
+Molecular Function,succinate-CoA ligase (ADP-forming) activity,0,1,0,2
+Molecular Function,succinate-CoA ligase (GDP-forming) activity,0,0,0,2
+Molecular Function,succinate-semialdehyde dehydrogenase (NAD+) activity,1,1,1,1
+Molecular Function,sugar transmembrane transporter activity,0,0,0,1
+Molecular Function,sulfate adenylyltransferase (ATP) activity,0,0,0,1
+Molecular Function,sulfide:quinone oxidoreductase activity,0,0,0,1
+Molecular Function,sulfotransferase activity,0,0,0,2
+Molecular Function,sulfur dioxygenase activity,0,0,0,1
+Molecular Function,sulfuric ester hydrolase activity,0,0,0,4
+Molecular Function,superoxide dismutase activity,0,1,0,2
+Molecular Function,symporter activity,0,0,1,3
+Molecular Function,syntaxin binding,0,2,0,3
+Molecular Function,"tRNA (uracil(54)-C5)-methyltransferase activity, S-adenosyl methionine-dependent",0,0,0,1
+Molecular Function,tRNA N(6)-L-threonylcarbamoyladenine synthase activity,0,0,0,1
+Molecular Function,tRNA binding,0,1,1,6
+Molecular Function,tRNA threonylcarbamoyladenosine dehydratase activity,0,0,1,0
+Molecular Function,telomeric DNA binding,0,0,0,1
+Molecular Function,tetrahydrofolylpolyglutamate synthase activity,0,0,1,1
+Molecular Function,thiamine pyrophosphate binding,0,0,1,4
+Molecular Function,thiolester hydrolase activity,0,0,0,1
+Molecular Function,thiomorpholine-carboxylate dehydrogenase activity,0,0,0,1
+Molecular Function,thiopurine S-methyltransferase activity,0,0,0,1
+Molecular Function,thioredoxin peroxidase activity,2,1,2,3
+Molecular Function,thioredoxin-disulfide reductase (NADPH) activity,0,0,0,2
+Molecular Function,thiosulfate-cyanide sulfurtransferase activity,0,0,0,1
+Molecular Function,threonine-tRNA ligase activity,0,2,1,2
+Molecular Function,threonine-type endopeptidase activity,0,0,1,1
+Molecular Function,toxin activity,0,1,0,13
+Molecular Function,trans-L-3-hydroxyproline dehydratase activity,0,1,0,1
+Molecular Function,transaldolase activity,0,0,0,2
+Molecular Function,transaminase activity,0,0,0,1
+Molecular Function,transcription coactivator activity,0,0,0,3
+Molecular Function,transcription coregulator activity,0,0,0,2
+Molecular Function,transcription corepressor activity,0,0,1,4
+Molecular Function,transferase activity,1,1,3,4
+Molecular Function,transforming growth factor beta binding,0,0,0,1
+Molecular Function,transition metal ion binding,0,0,0,1
+Molecular Function,transketolase activity,0,0,1,2
+Molecular Function,translation elongation factor activity,2,3,3,7
+Molecular Function,translation initiation factor activity,2,2,6,23
+Molecular Function,translation initiation factor binding,0,0,0,2
+Molecular Function,translation regulator activity,0,0,1,1
+Molecular Function,translation release factor activity,0,0,0,1
+Molecular Function,transmembrane receptor protein tyrosine kinase activity,1,0,2,9
+Molecular Function,transmembrane signaling receptor activity,0,0,0,3
+Molecular Function,transmembrane transporter activity,0,0,0,12
+Molecular Function,transmembrane transporter binding,0,0,0,1
+Molecular Function,transmembrane-ephrin receptor activity,0,0,0,1
+Molecular Function,triacylglycerol lipase activity,0,0,0,1
+Molecular Function,triose-phosphate isomerase activity,0,1,0,2
+Molecular Function,tripeptidyl-peptidase activity,0,0,1,0
+Molecular Function,tropomyosin binding,0,0,0,1
+Molecular Function,tryptophan-tRNA ligase activity,0,0,1,1
+Molecular Function,tubulin binding,1,0,2,3
+Molecular Function,tubulin-glutamic acid ligase activity,0,0,1,0
+Molecular Function,tumor necrosis factor receptor binding,0,0,0,1
+Molecular Function,tyrosine-tRNA ligase activity,0,0,1,1
+Molecular Function,ubiquitin activating enzyme activity,0,0,0,2
+Molecular Function,ubiquitin binding,0,1,0,8
+Molecular Function,ubiquitin conjugating enzyme activity,0,1,0,2
+Molecular Function,ubiquitin conjugating enzyme binding,0,0,0,2
+Molecular Function,ubiquitin protein ligase activity,0,0,2,8
+Molecular Function,ubiquitin protein ligase binding,1,1,1,2
+Molecular Function,ubiquitin-like modifier activating enzyme activity,0,0,1,0
+Molecular Function,ubiquitin-like protein transferase activity,0,0,0,1
+Molecular Function,ubiquitin-protein transferase activity,0,0,0,4
+Molecular Function,unfolded protein binding,4,7,10,27
+Molecular Function,urate oxidase activity,0,0,0,1
+Molecular Function,urease activity,0,0,0,1
+Molecular Function,uridine kinase activity,0,0,0,1
+Molecular Function,urocanate hydratase activity,0,0,1,1
+Molecular Function,uroporphyrinogen decarboxylase activity,0,0,0,1
+Molecular Function,valine-tRNA ligase activity,0,0,0,1
+Molecular Function,very-long-chain fatty acyl-CoA dehydrogenase activity,0,1,0,1
+Molecular Function,vitamin binding,0,0,0,1
+Molecular Function,vitamin-K-epoxide reductase (warfarin-sensitive) activity,0,0,0,1
+Molecular Function,voltage-gated calcium channel activity,0,1,0,1
+Molecular Function,voltage-gated channel activity,0,0,0,1
+Molecular Function,voltage-gated monoatomic anion channel activity,0,0,0,1
+Molecular Function,"xylosyl alpha-1,3-xylosyltransferase activity",0,0,0,1
+Molecular Function,zinc ion binding,4,5,11,75
