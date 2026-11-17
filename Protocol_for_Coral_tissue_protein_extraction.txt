@@ -1,0 +1,60 @@
+28 April 2026
+
+Mass Spectrometry Core Facility BRIC-RGCB, Thiruvananthapuram
+
+Protein Extraction Protocol from Coral tissue samples
+
+Equipment Required:
+
+•	Vacuum freeze dryer (or Lyophilizer) (Operon Co., Ltd. Model: FDB-5502)
+•	Table top Centrifuge (Eppendorf, 5424R)
+•	Mixmate vortex mixer
+•	Bath-sonicator (Elmasonic S 15 (H))
+•	SpeedVac Concentrator (Thermo Scientific Savant SPD1010)
+•	Homogenizer (Cole-Parmer, Spex HG-200)
+•	3 kDa MWCO filter (P/N: UFC500324, Millipore Amicon)
+•	Pierce™ C18 Spin Columns (P/N 89870, Thermo Scientific)
+
+Chemicals Required:
+
+•	High purity (LC/MS-grade, A456-4) Methanol 
+•	Urea (P/N: U5378, Sigma-Aldrich)
+•	Ammonium Bicarbonate (A6141-500G, Sigma-Aldrich)
+•	Dithiothreitol, DTT (P/N: 43819-5G, Sigma-Aldrich)
+•	Iodoacetamide, IAA (P/N: I1149-25G, Sigma-Aldrich)
+•	Formic acid (P/N: A117, Fischer Chemical)
+•	MS-grade trypsin (P/N: T6567-5X20UG, Merck
+
+Sample Preparation
+
+•	Tissue sample crushed to powder under liquid nitrogen
+•	Lyophilize the samples for completely dried powder (16 hours)
+•	Weigh 50–100 mg (typically 50 mg) of powdered tissue and transfer into bead rupture tubes containing beads 
+•	Add 300 µL homogenizing buffer (8 M urea in 50 mM ammonium bicarbonate buffer). 
+•	Homogenize using a bead rupture for 3 cycles at 2000 rpm (10 seconds shaking followed by 15 seconds rest)
+•	Transfer the homogenate into new MCT (micro centrifuge tube) 
+•	Vortex the homogenate with urea buffer for 10 minutes at 4⁰C
+•	Sonicate in water bath sonicator for 5 minutes on ice
+•	Repeat the steps 7 and 8 for total of 3 cycles 
+•	Check for the presence of any slimy threads. If present, repeat the steps 7 and 8 for 2 more times or until the solution becomes clear without its presence.
+•	Centrifuge the lysate at 16,000 × g for 10 minutes at 4°C
+•	Carefully separate the supernatant and transfer into a new microcentrifuge tube
+•	Desalting and buffer exchange using 3 kDa MWCO Centrifugal Filter
+•	Determine the protein concentration of the supernatant using BCA Protein Assay Kit
+
+Protein Digestion
+•	Transfer the supernatant corresponding to 25µg protein into a new microcentrifuge tube.
+•	Add 2 µl of 100 mM Dithiothreitol, (DTT) to protein sample
+•	Incubate at 60°C for 30 min in vortex mixer
+•	Add 2 µl of 200 mM iodoacetamide (IAA).
+•	Incubate in the dark at room temperature for 30 min.
+•	Add 3 µl of trypsin.  (Trypsin prepared at a concentration of 0.4 µg/ µL in 50 mM ammonium bicarbonate)
+•	Incubate at 37°C overnight with gentle shaking.
+•	Add 1 µl of 1% formic acid to stop the reaction.
+•	Incubate at 37°C for 20 min in vortex mixer
+•	Digested peptides are cleaned using C18 spin column
+•	Resuspend the peptides in 30uL of 0.1% formic acid
+•	Vortex and transfer to LC-MS vials
+
+
+

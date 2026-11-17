@@ -1,0 +1,81 @@
+Instrument: Orbitrap Eclipse Tribrid mass spectrometer (Thermo Scientific)
+MS parameters summary
+Method Settings
+Application Mode:   Peptide
+Method Duration (min):   145
+Global Parameters
+Ion Source
+Ion Source Type:   NSI
+Spray Voltage:   Static
+Positive Ion (V):   1400
+Negative Ion (V):   600
+Gas Mode:   Static
+Sweep Gas (Arb):   0
+Ion Transfer Tube Temp (°C):   275
+Use Ion Source Settings from Tune:   False
+FAIMS Mode:   Not Installed
+MS Global Settings
+Infusion Mode:   Liquid Chromatography
+Expected LC Peak Width (s):   10
+Advanced Peak Determination:   False
+Default Charge State:   2
+Internal Mass Calibration:   Off
+Experiment#1 [MS]
+Start Time (min):   0
+End Time (min):   145
+Cycle Time (sec):   3
+Master Scan:
+MS OT 
+Detector Type:   Orbitrap
+Orbitrap Resolution:   120000
+Mass Range:   Normal
+Use Quadrupole Isolation:   True
+Scan Range (m/z):   350-1650
+RF Lens (%):   50
+AGC Target:   Standard
+Maximum Injection Time Mode:   Auto
+Microscans:   1
+Data Type:   Profile
+Polarity:   Positive
+Source Fragmentation:   Disabled
+Scan Description:   
+Filters:
+MIPS
+Monoisotopic Peak Determination:   Peptide
+Intensity
+Filter Type:   Intensity Threshold
+Intensity Threshold:   1.0e4
+Charge State
+Include charge state(s):   2-7
+Include undetermined charge states:   False
+Dynamic Exclusion
+Exclude after n times:   1
+Exclusion duration (s):   6
+Mass Tolerance:   ppm
+Low:   10
+High:   10
+Exclude Isotopes:   True
+Perform dependent scan on single charge state per precursor only:   False
+Data Dependent
+Data Dependent Mode:   Cycle Time
+Time between Master Scans (sec):   3
+Scan Event Type 1:
+Scan:
+ddMS² IT HCD
+Isolation Mode:   Quadrupole
+Isolation Window (m/z):   1.6
+Isolation Offset:   Off
+Activation Type:   HCD
+Collision Energy Mode:   Fixed
+HCD Collision Energy Type:   Normalized
+HCD Collision Energy (%):   28
+Detector Type:   Ion Trap
+Ion Trap Scan Rate:   Rapid
+Mass Range:   Normal
+Scan Range Mode:   Auto
+AGC Target:   Standard
+Maximum Injection Time Mode:   Auto
+Microscans:   1
+Data Type:   Centroid
+Scan Description:   
+
