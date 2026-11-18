@@ -90,9 +90,7 @@ Stella Maris College (Autonomous), Chennai
 Email: dhanushiya3121@gmail.com
 
 **Santhosh M E**  
-Doctoral Researcher  
-Vellore Institute of Technology (VIT), Vellore  
-Email: santhosh.me@vit.ac.in
+Doctoral Researcher  Vellore Institute of Technology (VIT), Vellore  Email: santhosh.me@vit.ac.in
 
 **Dr. George Priya Doss C**  
 Professor  
