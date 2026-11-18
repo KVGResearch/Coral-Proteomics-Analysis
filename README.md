@@ -74,7 +74,7 @@ Annotations are cached in `annotation_cache.json` to reduce repeated requests. E
 
 ## Authors
 
-**Dr.Veena Gayathri Krishnaswamy**
+**Dr. Veena Gayathri Krishnaswamy**
 Associate Professor
 Stella Maris College (Autonomous), Chennai
 Email: veenagayathri@stellamariscollege.edu.in
