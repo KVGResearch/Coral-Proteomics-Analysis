@@ -74,7 +74,7 @@ Annotations are cached in `annotation_cache.json` to reduce repeated requests. E
 
 ## Authors
 
-**Dr.K.Veena Gayathri**
+**Dr.Veena Gayathri Krishnaswamy**
 Associate Professor
 Stella Maris College (Autonomous), Chennai
 Email: veenagayathri@stellamariscollege.edu.in
@@ -93,7 +93,7 @@ Email: dhanushiya3121@gmail.com
 
 **Dr. George Priya Doss C**  Professor  Vellore Institute of Technology (VIT), Vellore  Email: georgepriyadoss@vit.ac.in
 
-**Dr. Raj kumar rajan C**
+**Dr. Raj Kumar Rajan C**
 Scientist E,
 Marine Biology Regional Centre, Zoological Survey of India, Chennai
 Email: rajkumarrajan7@gmail.com
