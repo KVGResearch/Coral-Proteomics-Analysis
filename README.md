@@ -76,29 +76,33 @@ Annotations are cached in `annotation_cache.json` to reduce repeated requests. E
 
 **Dr.K.Veena Gayathri**
 Associate Professor
-Stella Maris College(Autonomous), Chennai
+Stella Maris College (Autonomous), Chennai
 Email: veenagayathri@stellamariscollege.edu.in
 
 **Harini N.P**
 Research Scholar
-Stella Maris College(Autonomous), Chennai
+Stella Maris College (Autonomous), Chennai
 Email: harininallappa@gmail.com
 
-**R.Dhanushiya**
+**R. Dhanushiya**
 Research Scholar
-Stella Maris College(Autonomous), Chennai
+Stella Maris College (Autonomous), Chennai
 Email: dhanushiya3121@gmail.com
-
-**Dr. George Priya Doss C**  
-Professor  
-Vellore Institute of Technology (VIT), Vellore  
-Email: georgepriyadoss@vit.ac.in
 
 **Santhosh M E**  
 Doctoral Researcher  
 Vellore Institute of Technology (VIT), Vellore  
 Email: santhosh.me@vit.ac.in
 
+**Dr. George Priya Doss C**  
+Professor  
+Vellore Institute of Technology (VIT), Vellore  
+Email: georgepriyadoss@vit.ac.in
+
+**Dr. Raj kumar rajan C**
+Scientist E,
+Marine Biology Regional Centre, Zoological Survey of India, Chennai
+Email: rajkumarrajan7@gmail.com
 
 ## Data sharing
 
