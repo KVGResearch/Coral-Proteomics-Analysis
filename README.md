@@ -74,15 +74,31 @@ Annotations are cached in `annotation_cache.json` to reduce repeated requests. E
 
 ## Authors
 
-**Santhosh M E**  
-Doctoral Researcher  
-Vellore Institute of Technology (VIT), Vellore  
-Email: santhosh.me@vit.ac.in
+**Dr.K.Veena Gayathri**
+Associate Professor
+Stella Maris College(Autonomous), Chennai
+Email: veenagayathri@stellamariscollege.edu.in
+
+**Harini N.P**
+Research Scholar
+Stella Maris College(Autonomous), Chennai
+Email: harininallappa@gmail.com
+
+**R.Dhanushiya**
+Research Scholar
+Stella Maris College(Autonomous), Chennai
+Email: dhanushiya3121@gmail.com
 
 **Dr. George Priya Doss C**  
 Professor  
 Vellore Institute of Technology (VIT), Vellore  
 Email: georgepriyadoss@vit.ac.in
+
+**Santhosh M E**  
+Doctoral Researcher  
+Vellore Institute of Technology (VIT), Vellore  
+Email: santhosh.me@vit.ac.in
+
 
 ## Data sharing
 
